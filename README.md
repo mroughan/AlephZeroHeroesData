@@ -1,6 +1,6 @@
 # AlephZeroHeroesData
 
-## Data from [aleph-zero-heroes](http://bandicoot.maths.adelaide.edu.au/public/aleph-zero-heroes/)
+## Data from [aleph-zero-heroes](http://www.aleph-zero-heroes.info/)
 
 Somewhat minimal to start with, but the plan is to put all data here.
 
