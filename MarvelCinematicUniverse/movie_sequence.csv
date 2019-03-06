@@ -1,0 +1,25 @@
+Code,Phase,ReleaseYear,SettingYear,SettingMonth,Title,Notes
+a,1,2008,2010,October,Iron Man,
+b,1,2010,2011,May,Iron Man 2, Nick Fury's big week
+c,1,2008,2011,May,The Incredible Hulk, Nick Fury's big week
+d,1,2011,2011,May,Thor, Nick Fury's big week
+e,1,2011,2012,April,Captain America: The First Avenger,note that this is the modern part of the movie
+f,1,2012,2012,May,The Avengers,
+g,2,2013,2012,December,Iron Man 3, flash backs aren't included in the time line
+h,2,2013,2013,November,Thor: The Dark World,
+i,2,2014,2014,April,Captain America: The Winter Soldier,
+j,2,2014,2014,August,Guardians of the Galaxy,
+k,3,2017,2014,October,Guardians of the Galaxy Vol. 2,not in release sequence
+l,2,2015,2015,May,Avengers: Age of Ultron,
+m,2,2015,2015,July,Ant-Man,
+n,3,2016,2016,June,Captain America: Civil War,
+o,3,2018,2016,June,Black Panther,
+p,3,2017,2016,September,Spider-Man: Homecoming,
+q,3,2016,2016,May,Doctor Strange,"happens over 2016-2017, so month is arbitrary"
+r,3,2017,2017,June,Thor: Ragnarok,
+s,3,2018,2017,July,Avengers: Infinity War,
+t,3,2018,2017,July,Ant-Man and the Wasp,in parallel with Infinity War
+u,4,2019,2018,,Captain Marvel,"release date March 8th, 2019"
+v,4,2019,2018,,Avengers: Endgame,"release date April 26th, 2019"
+w,4,2019,2018,,Spider-Man: Far From Home,"release date July 5th, 2019"
+
