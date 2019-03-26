@@ -13,3 +13,6 @@ things along the way.
 
 Code may make its way here as well, if its actually useful to anyone.
 
+## To Do
+
+Eventually there will be a DOI or paper, or other formal reference point if you want to refer to this. Haven't quite got there yet.
