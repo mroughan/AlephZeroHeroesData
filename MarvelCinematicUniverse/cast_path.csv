@@ -6,12 +6,12 @@ Alexander Pierce,"Captain America: The Winter Soldier", i
 Ant-Man,"Ant-Man, Captain America: Civil War, Ant-Man and the Wasp, Avengers: Endgame", mntv
 Betty Ross,"The Incredible Hulk", c
 Black Panther,"Captain America: Civil War, Black Panther, Avengers: Infinity War, Avengers: Endgame", nosv
-Black Widow,"Iron Man 2, The Avengers, Captain America: The Winter Soldier, Avengers: Age of Ultron, Captain America: Civil War, Thor: Ragnarok, Avengers: Infinity War, Avengers: Endgame", bfilnrsv
-Captain America,"Captain America: The First Avenger, The Avengers, Captain America: The Winter Soldier, Avengers: Age of Ultron, Ant-Man, Captain America: Civil War, Spider-Man: Homecoming, Avengers: Infinity War, Avengers: Endgame", efilmnpsv
+Black Widow,"Iron Man 2, The Avengers, Captain America: The Winter Soldier, Avengers: Age of Ultron, Captain America: Civil War, Thor: Ragnarok, Avengers: Infinity War, Captain Marvel, Avengers: Endgame", bfilnrsuv
+Captain America,"Captain America: The First Avenger, The Avengers, Captain America: The Winter Soldier, Avengers: Age of Ultron, Ant-Man, Captain America: Civil War, Spider-Man: Homecoming, Avengers: Infinity War, Captain Marvel, Avengers: Endgame", efilmnpsuv
 Captain Marvel,"Captain Marvel, Avengers: Endgame", uv
 Carina,"Thor: The Dark World, Guardians of the Galaxy", hj
 Christine Everhart,"Iron Man, Iron Man 2", ab
-Coulson,"Iron Man, Iron Man 2, Thor, The Avengers, Captain Marvel", abdfu
+Coulson,"Iron Man, Iron Man 2, The Incredible Hulk, Thor, The Avengers, Captain Marvel", abcdfu
 Crossbones,"Captain America: The Winter Soldier, Captain America: Civil War, Avengers: Endgame", inv
 Darcy Lewis,"Thor, Thor: The Dark World", dh
 Doctor Strange,"Doctor Strange, Thor: Ragnarok, Avengers: Infinity War", qrs
@@ -35,7 +35,8 @@ Hela,"Thor: Ragnarok", r
 Hogun,"Thor, Thor: The Dark World, Thor: Ragnarok", dhr
 Howard Stark,"Iron Man, Iron Man 2, Captain America: The First Avenger, Ant-Man, Captain America: Civil War", abemn
 Howard the Duck,"Guardians of the Galaxy, Guardians of the Galaxy Vol. 2", jk
-Hulk,"The Incredible Hulk, The Avengers, Iron Man 3, Avengers: Age of Ultron, Thor: Ragnarok, Avengers: Infinity War, Avengers: Endgame", cfglrsv
+Hulk,"The Incredible Hulk, The Avengers, Iron Man 3, Avengers: Age of Ultron, Thor: Ragnarok, Avengers: Infinity War, Captain Marvel, Avengers: Endgame", cfglrsuv
+Hydra Soldier,"Captain America: The First Avenger, Captain America: The Winter Soldier, Avengers: Age of Ultron, Ant-Man, Captain America: Civil War", eilmn
 Iron Man,"Iron Man, Iron Man 2, The Incredible Hulk, The Avengers, Iron Man 3, Avengers: Age of Ultron, Captain America: Civil War, Spider-Man: Homecoming, Avengers: Infinity War, Avengers: Endgame", abcfglnpsv
 Iron Monger,"Iron Man", a
 Jane Foster,"Thor, Thor: The Dark World", dh
@@ -66,9 +67,10 @@ Pym,"Ant-Man, Ant-Man and the Wasp", mt
 Quicksilver,"Captain America: The Winter Soldier, Avengers: Age of Ultron", il
 Red Skull,"Captain America: The First Avenger, Avengers: Infinity War", es
 Rocket,"Guardians of the Galaxy, Guardians of the Galaxy Vol. 2, Avengers: Infinity War, Avengers: Endgame", jksv
+Ronan,"Guardians of the Galaxy, Captain Marvel", ju
 Ross,"The Incredible Hulk, Captain America: Civil War, Avengers: Infinity War", cns
 SHIELD Agent,"Thor, Captain America: The First Avenger, The Avengers, Captain America: The Winter Soldier, Avengers: Age of Ultron, Captain Marvel, Avengers: Endgame", defiluv
-SHIELD Tech,"Captain America: The First Avenger, Captain America: The Winter Soldier", ei
+SHIELD Tech,"Captain America: The First Avenger, Captain America: The Winter Soldier, Captain Marvel", eiu
 Scarlet Witch,"Captain America: The Winter Soldier, Avengers: Age of Ultron, Captain America: Civil War, Avengers: Infinity War, Avengers: Endgame", ilnsv
 Selvig,"Thor, The Avengers, Thor: The Dark World, Avengers: Age of Ultron", dfhl
 Senator Stern,"Iron Man 2, Captain America: The Winter Soldier", bi
@@ -77,7 +79,7 @@ Shuri,"Black Panther, Avengers: Infinity War, Avengers: Endgame", osv
 Sif,"Thor, Thor: The Dark World", dh
 Sitwell,"Captain America: The Winter Soldier", i
 Spider-Man,"Iron Man 2, Captain America: Civil War, Spider-Man: Homecoming, Avengers: Infinity War, Avengers: Endgame, Spider-Man: Far From Home", bnpsvw
-Stan Lee,"Iron Man, Iron Man 2, The Avengers, Thor: The Dark World, Avengers: Age of Ultron", abfhl
+Stan Lee,"Iron Man, Iron Man 2, The Avengers, Thor: The Dark World, Avengers: Age of Ultron, Captain Marvel", abfhlu
 Star-Lord,"Guardians of the Galaxy, Guardians of the Galaxy Vol. 2, Avengers: Infinity War", jks
 Surtur,"Thor: Ragnarok", r
 T'Chaka,"Captain America: Civil War, Black Panther", no
@@ -92,11 +94,11 @@ Ultron,"Avengers: Age of Ultron", l
 Ulysses Klaue,"Avengers: Age of Ultron, Black Panther", lo
 Uzman,"Ant-Man and the Wasp", t
 Valkyrie,"Thor: Ragnarok", r
-Vision,"Iron Man, Iron Man 2, The Avengers, Iron Man 3, Avengers: Age of Ultron, Captain America: Civil War, Avengers: Infinity War", abfglns
+Vision,"Avengers: Age of Ultron, Captain America: Civil War, Avengers: Infinity War", lns
 Volstagg,"Thor, Thor: The Dark World, Thor: Ragnarok", dhr
 Vulture,"Spider-Man: Homecoming", p
 W'Kabi,"Black Panther", o
-War Machine,"Iron Man, Iron Man 2, Iron Man 3, Avengers: Age of Ultron, Captain America: Civil War, Avengers: Infinity War, Avengers: Endgame", abglnsv
+War Machine,"Iron Man, Iron Man 2, Iron Man 3, Avengers: Age of Ultron, Captain America: Civil War, Avengers: Infinity War, Captain Marvel, Avengers: Endgame", abglnsuv
 Wasp,"Ant-Man, Ant-Man and the Wasp, Avengers: Endgame", mtv
 Whiplash,"Iron Man, Iron Man 2", ab
 Wong,"Doctor Strange, Avengers: Infinity War, Avengers: Endgame", qsv
