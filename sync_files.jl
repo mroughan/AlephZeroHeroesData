@@ -18,7 +18,7 @@ for k in keys(config["Sources"])
     if typeof(config["Sources"][k]["FILES"]) <: Array
         files = config["Sources"][k]["FILES"]
     elseif typeof(config["Sources"][k]["FILES"]) <: String
-        files = split(config["Sources"][k]["FILES"], ",")
+        files = strip.(split(config["Sources"][k]["FILES"], ","))
     else
         error("improper config type: typeof(FILES) = $(typeof(config["Sources"][k]["FILES"])), ")
     end
