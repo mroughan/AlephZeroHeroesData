@@ -1,0 +1,55 @@
+{{ if .Get "maxLines"}}
+   {{ $.Scratch.Set "maxLines" (.Get "maxLines" | int)  }}
+{{ else }}
+   {{ $.Scratch.Set "maxLines" 1000 }}
+{{ end }}
+  
+{{ if .Get "colStyle"}}
+   {{ $.Scratch.Set "colStyle" (.Get "colStyle")  }}
+{{ else }}
+   {{ $.Scratch.Set "colStyle" "" }}
+{{ end }}
+  
+{{ if .Get "src"}}
+   {{- $src := .Get "src" -}}
+   {{ if (fileExists $src) -}}
+
+{{ if .Get "link"}}
+   {{ $.Scratch.Set "link" (.Get "link")  }}
+{{ else }}
+   {{ $.Scratch.Set "link" ( replace $src "static/" "" ) }}
+{{ end }}
+  
+<a href="{{ $.Scratch.Get "link" | absURL}}" target="_blank">
+<div align=center>   
+<table class="table">
+  {{ $sep := "," }}
+  {{ $csv :=  getCSV $sep $src }} 
+    {{ range $i, $r := (first 1 $csv) }} 
+    <thead><tr>
+       {{ range $j, $s := $r}}
+        <th style="text-align:left;">{{ humanize $s }}</th>
+       {{ end }}
+    </tr> </thead>
+    {{ end }}
+    {{ range $i, $r := (first ($.Scratch.Get "maxLines") (after 1 $csv)) }}
+       <tr>
+       {{ range $j, $s := $r}}
+          <td style="{{ $.Scratch.Get "colStyle" | safeCSS }}"> {{ $s }} </td>
+       {{ end }} 
+       </tr> 
+    {{ end }}      
+</table>
+</div>
+</a>
+   {{ else }}
+      Could not get {{ $src }}
+   {{- end }}
+{{ else }}
+   no parameter SRC
+{{ end }}
+
+
+
+
+
