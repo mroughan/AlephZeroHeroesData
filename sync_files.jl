@@ -29,7 +29,9 @@ for k in keys(config["Sources"])
         println("    $cmd")
         run(cmd)
 
-         cmd = `rsync -a $src/$f $web_repo/$f`
+        cmd = `rsync -a $src/$f $web_repo/$f`
+        println("    $cmd")
+        run(cmd)
        
     end
 end
