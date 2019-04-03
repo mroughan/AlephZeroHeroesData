@@ -6,9 +6,11 @@ using TOML
 
     see https://discourse.julialang.org/t/how-to-solve-problem-with-toml-jl/9319
       to install a working version of TOML
+
+    and also copy files to the web repository
 """
 
-
+web_repo = "/home/mroughan/Dropbox/www/aleph-zero-heroes/static/csv/"
 config = TOML.parsefile("../source_list.toml")
 
 for k in keys(config["Sources"])
@@ -26,5 +28,8 @@ for k in keys(config["Sources"])
         cmd = `rsync -a $src/$f $dst/$f`
         println("    $cmd")
         run(cmd)
+
+         cmd = `rsync -a $src/$f $web_repo/$f`
+       
     end
 end
