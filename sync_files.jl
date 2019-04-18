@@ -7,7 +7,6 @@ using TOML
     see https://discourse.julialang.org/t/how-to-solve-problem-with-toml-jl/9319
       to install a working version of TOML
 
-    and also copy files to the web repository
 """
 
 web_repo = "/home/mroughan/Dropbox/www/aleph-zero-heroes/static/csv/"
@@ -29,9 +28,9 @@ for k in keys(config["Sources"])
         println("    $cmd")
         run(cmd)
 
-        cmd = `rsync -a $src/$f $web_repo/$f`
-        println("    $cmd")
-        run(cmd)
-       
+        # and also copy files to the web repository, but this is fraught because all old pages could break
+        # cmd = `rsync -a $src/$f $web_repo/$f`
+        # println("    $cmd")
+        # run(cmd)
     end
 end
