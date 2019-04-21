@@ -14,8 +14,8 @@ config = TOML.parsefile("../source_list.toml")
 
 for k in keys(config["Sources"])
     println("Source $k")
-    src = config["Sources"][k]["SRC_DIR"]
-    dst = config["Sources"][k]["DST_DIR"]
+    src = replace( config["Sources"][k]["SRC_DIR"], "~" => homedir())
+    dst = replace( config["Sources"][k]["DST_DIR"], "~" => homedir())
     if typeof(config["Sources"][k]["FILES"]) <: Array
         files = config["Sources"][k]["FILES"]
     elseif typeof(config["Sources"][k]["FILES"]) <: String
