@@ -1,75 +1,75 @@
-Group,%
-Hydra,8.9
-Ultron's,8.9
-Chitauri,6.6
-Soldier,4.7
-Guard,3.9
-SHIELD,3.6
-Asgardian,3.4
-Police,3.4
-Zealot,3.4
-Criminal,3.4
-Undead,3.3
-Outrider,3.2
-Kree,3.1
-Mercenary,3
-Frost Giant,2.8
-Ten Rings,2.5
-Ravager,2.3
-Hammer Drone,1.9
-Dora Milaje,1.8
-Marauder,1.6
-Klaue's,1.6
-Dark Elf,1.5
-Sovereign,1.4
-Kyln Guard,1.3
-Extremis,1.3
-Grandmaster,1.3
-W'Kabi,1.3
-Iron Man,1.2
-Loki's,1
-Random,0.9
-Muspel,0.9
-Bucky's,0.8
-Mandarin,0.8
-Kyln Drone,0.7
-Bullet Ant,0.7
-Nova Corp,0.6
-Prisoner,0.6
-Fake Police,0.6
-Cannery,0.5
-US,0.4
-Scientist,0.4
-Secret Service,0.4
-FBI,0.4
-Orlonan,0.3
-Winter Soldier,0.3
-Scrapper,0.3
-Mugger,0.2
-Monk,0.2
-Jabari,0.2
-Security Guard,0.1
-Crazy Ant,0.1
-Unnamed,0.1
-Gladiator,0.1
-Good Old,0.1
-Museum,0.1
-Orderly,0.1
-Sewing,0.1
-Corporate,0.1
-Teacher,0.1
-CIA,0.1
-Car Thief,0.1
-DODC,0.1
-Obadiah's,0.1
-Librarian,0.1
-Cycle Thief,0.1
-Museum worker,0.1
-Maintenance,0.1
-Martial Arts,0.1
-Ant,0.1
-Truck-driver,0.1
-Valkyrie,0.1
-Crowd,0.1
-Nazi,0.1
-Museum guard,0.1
+Group,%,Cumulative %
+Hydra,8.9,8.9
+Ultron's,8.9,17.8
+Chitauri,6.6,24.4
+Soldier,4.7,29.1
+Guard,3.9,33
+SHIELD,3.6,36.6
+Asgardian,3.4,40
+Police,3.4,43.4
+Zealot,3.4,46.8
+Criminal,3.4,50.2
+Undead,3.3,53.5
+Outrider,3.2,56.7
+Kree,3.1,59.8
+Mercenary,3,62.8
+Frost Giant,2.8,65.6
+Ten Rings,2.5,68.1
+Ravager,2.3,70.4
+Hammer Drone,1.9,72.3
+Dora Milaje,1.8,74.1
+Marauder,1.6,75.7
+Klaue's,1.6,77.3
+Dark Elf,1.5,78.8
+Sovereign,1.4,80.2
+Kyln Guard,1.3,81.5
+Extremis,1.3,82.8
+Grandmaster,1.3,84.1
+W'Kabi,1.3,85.4
+Iron Man,1.2,86.6
+Loki's,1,87.6
+Random,0.9,88.5
+Muspel,0.9,89.4
+Bucky's,0.8,90.2
+Mandarin,0.8,91
+Kyln Drone,0.7,91.7
+Bullet Ant,0.7,92.4
+Nova Corp,0.6,93
+Prisoner,0.6,93.6
+Fake Police,0.6,94.2
+Cannery,0.5,94.7
+US,0.4,95.1
+Scientist,0.4,95.5
+Secret Service,0.4,95.9
+FBI,0.4,96.3
+Orlonan,0.3,96.6
+Winter Soldier,0.3,96.9
+Scrapper,0.3,97.2
+Mugger,0.2,97.4
+Monk,0.2,97.6
+Jabari,0.2,97.8
+Security Guard,0.1,97.9
+Crazy Ant,0.1,98
+Unnamed,0.1,98.1
+Gladiator,0.1,98.2
+Good Old,0.1,98.3
+Museum,0.1,98.4
+Orderly,0.1,98.5
+Sewing,0.1,98.6
+Corporate,0.1,98.7
+Teacher,0.1,98.8
+CIA,0.1,98.9
+Car Thief,0.1,99
+DODC,0.1,99.1
+Obadiah's,0.1,99.2
+Librarian,0.1,99.3
+Cycle Thief,0.1,99.4
+Museum worker,0.1,99.5
+Maintenance,0.1,99.6
+Martial Arts,0.1,99.7
+Ant,0.1,99.8
+Truck-driver,0.1,99.9
+Valkyrie,0.1,100
+Crowd,0.1,100.1
+Nazi,0.1,100.2
+Museum guard,0.1,100.3
