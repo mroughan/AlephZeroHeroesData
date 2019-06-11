@@ -1,22 +1,22 @@
-Title,Mook-v-Char (%),Mook-v-Mook (%)
-Avengers: Infinity War,17,0.7
-Captain America: Civil War,20.8,2.3
-Spider-Man: Homecoming,28.3,0
-Black Panther,31.4,4.1
-Captain Marvel,31.6,0
-Guardians of the Galaxy Vol. 2,32.3,0.8
-Iron Man 2,33.9,0
-Ant-Man,35.4,2.4
-Ant-Man and the Wasp,36,0
-Iron Man 3,37.2,10.7
-Captain America: The Winter Soldier,37.6,2.7
-Iron Man,38.3,9.9
-Doctor Strange,40.2,0.9
-Thor: Ragnarok,44.7,3
-Thor,45.4,2.1
-The Incredible Hulk,45.7,1.1
-Thor: The Dark World,49.1,9.4
-Guardians of the Galaxy,49.7,3.2
-The Avengers,51.9,2.1
-Captain America: The First Avenger,54.5,15.2
-Avengers: Age of Ultron,55,1.3
+Title,Char-v-Char (%),Mook-v-Char (%),Mook-v-Mook (%)
+Avengers: Infinity War,82.3,17.0,0.7
+Captain America: Civil War,77.0,20.8,2.3
+Spider-Man: Homecoming,71.7,28.3,0.0
+Captain Marvel,68.4,31.6,0.0
+Guardians of the Galaxy Vol. 2,66.9,32.3,0.8
+Iron Man 2,66.1,33.9,0.0
+Black Panther,64.5,31.4,4.1
+Ant-Man and the Wasp,64.0,36.0,0.0
+Ant-Man,62.2,35.4,2.4
+Captain America: The Winter Soldier,59.7,37.6,2.7
+Doctor Strange,58.9,40.2,0.9
+The Incredible Hulk,53.3,45.7,1.1
+Thor,52.6,45.4,2.1
+Thor: Ragnarok,52.3,44.7,3.0
+Iron Man 3,52.1,37.2,10.7
+Iron Man,51.9,38.3,9.9
+Guardians of the Galaxy,47.1,49.7,3.2
+The Avengers,46.0,51.9,2.1
+Avengers: Age of Ultron,43.7,55.0,1.3
+Thor: The Dark World,41.5,49.1,9.4
+Captain America: The First Avenger,30.3,54.5,15.2
