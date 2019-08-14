@@ -24,7 +24,7 @@ for k in keys(config["Sources"])
         error("improper config type: typeof(FILES) = $(typeof(config["Sources"][k]["FILES"])), ")
     end
     for f in files
-        cmd = `rsync -a $src/$f $dst/$f`
+        cmd = `rsync -a $src/$f $dst/`
         println("    $cmd")
         run(cmd)
 
