@@ -37,7 +37,9 @@ Sources are URLs from when the data was obtained, sometimes by
 following individual links to issues referenced. 
 
 The best source, when available, seems in the long run to be
-   https://dc.fandom.com/
+
+    https://dc.fandom.com/
+
 Wikipedia is often very good, but not uniform in how it presents
 information. DC's own web pages are surprisingly incomplete or
 sometimes refer to the version they want to sell, not the version I
