@@ -1,3 +1,5 @@
+This directory contains data related to the meta-top-10 Batman graphic
+novels listing. 
 
 ## What is here
 

@@ -10,6 +10,12 @@
    {{ $.Scratch.Set "colStyle" "" }}
 {{ end }}
   
+{{ if .Get "caption"}}
+   {{ $.Scratch.Set "caption" (.Get "caption")  }}
+{{ else }}
+   {{ $.Scratch.Set "caption" "" }}
+{{ end }}
+  
 {{ if .Get "src"}}
    {{- $src := .Get "src" -}}
    {{ if (fileExists $src) -}}
@@ -22,7 +28,8 @@
   
 <a href="{{ $.Scratch.Get "link" | absURL}}" target="_blank">
 <div align=center>   
-<table class="table">
+  <table class="table">
+    <caption><b>{{ $.Scratch.Get "caption"}}</b></caption>
   {{ $sep := "," }}
   {{ $csv :=  getCSV $sep $src }} 
     {{ range $i, $r := (first 1 $csv) }} 

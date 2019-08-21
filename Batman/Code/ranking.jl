@@ -67,11 +67,11 @@ end
 function preference_matrix_update!( preferences::Array{Int,2}, preference_list::DataFrame, ranking::DataFrame )
     # calculate the preference matrix for the input ranking
     m = size(preference_list,1)
-    pref1 = zeros(eltype(preferences), n, n)
-    for I=1:n
+    pref1 = zeros(eltype(preferences), m, m)
+    for I=1:m
         i = findfirst( ranking[:,:Title] .== preference_list[I,:Title] )
         # println(" I = $I, i=$i ")
-        for J=I+1:n
+        for J=I+1:m
             j = findfirst( ranking[:,:Title] .== preference_list[J,:Title] )
             if i==nothing && j==nothing
                 # nothing to do
