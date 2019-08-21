@@ -24,8 +24,8 @@ for k in keys(config["Sources"])
         error("improper config type: typeof(FILES) = $(typeof(config["Sources"][k]["FILES"])), ")
     end
     for f in files
-        cmd = `rsync -a $src/$f $dst/`
-        println("    $cmd")
+        cmd = `rsync -ai --delete --exclude-from=.gitignore $src/$f $dst/`
+        # println("    $cmd")
         run(cmd)
 
         # and also copy files to the web repository, but this is fraught because all old pages could break
