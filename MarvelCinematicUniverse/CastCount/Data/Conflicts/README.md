@@ -16,6 +16,7 @@ format for validation.
          The list if divided into sequences with mostly blank lines indicating a new sequence
 
        Fields
+       
 	- Context: location (free form text) only at the start of a sequence, with lines of dashes to separate sequences
 	- Timestamp: time of conflict in mm.ss format.
 	- Type of conflict: [2]
