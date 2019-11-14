@@ -17,16 +17,16 @@ format for validation.
 
        Fields
        
-	- Context: location (free form text) only at the start of a sequence, with lines of dashes to separate sequences
-	- Timestamp: time of conflict in mm.ss format.
-	- Type of conflict: [2]
-	- Party A: All party names should be canonicalised version of the superhero name (where there is one). 	
-	- A Enhancement: a number indicated how the character is positive or negatively enhanced in the conflict
-	- Party B: All party names should be canonicalised version of the superhero name (where there is one). 
-	- B Enhancement: a number indicated how the character is positive or negatively enhanced in the conflict
-	- Outcome: the victor (by name) or "inconclusive"
-	- Factors ...: the reasons for the enhancements listed above
-       	- Notes: additional information (free form text)
+        - Context: location (free form text) only at the start of a sequence, with lines of dashes to separate sequences
+        - Timestamp: time of conflict in mm.ss format.
+        - Type of conflict: [2]
+        - Party A: All party names should be canonicalised version of the superhero name (where there is one). 	
+        - A Enhancement: a number indicated how the character is positive or negatively enhanced in the conflict
+        - Party B: All party names should be canonicalised version of the superhero name (where there is one). 
+        - B Enhancement: a number indicated how the character is positive or negatively enhanced in the conflict
+        - Outcome: the victor (by name) or "inconclusive"
+        - Factors ...: the reasons for the enhancements listed above
+        - Notes: additional information (free form text)
 
    + The list of conflicts is ended by "EOL" in the timestamp
      column. After this some supplementary information is included. It
