@@ -11,8 +11,8 @@ format for validation.
    supplementary information sheets at the start.
 
    The format for a single sheet is:
-       + a header (first 4 lines) giving the title, and run through (if missing there was only one run through)
-       + a list of conflicts
+   + a header (first 4 lines) giving the title, and run through (if missing there was only one run through)
+   + a list of conflicts
          The list if divided into sequences with mostly blank lines indicating a new sequence
 
        Fields
@@ -27,11 +27,11 @@ format for validation.
 	- Factors ...: the reasons for the enhancements listed above
        	- Notes: additional information (free form text)
 
-       + The list of conflicts is ended by "EOL" in the timestamp
-         column. After this some supplementary information is
-         included. It included for validation only. The structure of
-         this information varies. Please use other datasets for more
-         precise lists of characters etc.
+   + The list of conflicts is ended by "EOL" in the timestamp
+     column. After this some supplementary information is included. It
+     included for validation only. The structure of this information
+     varies. Please use other datasets for more precise lists of
+     characters etc.
        
 2. Lists (for each movie) of characters with their frequency of interaction
       
