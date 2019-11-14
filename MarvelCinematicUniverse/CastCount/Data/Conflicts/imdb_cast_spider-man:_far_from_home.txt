@@ -1,0 +1,106 @@
+102×5 DataFrame
+│ Row │ actor                    │ character                                   │ named │ uncredited │ voice │
+│     │ String                   │ String                                      │ Bool  │ Bool       │ Bool  │
+├─────┼──────────────────────────┼─────────────────────────────────────────────┼───────┼────────────┼───────┤
+│ 1   │ Samuel L. Jackson        │ Nick Fury                                   │ true  │ false      │ false │
+│ 2   │ Zendaya                  │ Michelle Jones                              │ true  │ false      │ false │
+│ 3   │ Jake Gyllenhaal          │ Quentin Beck / Mysterio                     │ true  │ false      │ false │
+│ 4   │ Cobie Smulders           │ Maria Hill                                  │ true  │ false      │ false │
+│ 5   │ Tom Holland              │ Peter Parker / Spider-Man                   │ true  │ false      │ false │
+│ 6   │ Marisa Tomei             │ May Parker                                  │ true  │ false      │ false │
+│ 7   │ Jon Favreau              │ Happy Hogan                                 │ true  │ false      │ false │
+│ 8   │ Angourie Rice            │ Betty                                       │ true  │ false      │ false │
+│ 9   │ Martin Starr             │ Mr. Harrington                              │ true  │ false      │ false │
+│ 10  │ Jacob Batalon            │ Ned                                         │ true  │ false      │ false │
+│ 11  │ Numan Acar               │ Magnum                                      │ true  │ false      │ false │
+│ 12  │ Remy Hii                 │                                             │ false │ false      │ false │
+│ 13  │ Tony Revolori            │ Flash Thompson                              │ true  │ false      │ false │
+│ 14  │ J.B. Smoove              │                                             │ false │ false      │ false │
+│ 15  │ Hemky Madera             │ Mr. Delmar                                  │ true  │ false      │ false │
+│ 16  │ Samantha Mishinski       │ Student                                     │ false │ false      │ false │
+│ 17  │ Zach Barack              │                                             │ false │ false      │ false │
+│ 18  │ Ruth Horrocks            │ Tourist                                     │ false │ false      │ false │
+│ 19  │ Sonia Goswami            │ Tourist                                     │ false │ false      │ false │
+│ 20  │ Michael Iacono           │ Airport Kid Traveler                        │ false │ false      │ false │
+│ 21  │ Joseph Long              │ Mob Boss                                    │ false │ false      │ false │
+│ 22  │ Joakim Skarli            │ London Tourist                              │ false │ false      │ false │
+│ 23  │ Eric Patrick Cameron     │ Midtown High Student                        │ false │ false      │ false │
+│ 24  │ Hiten Patel              │ British Station Staff                       │ false │ false      │ false │
+│ 25  │ Peter Bankole            │ Mob Boss                                    │ false │ false      │ false │
+│ 26  │ Davina Sitaram           │ London Tourist                              │ false │ false      │ false │
+│ 27  │ Jeroen van Koningsbrugge │ Dutch Hooligan 1                            │ false │ false      │ false │
+│ 28  │ Joe David Walters        │ Pawn Shop Owner                             │ false │ false      │ false │
+│ 29  │ Annie Pisapia            │ Traveler                                    │ false │ false      │ false │
+│ 30  │ Tyler Luke Cunningham    │ Student                                     │ false │ false      │ false │
+│ 31  │ Ria Fend                 │ Tourist in Venice                           │ false │ false      │ false │
+│ 32  │ Jessica VanOss           │ Student                                     │ false │ false      │ false │
+│ 33  │ Hannah Kurczeski         │ Student                                     │ false │ false      │ false │
+│ 34  │ Michael de Roos          │ Dutch Hooligan 2                            │ false │ false      │ false │
+│ 35  │ Giada Benedetti          │ Italian Custom Officer                      │ false │ false      │ false │
+│ 36  │ Peter Dawson             │ Tourist in Venice                           │ false │ false      │ false │
+│ 37  │ Antonín Masek            │ Bellboy                                     │ false │ false      │ false │
+│ 38  │ Bruno Bilotta            │ Mob Boss 2                                  │ false │ false      │ false │
+│ 39  │ Komal Charania           │ Student Boom Operator / High School Student │ false │ false      │ false │
+│ 40  │ Daphne Cheung            │ Passport Clerk                              │ false │ false      │ false │
+│ 41  │ Brian Law                │ Queens Reporter                             │ false │ false      │ false │
+│ 42  │ Tony Mardon              │ Londoner                                    │ false │ false      │ false │
+│ 43  │ Emmanuel Rodriguez       │ Airport traveler                            │ false │ false      │ false │
+│ 44  │ Leonys Delossantos       │ Guy staring at spiderman                    │ false │ false      │ false │
+│ 45  │ Gavin Lee Lewis          │ Londoner                                    │ false │ false      │ false │
+│ 46  │ Adrian Mozzi             │ Venice Local                                │ false │ false      │ false │
+│ 47  │ Timothy Christian Jansen │ High School Student                         │ false │ false      │ false │
+│ 48  │ Rocco Wu                 │ Peter's Art Classmate                       │ false │ false      │ false │
+│ 49  │ Jivan Xander Ramesh      │ Pedestrian                                  │ false │ false      │ false │
+│ 50  │ Ray Rosario              │ TSA Agent                                   │ false │ false      │ false │
+│ 51  │ Sean Coleman             │ Yearbook Student                            │ false │ false      │ false │
+│ 52  │ Charlie Rhea Esquér      │ Mexican Survivor                            │ false │ false      │ false │
+│ 53  │ Brendan Murphy           │ Police Officer                              │ false │ false      │ false │
+│ 54  │ Géraldine Lamarre        │ Traffic Warden                              │ false │ false      │ false │
+│ 55  │ Jimena Larraguivel       │ Mexican Villager                            │ false │ false      │ false │
+│ 56  │ Yasmin Mwanza            │ Classmate                                   │ false │ false      │ false │
+│ 57  │ Maria Alexandrova        │ Tourist in Venice                           │ false │ false      │ false │
+│ 58  │ Camille Kinloch          │ Midtown High School Student                 │ false │ false      │ false │
+│ 59  │ Sofia Renee              │ High School Student                         │ false │ false      │ false │
+│ 60  │ Angela Koo               │ Mob Boss                                    │ false │ false      │ false │
+│ 61  │ Sokol Cahani             │ Mob Boss                                    │ false │ false      │ false │
+│ 62  │ Ken Byrd                 │ Post Office Customer                        │ false │ false      │ false │
+│ 63  │ Patrick Holly            │ Party Goer                                  │ false │ false      │ false │
+│ 64  │ Daniel Rennis            │ Cab Driver                                  │ false │ false      │ false │
+│ 65  │ Andrew Dunkelberger      │ Courier                                     │ false │ false      │ false │
+│ 66  │ Al Clark                 │ Cowboy Plane Passenger                      │ false │ false      │ false │
+│ 67  │ Gaylene Butler           │ Dinner Guest                                │ false │ false      │ false │
+│ 68  │ Mike Ray                 │ Passerby                                    │ false │ false      │ false │
+│ 69  │ Anna Benamati            │ Shop Owner in Venice                        │ false │ false      │ false │
+│ 70  │ Sam Chuck                │ High School Student                         │ false │ false      │ false │
+│ 71  │ Daniel Ryves             │ Dad Collecting Kids                         │ false │ false      │ false │
+│ 72  │ Michael Hennessy         │ Hotel Guest                                 │ false │ false      │ false │
+│ 73  │ Ferroz Fernandez         │ Tourist in Venice                           │ false │ false      │ false │
+│ 74  │ Shafali Rani Chung       │ London Tourist                              │ false │ false      │ false │
+│ 75  │ Paolo Braghetto          │ Poliziotto                                  │ true  │ false      │ false │
+│ 76  │ Dante Brattelli          │ High School Student                         │ false │ false      │ false │
+│ 77  │ Nicholle Hembra          │ Saved Londoner                              │ false │ false      │ false │
+│ 78  │ Daham Kandanarrachchi    │ London Passerby                             │ false │ false      │ false │
+│ 79  │ Jamie Melville           │ London Worker                               │ false │ false      │ false │
+│ 80  │ Thomas Goodridge         │ Tourist in Venice                           │ false │ false      │ false │
+│ 81  │ Chris Hyacinthe          │ Sneezy Tour Guide                           │ false │ false      │ false │
+│ 82  │ Keon Kendrick            │ Flight Attendant                            │ false │ false      │ false │
+│ 83  │ Luigi Petrazzuolo        │ Gondolier                                   │ false │ false      │ false │
+│ 84  │ Patrick Turner           │ London Crowd Member                         │ false │ false      │ false │
+│ 85  │ Aleksandrs Petukhovs     │ London Passerby                             │ false │ false      │ false │
+│ 86  │ Luigi Boccanfuso         │ Italian builder in Venice                   │ false │ false      │ false │
+│ 87  │ Buddhi Madushan          │ Tourist                                     │ false │ false      │ false │
+│ 88  │ Victoria Coburn          │ Passerby                                    │ false │ false      │ false │
+│ 89  │ Dale Wilder              │ German Office Worker                        │ false │ false      │ false │
+│ 90  │ Xiao Xue Xu Lin          │ Passerby                                    │ false │ false      │ false │
+│ 91  │ Michal Snajdr            │ Czech Tourist                               │ false │ false      │ false │
+│ 92  │ Lesdy Vanessa            │ Tourist                                     │ false │ false      │ false │
+│ 93  │ Avondre E.D. Beverley    │ High school student                         │ false │ true       │ false │
+│ 94  │ Jake Cerny               │ Airport Traveler                            │ false │ true       │ false │
+│ 95  │ Kristianne-Kaith Domingo │ Passerby                                    │ false │ true       │ false │
+│ 96  │ Cynthia Garbutt          │ Charity Dinner Guest                        │ false │ true       │ false │
+│ 97  │ Kath Leroy               │ Czech Traditional Dancer                    │ false │ true       │ false │
+│ 98  │ Faith Logan              │ High School Student                         │ false │ true       │ false │
+│ 99  │ Julia Mollin             │ Flute Player                                │ false │ true       │ false │
+│ 100 │ Amanda Musso             │ Carnival Hot Girl                           │ false │ true       │ false │
+│ 101 │ Emily Ng                 │ Italian Tourist                             │ false │ true       │ false │
+│ 102 │ Paul Slim                │ Tourist                                     │ false │ true       │ false │

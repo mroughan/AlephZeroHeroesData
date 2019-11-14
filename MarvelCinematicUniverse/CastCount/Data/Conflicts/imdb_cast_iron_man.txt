@@ -1,0 +1,100 @@
+96×5 DataFrame
+│ Row │ actor                  │ character                            │ named │ uncredited │ voice │
+│     │ String                 │ String                               │ Bool  │ Bool       │ Bool  │
+├─────┼────────────────────────┼──────────────────────────────────────┼───────┼────────────┼───────┤
+│ 1   │ Robert Downey Jr.      │ Tony Stark / Iron Man                │ true  │ false      │ false │
+│ 2   │ Terrence Howard        │ Rhodey                               │ true  │ false      │ false │
+│ 3   │ Jeff Bridges           │ Obadiah Stane                        │ true  │ false      │ false │
+│ 4   │ Gwyneth Paltrow        │ Pepper Potts                         │ true  │ false      │ false │
+│ 5   │ Leslie Bibb            │ Christine Everhart                   │ true  │ false      │ false │
+│ 6   │ Shaun Toub             │ Yinsen                               │ true  │ false      │ false │
+│ 7   │ Faran Tahir            │ Raza                                 │ true  │ false      │ false │
+│ 8   │ Clark Gregg            │ Agent Coulson                        │ true  │ false      │ false │
+│ 9   │ Bill Smitrovich        │ General Gabriel                      │ true  │ false      │ false │
+│ 10  │ Sayed Badreya          │ Abu Bakaar                           │ true  │ false      │ false │
+│ 11  │ Paul Bettany           │ JARVIS                               │ true  │ false      │ true  │
+│ 12  │ Jon Favreau            │ Hogan                                │ true  │ false      │ false │
+│ 13  │ Peter Billingsley      │ William Ginter Riva                  │ true  │ false      │ false │
+│ 14  │ Tim Guinee             │ Major Allen                          │ true  │ false      │ false │
+│ 15  │ Will Lyman             │ Award Ceremony Narrator              │ false │ false      │ true  │
+│ 16  │ Tom Morello            │ Guard                                │ false │ false      │ false │
+│ 17  │ Marco Khan             │ Guard                                │ false │ false      │ false │
+│ 18  │ Daston Kalili          │ Guard                                │ false │ false      │ false │
+│ 19  │ Ido Mor                │ Guard                                │ false │ false      │ false │
+│ 20  │ Kevin Foster           │ Jimmy                                │ true  │ false      │ false │
+│ 21  │ Garret Noël            │ Pratt                                │ true  │ false      │ false │
+│ 22  │ Eileen Weisinger       │ Ramirez                              │ true  │ false      │ false │
+│ 23  │ Ahmed Ahmed            │ Ahmed                                │ true  │ false      │ false │
+│ 24  │ Fahim Fazli            │ Omar                                 │ true  │ false      │ false │
+│ 25  │ Gerard Sanders         │ Howard Stark                         │ true  │ false      │ false │
+│ 26  │ Tim Rigby              │ Viper 1                              │ false │ false      │ false │
+│ 27  │ Russell Richardson     │ Viper 2                              │ false │ false      │ false │
+│ 28  │ Nazanin Boniadi        │ Amira Ahmed                          │ true  │ false      │ false │
+│ 29  │ Thomas Craig Plumer    │ Colonel Craig                        │ true  │ false      │ false │
+│ 30  │ Robert Berkman         │ Dealer at Craps Table                │ false │ false      │ false │
+│ 31  │ Stacy Stas Hurst       │ Woman at Craps Table                 │ false │ false      │ false │
+│ 32  │ Lauren Scyphers        │ Woman at Craps Table                 │ false │ false      │ false │
+│ 33  │ Frank Nyi              │ Engineer                             │ false │ false      │ false │
+│ 34  │ Marvin Jordan          │ Air Force Officer                    │ false │ false      │ false │
+│ 35  │ Jim Cramer             │ Jim Cramer                           │ true  │ false      │ false │
+│ 36  │ Donna Evans            │ Woman In SUV                         │ false │ false      │ false │
+│ 37  │ Reid Harper            │ Kid in SUV                           │ false │ false      │ false │
+│ 38  │ Summer Kylie Remington │ Kid in SUV                           │ false │ false      │ false │
+│ 39  │ Ava Rose Williams      │ Kid in SUV                           │ false │ false      │ false │
+│ 40  │ Vladimir Kubr          │ Kid in SUV                           │ false │ false      │ false │
+│ 41  │ Callie Croughwell      │ Kid in SUV                           │ false │ false      │ false │
+│ 42  │ Javan Tahir            │ Gulmira Kid                          │ false │ false      │ false │
+│ 43  │ Sahar Bibiyan          │ Gulmira Mom                          │ false │ false      │ false │
+│ 44  │ Patrick O'Connell      │ Reporter                             │ false │ false      │ false │
+│ 45  │ Adam Harrington        │ Reporter                             │ false │ false      │ false │
+│ 46  │ Meera Simhan           │ Reporter                             │ false │ false      │ false │
+│ 47  │ Ben Newmark            │ Reporter                             │ false │ false      │ false │
+│ 48  │ Ricki Lander           │ Flight Attendant                     │ false │ false      │ false │
+│ 49  │ Jeannine Kaspar        │ Flight Attendant                     │ false │ false      │ false │
+│ 50  │ Sarah Cahill           │ Flight Attendant                     │ false │ false      │ false │
+│ 51  │ Stan Lee               │ Stan Lee                             │ false │ false      │ false │
+│ 52  │ Justin Rex             │ Air Force Lieutenant                 │ false │ false      │ false │
+│ 53  │ Zorianna Kit           │ Zorianna Kit                         │ false │ false      │ false │
+│ 54  │ Lana Kinnear           │ Stan's Girl                          │ false │ false      │ false │
+│ 55  │ Nicole Lindeblad       │ Stan's Girl                          │ false │ false      │ false │
+│ 56  │ Masha Lund             │ Stan's Girl                          │ false │ false      │ false │
+│ 57  │ Gabrielle Tuite        │ Stan's Girl                          │ false │ false      │ false │
+│ 58  │ Tim Griffin            │ CAOC Analyst                         │ false │ false      │ false │
+│ 59  │ Joshua Harto           │ CAOC Analyst                         │ false │ false      │ false │
+│ 60  │ Micah Hauptman         │ CAOC Analyst                         │ false │ false      │ false │
+│ 61  │ James Bethea           │ CAOC Analyst                         │ false │ false      │ false │
+│ 62  │ Greg Anthony           │ Terrorist                            │ false │ true       │ false │
+│ 63  │ Jeffrey Ashkin         │ Photographer                         │ false │ true       │ false │
+│ 64  │ Dr. Mark W. Berry      │ News Reporter                        │ false │ true       │ false │
+│ 65  │ Russell Bobbitt        │ Georgio                              │ true  │ true       │ false │
+│ 66  │ Jon Braver             │ Afghani Fighter                      │ false │ true       │ false │
+│ 67  │ Vianessa Castaños      │ Fireman's Wife                       │ false │ true       │ false │
+│ 68  │ Mike Cochrane          │ Gulmira Villager                     │ false │ true       │ false │
+│ 69  │ Crystal Marie Denha    │ Dubai Beauty                         │ false │ true       │ false │
+│ 70  │ Yonel Dorelis          │ Himself - USAF Helicopter Pilot      │ false │ true       │ false │
+│ 71  │ Mellany Gandara        │ Dubai Girl                           │ false │ true       │ false │
+│ 72  │ Glenn Goldstein        │ Afghani Insurgent                    │ false │ true       │ false │
+│ 73  │ Halla                  │ House wife at Award Ceremony         │ false │ true       │ false │
+│ 74  │ Rodrick Hersh          │ Insurgent                            │ false │ true       │ false │
+│ 75  │ Kristin J. Hooper      │ Reporter                             │ false │ true       │ false │
+│ 76  │ Samuel L. Jackson      │ Nick Fury                            │ true  │ true       │ false │
+│ 77  │ Chris Jalandoni        │ Dubai Waiter                         │ false │ true       │ false │
+│ 78  │ Stephen Janousek       │ Party Guest                          │ false │ true       │ false │
+│ 79  │ Theo Kypri             │ Insurgent                            │ false │ true       │ false │
+│ 80  │ Laura Liguori          │ Dancer in Ballroom                   │ false │ true       │ false │
+│ 81  │ Flavia Manes Rossi     │ Reporter                             │ false │ true       │ false │
+│ 82  │ Anthony Martins        │ Village Dad                          │ false │ true       │ false │
+│ 83  │ Allison McAtee         │ Dubai Beauty                         │ false │ true       │ false │
+│ 84  │ Robert McMurrer        │ Reporter                             │ false │ true       │ false │
+│ 85  │ James M. Myers         │ Airforce Officer                     │ false │ true       │ false │
+│ 86  │ Nick W. Nicholson      │ Reporter                             │ false │ true       │ false │
+│ 87  │ America Olivo          │ Dubai Beauty #1                      │ false │ true       │ false │
+│ 88  │ Sylvette Ortiz         │ Staff Sergeant                       │ false │ true       │ false │
+│ 89  │ Brett Padelford        │ Journalist                           │ false │ true       │ false │
+│ 90  │ Ajani Perkins          │ Voice                                │ false │ true       │ false │
+│ 91  │ Elijah Samuel Quesada  │ Waiter / Reporter                    │ false │ false      │ false │
+│ 92  │ Chris Reid             │ Reporter                             │ false │ true       │ false │
+│ 93  │ Toi Rose               │ News Cameraman                       │ false │ true       │ false │
+│ 94  │ Arne Starr             │ Dubai Tychoon in hat / Bus Passenger │ false │ false      │ false │
+│ 95  │ George F. Watson       │ Rooftop Fireman                      │ false │ true       │ false │
+│ 96  │ David Zyler            │ Whiplash One                         │ true  │ true       │ true  │

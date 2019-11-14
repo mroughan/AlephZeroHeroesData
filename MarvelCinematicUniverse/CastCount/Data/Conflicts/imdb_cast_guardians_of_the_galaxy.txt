@@ -1,0 +1,132 @@
+128×5 DataFrame
+│ Row │ actor                    │ character                                     │ named │ uncredited │ voice │
+│     │ String                   │ String                                        │ Bool  │ Bool       │ Bool  │
+├─────┼──────────────────────────┼───────────────────────────────────────────────┼───────┼────────────┼───────┤
+│ 1   │ Chris Pratt              │ Peter Quill                                   │ true  │ false      │ false │
+│ 2   │ Zoe Saldana              │ Gamora                                        │ true  │ false      │ false │
+│ 3   │ Dave Bautista            │ Drax                                          │ true  │ false      │ false │
+│ 4   │ Vin Diesel               │ Groot                                         │ true  │ false      │ true  │
+│ 5   │ Bradley Cooper           │ Rocket                                        │ true  │ false      │ true  │
+│ 6   │ Lee Pace                 │ Ronan                                         │ true  │ false      │ false │
+│ 7   │ Michael Rooker           │ Yondu Udonta                                  │ true  │ false      │ false │
+│ 8   │ Karen Gillan             │ Nebula                                        │ true  │ false      │ false │
+│ 9   │ Djimon Hounsou           │ Korath                                        │ true  │ false      │ false │
+│ 10  │ John C. Reilly           │ Corpsman Dey                                  │ true  │ false      │ false │
+│ 11  │ Glenn Close              │ Nova Prime                                    │ false │ false      │ false │
+│ 12  │ Benicio Del Toro         │ The Collector                                 │ true  │ false      │ false │
+│ 13  │ Laura Haddock            │ Meredith Quill                                │ true  │ false      │ false │
+│ 14  │ Sean Gunn                │ Kraglin / On Set Rocket                       │ true  │ false      │ false │
+│ 15  │ Peter Serafinowicz       │ Denarian Saal                                 │ true  │ false      │ false │
+│ 16  │ Christopher Fairbank     │ The Broker                                    │ true  │ false      │ false │
+│ 17  │ Krystian Godlewski       │ On Set Groot                                  │ false │ false      │ false │
+│ 18  │ Wyatt Oleff              │ Young Quill                                   │ true  │ false      │ false │
+│ 19  │ Gregg Henry              │ Grandpa                                       │ false │ false      │ false │
+│ 20  │ Janis Ahern              │ Meredith's Mother                             │ false │ false      │ false │
+│ 21  │ Solomon Mousley          │ Meredith's Brother                            │ false │ false      │ false │
+│ 22  │ Lindsay Morton           │ Meredith's Best Friend                        │ false │ false      │ false │
+│ 23  │ Robert Firth             │ Dr. Fitzgibbon                                │ true  │ false      │ false │
+│ 24  │ Melia Kreiling           │ Bereet                                        │ true  │ false      │ false │
+│ 25  │ Tom Proctor              │ Horuz                                         │ true  │ false      │ false │
+│ 26  │ Nick Holmes              │ Horuz's Mate                                  │ false │ false      │ false │
+│ 27  │ Max Wrottesley           │ Sacrifice Nova Corpsman                       │ false │ false      │ false │
+│ 28  │ Stan Lee                 │ Xandarian Ladies' Man                         │ false │ false      │ false │
+│ 29  │ Nicole Alexandra Shipley │ Pretty Xandarian                              │ false │ false      │ false │
+│ 30  │ Sharif Atkins            │ Nova Arresting Pilot                          │ false │ false      │ false │
+│ 31  │ Brendan Fehr             │ Corpsman Dey's Partner                        │ false │ false      │ false │
+│ 32  │ Tomas Arana              │ Kree Ambassador                               │ false │ false      │ false │
+│ 33  │ Mikaela Hoover           │ Nova Prime's Assistant                        │ false │ false      │ false │
+│ 34  │ Emmett J Scanlan         │ Head Riot Guard                               │ false │ false      │ false │
+│ 35  │ Dominic Grant            │ Angry Guard                                   │ false │ false      │ false │
+│ 36  │ Spencer Wilding          │ Mean Guard                                    │ false │ false      │ false │
+│ 37  │ Alison Lintott           │ Sad Woman with Horns                          │ false │ false      │ false │
+│ 38  │ Alexis Rodney            │ Moloka Dar                                    │ true  │ false      │ false │
+│ 39  │ Nathan Fillion           │ Monstrous Inmate                              │ false │ false      │ true  │
+│ 40  │ Keeley Forsyth           │ Mottled Prisoner                              │ false │ false      │ false │
+│ 41  │ Frank Gilhooley          │ Burly Prisoner                                │ false │ false      │ false │
+│ 42  │ Alexis Denisof           │ The Other                                     │ true  │ false      │ false │
+│ 43  │ Enzo Cilenti             │ Watchtower Guard                              │ false │ false      │ false │
+│ 44  │ Richard Katz             │ One Legged Prisoner                           │ false │ false      │ false │
+│ 45  │ Enoch Frost              │ Rifle Guard                                   │ false │ false      │ false │
+│ 46  │ Ronan Summers            │ 'Drop the Leg' Guard                          │ false │ false      │ false │
+│ 47  │ Ophelia Lovibond         │ Carina                                        │ true  │ false      │ false │
+│ 48  │ Laura Ortiz              │ Tortured Pink Girl                            │ false │ false      │ false │
+│ 49  │ Marama Corlett           │ Pit Boss                                      │ false │ false      │ false │
+│ 50  │ Rosie Jones              │ Lady of the Boot of Jemiah                    │ false │ false      │ false │
+│ 51  │ Abidemi Sobande          │ Lady of the Boot of Jemiah                    │ false │ false      │ false │
+│ 52  │ Alex Rose                │ Lady of the Boot of Jemiah                    │ false │ false      │ false │
+│ 53  │ Ekaterina Zalitko        │ Lady of the Boot of Jemiah                    │ false │ false      │ false │
+│ 54  │ Emily Redding            │ Lady of the Boot of Jemiah                    │ false │ false      │ false │
+│ 55  │ Fred                     │ Cosmo the Space Dog                           │ true  │ false      │ false │
+│ 56  │ Stephen Blackehart       │ Knowhere Dispatcher                           │ false │ false      │ false │
+│ 57  │ Jennifer Moylan-Taylor   │ Sad Krylorian Girl                            │ false │ false      │ false │
+│ 58  │ Bruce Mackinnon          │ One-Eyed Ravager                              │ false │ false      │ false │
+│ 59  │ Ralph Ineson             │ Ravager Pilot                                 │ false │ false      │ false │
+│ 60  │ Rob Zombie               │ Ravager Navigator                             │ false │ false      │ true  │
+│ 61  │ Naomi Ryan               │ Nova Centurion                                │ false │ false      │ false │
+│ 62  │ John Brotherton          │ Nova Starblaster Pilot                        │ false │ false      │ false │
+│ 63  │ Graham Shiels            │ Alien Nova Pilot                              │ false │ false      │ false │
+│ 64  │ James Gunn               │ Maskless Sakaaran / Dancing Groot / Sakaarans │ false │ false      │ false │
+│ 65  │ Douglas Robson           │ Maskless Sakaaran                             │ false │ false      │ false │
+│ 66  │ Rachel Cullen            │ Corpsman Dey's Wife                           │ false │ false      │ false │
+│ 67  │ Isabella Poynton         │ Corpsman Dey's Daughter                       │ false │ false      │ false │
+│ 68  │ Imogen Poynton           │ Corpsman Dey's Daughter                       │ false │ false      │ false │
+│ 69  │ David Yarovesky          │ Goth Ravager                                  │ false │ false      │ false │
+│ 70  │ Miriam Lucia             │ Crying Xandarian Citizen                      │ false │ false      │ false │
+│ 71  │ Raed Abbas               │ Ravager                                       │ false │ true       │ false │
+│ 72  │ Adrian Allan             │ Nova Corps Soldier / Policeman                │ false │ false      │ false │
+│ 73  │ Freddie Andrews          │ Traveler                                      │ false │ true       │ false │
+│ 74  │ Habib Anibaba            │ Nova Corps Millennian                         │ false │ true       │ false │
+│ 75  │ Eddie Bammeke            │ Prisoner                                      │ false │ true       │ false │
+│ 76  │ Helen Banks              │ Prisoner                                      │ false │ true       │ false │
+│ 77  │ Tyler Bates              │ Ravager Pilot                                 │ false │ true       │ false │
+│ 78  │ Richard Blenkiron        │ Exolon Monk                                   │ false │ true       │ false │
+│ 79  │ David Booth              │ Knowhere Miner                                │ false │ true       │ false │
+│ 80  │ Josh Brolin              │ Thanos                                        │ true  │ true       │ false │
+│ 81  │ Bern Collaço             │ Morag Citizen                                 │ false │ true       │ false │
+│ 82  │ Rowan Cox                │ Prisoner                                      │ false │ true       │ false │
+│ 83  │ Alysson Da Silva         │ Prisoner                                      │ false │ true       │ false │
+│ 84  │ Marianna Dean            │ Peter's Aunt                                  │ false │ true       │ false │
+│ 85  │ Wayne Devlin             │ Nova Guard                                    │ false │ true       │ false │
+│ 86  │ Simara Dixon             │ Xandarian Alien                               │ false │ true       │ false │
+│ 87  │ Jadey Duffield           │ Xander                                        │ true  │ true       │ false │
+│ 88  │ Barny DuPlessis          │ Flocks Alien Prisoner                         │ false │ true       │ false │
+│ 89  │ Mark Falvo               │ Prisoner                                      │ false │ true       │ false │
+│ 90  │ Kristen Fick             │ Alien Prisoner                                │ false │ true       │ false │
+│ 91  │ Gracie Fitch             │ Groot's Flower Girl                           │ false │ true       │ false │
+│ 92  │ Melissa Galloway         │ Hospital Visitor                              │ false │ true       │ false │
+│ 93  │ Alex Gillison            │ Xandar Traveler                               │ false │ true       │ false │
+│ 94  │ Sophie Gooding           │ Xandar Citizen                                │ false │ true       │ false │
+│ 95  │ Henry Goodrich           │ Crane Operator                                │ false │ true       │ false │
+│ 96  │ Seth Green               │ Howard the Duck                               │ true  │ true       │ true  │
+│ 97  │ Victoria Gugenheim       │ Kallulian Kyln Prisoner                       │ false │ true       │ false │
+│ 98  │ Simon Hatt               │ Prisoner / Sakaarans                          │ false │ false      │ false │
+│ 99  │ Leigh Holland            │ Alien Prisoner                                │ false │ true       │ false │
+│ 100 │ Pete Buzzsaw Holland     │ Prisoner                                      │ false │ true       │ false │
+│ 101 │ James Walton Ingham      │ Knowhere Miner                                │ false │ true       │ false │
+│ 102 │ Lee Edward Jones         │ Exolon Monk                                   │ false │ true       │ false │
+│ 103 │ Lloyd Kaufman            │ Prisoner                                      │ false │ true       │ false │
+│ 104 │ Jonathan Lipow           │ Sakaarans                                     │ false │ true       │ true  │
+│ 105 │ Matt Lott                │ Prisoner                                      │ false │ true       │ false │
+│ 106 │ Matthew David McCarthy   │ Prison Alien                                  │ false │ true       │ false │
+│ 107 │ Stephen McDade           │ Prisoner                                      │ false │ true       │ false │
+│ 108 │ Erica Melargo            │ Xandar Resident                               │ false │ true       │ false │
+│ 109 │ Serhat Metin             │ Nova Corps Officer                            │ false │ true       │ false │
+│ 110 │ Georgiana Mihai          │ Exolon Monk                                   │ false │ true       │ false │
+│ 111 │ Sandeep Mohan            │ Exolon Monk                                   │ false │ true       │ false │
+│ 112 │ Nigel Murfitt            │ Neo-Nazi Prisoner                             │ false │ true       │ false │
+│ 113 │ Emeson Nwolie            │ Knowhere Miner                                │ false │ true       │ false │
+│ 114 │ Oreo                     │ Rocket Racoon Facial Reference                │ false │ true       │ false │
+│ 115 │ Louise Port              │ Nova Yellow Alien Worker                      │ false │ true       │ false │
+│ 116 │ Joseph Quartson          │ Miner                                         │ false │ true       │ false │
+│ 117 │ Diezel Ramos             │ Prison Guard                                  │ false │ true       │ false │
+│ 118 │ Deborah Rosan            │ Alien 1                                       │ false │ true       │ false │
+│ 119 │ Gordon Round             │ Prison Guard                                  │ false │ true       │ false │
+│ 120 │ Steve Saunders           │ Kyln Prisoner                                 │ false │ true       │ false │
+│ 121 │ Andrew Scott-Marshall    │ Alien Prisoner                                │ false │ true       │ false │
+│ 122 │ Julian Seager            │ Prisoner                                      │ false │ true       │ false │
+│ 123 │ Clem So                  │ Kyln Prisoner                                 │ false │ true       │ false │
+│ 124 │ Adrian South             │ Xandar Resident                               │ false │ true       │ false │
+│ 125 │ Peter Theobalds          │ Kyln Prisoner                                 │ false │ true       │ false │
+│ 126 │ Wesley Von Spears        │ Holographic Dog                               │ false │ true       │ false │
+│ 127 │ Paul Warren              │ Alien                                         │ false │ true       │ false │
+│ 128 │ Tatiana Zarubova         │ Female Prison Guard                           │ false │ true       │ false │

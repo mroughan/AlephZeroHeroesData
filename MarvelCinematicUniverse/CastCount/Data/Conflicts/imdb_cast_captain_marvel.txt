@@ -1,0 +1,80 @@
+76×5 DataFrame
+│ Row │ actor                     │ character                             │ named │ uncredited │ voice │
+│     │ String                    │ String                                │ Bool  │ Bool       │ Bool  │
+├─────┼───────────────────────────┼───────────────────────────────────────┼───────┼────────────┼───────┤
+│ 1   │ Brie Larson               │ Carol Danvers / Vers / Captain Marvel │ true  │ false      │ false │
+│ 2   │ Samuel L. Jackson         │ Nick Fury                             │ true  │ false      │ false │
+│ 3   │ Ben Mendelsohn            │ Talos / Keller                        │ true  │ false      │ false │
+│ 4   │ Jude Law                  │ Yon-Rogg                              │ true  │ false      │ false │
+│ 5   │ Annette Bening            │ Supreme Intelligence                  │ true  │ false      │ false │
+│ 6   │ Lashana Lynch             │ Maria Rambeau                         │ true  │ false      │ false │
+│ 7   │ Clark Gregg               │ Agent Coulson                         │ true  │ false      │ false │
+│ 8   │ Rune Temte                │ Bron-Char                             │ true  │ false      │ false │
+│ 9   │ Gemma Chan                │ Minn-Erva                             │ true  │ false      │ false │
+│ 10  │ Algenis Perez Soto        │ Att-Lass                              │ true  │ false      │ false │
+│ 11  │ Djimon Hounsou            │ Korath                                │ true  │ false      │ false │
+│ 12  │ Lee Pace                  │ Ronan                                 │ true  │ false      │ false │
+│ 13  │ Chuku Modu                │ Soh-Larr                              │ true  │ false      │ false │
+│ 14  │ Matthew Maher             │ Norex                                 │ true  │ false      │ false │
+│ 15  │ Akira Akbar               │ Monica Rambeau                        │ true  │ false      │ false │
+│ 16  │ Azari Akbar               │ Monica Rambeau                        │ true  │ false      │ false │
+│ 17  │ Kenneth Mitchell          │ Carol's Father                        │ false │ false      │ false │
+│ 18  │ Stephen A. Chang          │ Cadet Officer                         │ false │ false      │ false │
+│ 19  │ Pete Ploszek              │ Bret Johnson                          │ true  │ false      │ false │
+│ 20  │ Mark Daugherty            │ Skrull Main Tech                      │ false │ false      │ false │
+│ 21  │ Vik Sahay                 │ Hero Torfan                           │ true  │ false      │ false │
+│ 22  │ Sharon Blynn              │ Soren                                 │ true  │ false      │ false │
+│ 23  │ Mckenna Grace             │ Young Carol                           │ false │ false      │ false │
+│ 24  │ London Fuller             │ Young Carol                           │ false │ false      │ false │
+│ 25  │ Colin Ford                │ Steve Danvers                         │ true  │ false      │ false │
+│ 26  │ Stan Lee                  │ Stan Lee                              │ false │ false      │ false │
+│ 27  │ Marilyn Brett             │ Older Lady on Train                   │ false │ false      │ false │
+│ 28  │ Diana Toshiko             │ Skrull Tech #1                        │ false │ false      │ false │
+│ 29  │ Robert Kazinsky           │ Biker                                 │ false │ false      │ false │
+│ 30  │ Emily Ozrey               │ Surfer Girl Talos #1                  │ false │ false      │ false │
+│ 31  │ Abigaille Ozrey           │ Surfer Girl Talos #2                  │ false │ false      │ false │
+│ 32  │ Gil Jeor De St.           │ Teenager                              │ false │ false      │ false │
+│ 33  │ Matthew Bellows           │ Accuser #1                            │ false │ false      │ false │
+│ 34  │ Richard Zeringue          │ Tom the Neighbor                      │ true  │ false      │ false │
+│ 35  │ Barry Curtis              │ Mall Security Guard                   │ false │ false      │ false │
+│ 36  │ Nelson Franklin           │ Medical Examiner                      │ false │ false      │ false │
+│ 37  │ Patrick Brennan           │ Bartender                             │ false │ false      │ false │
+│ 38  │ Patrick Gallagher         │ Security Chief                        │ false │ false      │ false │
+│ 39  │ Duane Henry               │ Talos-Kree Soldier                    │ false │ false      │ false │
+│ 40  │ Ana Ayora                 │ Agent Whitcher                        │ false │ false      │ false │
+│ 41  │ Stanley Wong              │ SHIELD Tech                           │ false │ false      │ false │
+│ 42  │ Auden L. Ophuls           │ Talos' Daughter                       │ false │ false      │ false │
+│ 43  │ Harriet L. Ophuls         │ Talos' Daughter                       │ false │ false      │ false │
+│ 44  │ Matthew 'Spider' Kimmel   │ Spider                                │ false │ false      │ false │
+│ 45  │ Stephen 'Cajun' Del Bagno │ Cajun                                 │ false │ false      │ false │
+│ 46  │ Lyonetta Flowers          │ Monica's Grandmother                  │ false │ false      │ false │
+│ 47  │ Rufus Flowers             │ Monica's Grandfather                  │ false │ false      │ false │
+│ 48  │ Reggie                    │ Goose                                 │ true  │ false      │ false │
+│ 49  │ Gonzo                     │ Goose                                 │ true  │ false      │ false │
+│ 50  │ Archie                    │ Goose                                 │ true  │ false      │ false │
+│ 51  │ Rizzo                     │ Goose                                 │ true  │ false      │ false │
+│ 52  │ Amir Abdalla              │ Beachgoer                             │ false │ true       │ false │
+│ 53  │ Jay Arthur                │ Alien                                 │ false │ true       │ false │
+│ 54  │ Gaige Chaturantabut       │ Kid Student #4                        │ false │ true       │ false │
+│ 55  │ Don Cheadle               │ James Rhodes                          │ true  │ true       │ false │
+│ 56  │ Joey Courteau             │ Kree Rail Passenger                   │ false │ true       │ false │
+│ 57  │ Kelly Sue DeConnick       │ Train Station Commuter                │ false │ true       │ false │
+│ 58  │ Callie Rose Deets         │ Kree Rail Passenger                   │ false │ true       │ false │
+│ 59  │ Chris Evans               │ Steve Rogers                          │ true  │ true       │ false │
+│ 60  │ Andre Franco              │ Kree Elite Soldier                    │ false │ true       │ false │
+│ 61  │ John Gettier              │ S.H.I.E.L.D. Agent                    │ false │ true       │ false │
+│ 62  │ Adam Hart                 │ Skrull Spy                            │ false │ true       │ false │
+│ 63  │ James Hatten              │ Alien                                 │ false │ true       │ false │
+│ 64  │ DJ Jenkins                │ Air Force Pilot: PYRO                 │ false │ true       │ false │
+│ 65  │ Scarlett Johansson        │ Natasha Romanoff                      │ true  │ true       │ false │
+│ 66  │ Kevin M. Kelly            │ Coroner                               │ false │ true       │ false │
+│ 67  │ Alvaro Laborin            │ 1990s Metro Subway commuter           │ false │ true       │ false │
+│ 68  │ Bethany Levy              │ S.H.I.E.L.D. Agent                    │ false │ true       │ false │
+│ 69  │ Anthony Molinari          │ S.H.I.E.L.D. Agent                    │ false │ true       │ false │
+│ 70  │ James Morrison            │ Air Force General                     │ false │ true       │ false │
+│ 71  │ Vinny O'Brien             │ Skrull Spy 2                          │ false │ true       │ false │
+│ 72  │ Damon O'Daniel            │ Business Commuter                     │ false │ true       │ false │
+│ 73  │ Mel Powell                │ Pegasus Guard Ficke                   │ true  │ true       │ false │
+│ 74  │ Eddy Rome                 │ Alien                                 │ false │ true       │ false │
+│ 75  │ Mark Ruffalo              │ Bruce Banner                          │ true  │ true       │ false │
+│ 76  │ Connor Ryan               │ Cadet Livanson                        │ false │ true       │ false │

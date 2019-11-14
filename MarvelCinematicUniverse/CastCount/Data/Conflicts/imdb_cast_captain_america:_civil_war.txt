@@ -1,0 +1,196 @@
+192×5 DataFrame
+│ Row │ actor                       │ character                             │ named │ uncredited │ voice │
+│     │ String                      │ String                                │ Bool  │ Bool       │ Bool  │
+├─────┼─────────────────────────────┼───────────────────────────────────────┼───────┼────────────┼───────┤
+│ 1   │ Chris Evans                 │ Steve Rogers / Captain America        │ true  │ false      │ false │
+│ 2   │ Robert Downey Jr.           │ Tony Stark / Iron Man                 │ true  │ false      │ false │
+│ 3   │ Scarlett Johansson          │ Natasha Romanoff / Black Widow        │ true  │ false      │ false │
+│ 4   │ Sebastian Stan              │ Bucky Barnes / Winter Soldier         │ true  │ false      │ false │
+│ 5   │ Anthony Mackie              │ Sam Wilson / Falcon                   │ true  │ false      │ false │
+│ 6   │ Don Cheadle                 │ Lieutenant James Rhodes / War Machine │ true  │ false      │ false │
+│ 7   │ Jeremy Renner               │ Clint Barton / Hawkeye                │ true  │ false      │ false │
+│ 8   │ Chadwick Boseman            │ T'Challa / Black Panther              │ true  │ false      │ false │
+│ 9   │ Paul Bettany                │ Vision                                │ true  │ false      │ false │
+│ 10  │ Elizabeth Olsen             │ Wanda Maximoff / Scarlet Witch        │ true  │ false      │ false │
+│ 11  │ Paul Rudd                   │ Scott Lang / Ant-Man                  │ true  │ false      │ false │
+│ 12  │ Emily VanCamp               │ Sharon Carter                         │ true  │ false      │ false │
+│ 13  │ Tom Holland                 │ Peter Parker / Spider-Man             │ true  │ false      │ false │
+│ 14  │ Daniel Brühl                │ Zemo                                  │ true  │ false      │ false │
+│ 15  │ Frank Grillo                │ Brock Rumlow / Crossbones             │ true  │ false      │ false │
+│ 16  │ William Hurt                │ Secretary of State Thaddeus Ross      │ true  │ false      │ false │
+│ 17  │ Martin Freeman              │ Everett K. Ross                       │ true  │ false      │ false │
+│ 18  │ Marisa Tomei                │ May Parker                            │ true  │ false      │ false │
+│ 19  │ John Kani                   │ King T'Chaka                          │ true  │ false      │ false │
+│ 20  │ John Slattery               │ Howard Stark                          │ true  │ false      │ false │
+│ 21  │ Hope Davis                  │ Maria Stark                           │ true  │ false      │ false │
+│ 22  │ Alfre Woodard               │ Miriam                                │ true  │ false      │ false │
+│ 23  │ Michael A. Cook             │ MRI Tech                              │ false │ false      │ false │
+│ 24  │ Laughton Parchment          │ Vicar                                 │ false │ false      │ false │
+│ 25  │ Jackson Spidell             │ Josef / Super Soldier #1              │ false │ false      │ false │
+│ 26  │ Yi Long                     │ Super Soldier #2                      │ false │ false      │ false │
+│ 27  │ Heidi Moneymaker            │ Super Soldier #3                      │ false │ false      │ false │
+│ 28  │ Aaron Toney                 │ Super Soldier #4                      │ false │ false      │ false │
+│ 29  │ Cale Schultz                │ Super Soldier #5                      │ false │ false      │ false │
+│ 30  │ Ann Russo                   │ Voice of Zemo's Wife                  │ false │ false      │ true  │
+│ 31  │ Gene Farber                 │ Karpov                                │ true  │ false      │ false │
+│ 32  │ Florence Kasumba            │ Security Chief                        │ false │ false      │ false │
+│ 33  │ Cornell John                │ Attaché                               │ false │ false      │ false │
+│ 34  │ Sven Hönig                  │ Man at Kiosk                          │ false │ false      │ false │
+│ 35  │ Josh Peck                   │ GSG9 Task Force Gunner                │ false │ false      │ false │
+│ 36  │ Brent McGee                 │ GSG9 Task Force Pilot                 │ false │ false      │ false │
+│ 37  │ Be Satrazemis               │ German Innkeeper                      │ false │ false      │ false │
+│ 38  │ Blair Jasin                 │ Raft Guard                            │ false │ false      │ false │
+│ 39  │ Oliver Bigalke              │ Barge Man #1                          │ false │ false      │ false │
+│ 40  │ Rafael Banasik              │ Barge Man #2                          │ false │ false      │ false │
+│ 41  │ David de Vries              │ Custodian                             │ false │ false      │ false │
+│ 42  │ John Curran                 │ Funeral Director                      │ false │ false      │ false │
+│ 43  │ Katie Amess                 │ Woman in Lobby #1                     │ false │ false      │ false │
+│ 44  │ Austin Saunders             │ Woman in Lobby #2                     │ false │ false      │ false │
+│ 45  │ Brett Gentile               │ Delivery Truck Driver                 │ false │ false      │ false │
+│ 46  │ Matthew Anderson            │ Choir                                 │ false │ false      │ false │
+│ 47  │ Andrew Botchwey             │ Choir                                 │ false │ false      │ false │
+│ 48  │ Chase Bradfield             │ Choir                                 │ false │ false      │ false │
+│ 49  │ Ernest Charles              │ Choir                                 │ false │ false      │ false │
+│ 50  │ Hendricks Coates            │ Choir                                 │ false │ false      │ false │
+│ 51  │ Ethan Condon                │ Choir                                 │ false │ false      │ false │
+│ 52  │ Shen Dynes                  │ Choir                                 │ false │ false      │ false │
+│ 53  │ Nathaniel Ellis             │ Choir                                 │ false │ false      │ false │
+│ 54  │ Jariah Ferguson             │ Choir                                 │ false │ false      │ false │
+│ 55  │ Evan Ffrench                │ Choir                                 │ false │ false      │ false │
+│ 56  │ Justin Freeman              │ Choir                                 │ false │ false      │ false │
+│ 57  │ Ralphael Grand'Pierre       │ Choir                                 │ false │ false      │ false │
+│ 58  │ Julian Grimes               │ Choir                                 │ false │ false      │ false │
+│ 59  │ Aaron Hayes                 │ Choir                                 │ false │ false      │ false │
+│ 60  │ Austin Hooper               │ Choir                                 │ false │ false      │ false │
+│ 61  │ Amiri Jones                 │ Choir                                 │ false │ false      │ false │
+│ 62  │ Myles Joseph                │ Choir                                 │ false │ false      │ false │
+│ 63  │ Stephen Lewis               │ Choir                                 │ false │ false      │ false │
+│ 64  │ Jacob Ludwick               │ Choir                                 │ false │ false      │ false │
+│ 65  │ D'Mahrei McRae              │ Choir                                 │ false │ false      │ false │
+│ 66  │ Ashwin Mudaliar             │ Choir                                 │ false │ false      │ false │
+│ 67  │ Eli Ollinger                │ Choir                                 │ false │ false      │ false │
+│ 68  │ Parker Pape                 │ Choir                                 │ false │ false      │ false │
+│ 69  │ Daniel Parada               │ Choir                                 │ false │ false      │ false │
+│ 70  │ Jonah Ruffin                │ Choir                                 │ false │ false      │ false │
+│ 71  │ Darryl Sampson              │ Choir                                 │ false │ false      │ false │
+│ 72  │ Cameron Sardone             │ Choir                                 │ false │ false      │ false │
+│ 73  │ Stanley Sellers             │ Choir                                 │ false │ false      │ false │
+│ 74  │ Miles Selles                │ Choir                                 │ false │ false      │ false │
+│ 75  │ Jacob Sung                  │ Choir                                 │ false │ false      │ false │
+│ 76  │ Caden Wilkinson             │ Choir                                 │ false │ false      │ false │
+│ 77  │ Kim Scar                    │ Chinese Newscaster                    │ false │ false      │ false │
+│ 78  │ Jessica Walther-Gabory      │ German Newscaster #1                  │ false │ false      │ false │
+│ 79  │ Beniamino Brogi             │ German Newscaster #2                  │ false │ false      │ false │
+│ 80  │ Silvina Buchbauer           │ News Reporter                         │ false │ false      │ false │
+│ 81  │ Henry Amadi                 │ Busboy                                │ false │ false      │ false │
+│ 82  │ Ugochukwu Ani               │ Waiter                                │ false │ false      │ false │
+│ 83  │ Michael Anthony Rogers      │ Secretary Ross's Aide                 │ false │ false      │ false │
+│ 84  │ Damion Poitier              │ Hero Merc #1                          │ false │ false      │ false │
+│ 85  │ Umar Khan                   │ Hero Merc #2                          │ false │ false      │ false │
+│ 86  │ David E. Brown              │ Hero Merc #3                          │ false │ false      │ false │
+│ 87  │ Guy Fernandez               │ Hero Merc #4                          │ false │ false      │ false │
+│ 88  │ Jim Rash                    │ M.I.T. Liaison                        │ false │ false      │ false │
+│ 89  │ Sophia Russo                │ Teenage Girl                          │ false │ false      │ false │
+│ 90  │ Joe Russo                   │ Dr. Broussard                         │ true  │ false      │ false │
+│ 91  │ Stan Lee                    │ FedEx Driver                          │ false │ false      │ false │
+│ 92  │ Amelia Morck                │ UN Staffer Gibson                     │ true  │ false      │ false │
+│ 93  │ Kerry Condon                │ Voice of Friday                       │ false │ false      │ true  │
+│ 94  │ Julianna Guill              │ Stark's Assistant                     │ false │ false      │ false │
+│ 95  │ Surely Alvelo               │ Nurse                                 │ false │ false      │ false │
+│ 96  │ Brian Schaeffer             │ Cultural Attaché                      │ false │ false      │ false │
+│ 97  │ Kevin LaRosa Jr.            │ Helicopter Pilot                      │ false │ false      │ false │
+│ 98  │ Al Cerullo                  │ Helicopter Pilot                      │ false │ false      │ false │
+│ 99  │ Frédéric North              │ Helicopter Pilot                      │ false │ false      │ false │
+│ 100 │ Chris Jai Alex              │ IFID                                  │ false │ true       │ false │
+│ 101 │ Lindsay Small Barrios       │ Task Force Agent                      │ false │ true       │ false │
+│ 102 │ Tory L. Beckham             │ Precision Driver                      │ false │ true       │ false │
+│ 103 │ Jessica Bell                │ Funeral Mourner                       │ false │ true       │ false │
+│ 104 │ Carsten Berger              │ U.N. Delegate                         │ false │ true       │ false │
+│ 105 │ Jae Bireley                 │ MIT Student                           │ false │ true       │ false │
+│ 106 │ Tanner Michael Bradberry    │ Zemo's Son                            │ false │ true       │ false │
+│ 107 │ Jason Bray                  │ MIT Student                           │ false │ true       │ false │
+│ 108 │ Àaron Brewster              │ Russian Hydra Guard / Agent           │ false │ false      │ false │
+│ 109 │ Bricine Brown               │ Nigerian Peddler                      │ false │ true       │ false │
+│ 110 │ Tyler Carden                │ MIT Grad Student                      │ false │ true       │ false │
+│ 111 │ Lucie Carroll               │ U.N. Diplomat                         │ false │ true       │ false │
+│ 112 │ Gregory Lee Cason           │ Councilman                            │ false │ true       │ false │
+│ 113 │ Kevin Christenson           │ Funeral Mourner                       │ false │ true       │ false │
+│ 114 │ Teo Ciltia                  │ United Nation Delegate                │ false │ true       │ false │
+│ 115 │ Chuck Clark                 │ Delegate                              │ false │ true       │ false │
+│ 116 │ Robert Clotworthy           │ Newscaster                            │ false │ true       │ true  │
+│ 117 │ Jameson Jamey Copeland      │ Pub Patron                            │ false │ true       │ false │
+│ 118 │ Nicholas Cordts             │ Doorman                               │ false │ true       │ false │
+│ 119 │ Marisol Correa              │ U.N. Official Press                   │ false │ true       │ false │
+│ 120 │ Missy Crowder-Compton       │ Diplomat                              │ false │ true       │ false │
+│ 121 │ Michael D'Amico             │ Pallbearer                            │ false │ true       │ false │
+│ 122 │ Laura Dünnwald              │ Newsreporter                          │ false │ true       │ false │
+│ 123 │ Justin East                 │ Nigerian Tourist                      │ false │ true       │ false │
+│ 124 │ Dirk Ellis                  │ GSG-9 Soldier                         │ false │ true       │ false │
+│ 125 │ Mark Falvo                  │ Reporter                              │ false │ true       │ false │
+│ 126 │ Jeremiah Fewell             │ Nigerian Pedestrian                   │ false │ true       │ false │
+│ 127 │ Carlos V. Flores            │ Funeral Mourner                       │ false │ true       │ false │
+│ 128 │ Shawron Gaffney             │ Nigerian Pedestrian                   │ false │ true       │ false │
+│ 129 │ Candiss Nicole Gandy        │ MIT Grad Student                      │ false │ true       │ false │
+│ 130 │ Brent Moorer Gaskins        │ UN Delegate / College Alumni          │ false │ false      │ false │
+│ 131 │ Martavious Gayles           │ MIT Grad Student                      │ false │ true       │ false │
+│ 132 │ Devan Gerlach               │ MIT Graduate Student                  │ false │ true       │ false │
+│ 133 │ Tahseen Ghauri              │ Upscale Funeral Goer                  │ false │ true       │ false │
+│ 134 │ Jeff Glover                 │ MIT Alumni                            │ false │ true       │ false │
+│ 135 │ Alonso Grandío              │ Graduate Student                      │ false │ true       │ false │
+│ 136 │ Austin Handle               │ British Military                      │ false │ true       │ false │
+│ 137 │ Beverly Hanley              │ UN Delegate                           │ false │ true       │ false │
+│ 138 │ Cody Mark Hanna             │ Graduate Student                      │ false │ true       │ false │
+│ 139 │ De'Adrian Harmon            │ Affluent International Traveler       │ false │ true       │ false │
+│ 140 │ Anthony B. Harris           │ A Royal Guard                         │ false │ true       │ false │
+│ 141 │ Rory Healy                  │ UN Delegate                           │ false │ true       │ false │
+│ 142 │ Kimberly Hester Huffstetler │ MIT Graduate Student                  │ false │ true       │ false │
+│ 143 │ Ifeyinwa                    │ Cafe Patron                           │ false │ true       │ true  │
+│ 144 │ Flanagan John               │ Funeral Mourner                       │ false │ true       │ false │
+│ 145 │ Lainey Kloes                │ Agent                                 │ false │ true       │ false │
+│ 146 │ Steve Knoll                 │ GSG-9 Soldier                         │ false │ true       │ false │
+│ 147 │ Sanya Kongdara              │ Upscale Man                           │ false │ true       │ false │
+│ 148 │ Michael Koske               │ MIT Grad Student                      │ false │ true       │ false │
+│ 149 │ Inder Kumar                 │ Jakarta Bidder / Businessman          │ false │ false      │ false │
+│ 150 │ Dominic M. Lee              │ Nigerian Pedestrian                   │ false │ true       │ false │
+│ 151 │ Adrian Lockett              │ Mercenary                             │ false │ true       │ false │
+│ 152 │ Stephanie Long              │ Reporter                              │ false │ true       │ false │
+│ 153 │ Rogelio Lorenzo             │ African Merchant                      │ false │ true       │ false │
+│ 154 │ Daniel Lucente              │ UN Official                           │ false │ true       │ false │
+│ 155 │ Phil Mallon                 │ Tactical Force                        │ false │ true       │ false │
+│ 156 │ Aaron Manning               │ Upscale Funeral Goer                  │ false │ true       │ false │
+│ 157 │ Dorry Marie                 │ Nigerian Cafe Guest / Pedestrian      │ false │ false      │ false │
+│ 158 │ Michael Marx                │ Newsreporter                          │ false │ true       │ false │
+│ 159 │ Alberto Tito Matos Jr.      │ Upscale Man                           │ false │ true       │ false │
+│ 160 │ Taylor McPherson            │ German Tech Agent                     │ false │ true       │ false │
+│ 161 │ Michael Mercaldi            │ Agent                                 │ false │ true       │ false │
+│ 162 │ Duane Moseley               │ Tech                                  │ false │ true       │ false │
+│ 163 │ Rob Muller                  │ Reporter                              │ false │ true       │ false │
+│ 164 │ Lon Nease                   │ Funeral Mourner                       │ false │ true       │ false │
+│ 165 │ Bradley Newcomer            │ German Special Agent                  │ false │ true       │ false │
+│ 166 │ Dennis Oestreich            │ GSG9 Policeman                        │ false │ true       │ false │
+│ 167 │ Rajeev Pahuja               │ MIT Professor                         │ false │ true       │ false │
+│ 168 │ Anna Phillips               │ Ivy League Student                    │ false │ true       │ false │
+│ 169 │ Carl A. Pitts               │ Auction Bidder                        │ false │ true       │ false │
+│ 170 │ Lare Roberts                │ Funeral Dignitary                     │ false │ true       │ false │
+│ 171 │ Anthony J Sacco             │ Upscale Funeral Goer                  │ false │ true       │ false │
+│ 172 │ Patti Schellhaas            │ MIT Parent                            │ false │ true       │ false │
+│ 173 │ Daniel Patrick Shook        │ German Agent                          │ false │ true       │ false │
+│ 174 │ Jason Shwartz               │ Mourner                               │ false │ true       │ false │
+│ 175 │ Mike Sibley                 │ Brigadier General UK Army             │ false │ true       │ false │
+│ 176 │ Jay Silla                   │ MIT Student                           │ false │ true       │ false │
+│ 177 │ Manesh k Singh              │ U.N. Delegate Representing India      │ false │ true       │ false │
+│ 178 │ Yvonne Singh                │ Lagos Cafe Patron                     │ false │ true       │ false │
+│ 179 │ Jason Speer                 │ Swiss Ambassador                      │ false │ true       │ false │
+│ 180 │ Doug Stroup                 │ MIT Alumni                            │ false │ true       │ false │
+│ 181 │ Chris Theisinger            │ Vienna Fireman                        │ false │ true       │ false │
+│ 182 │ Travis Thompson             │ United Nations Aide                   │ false │ true       │ false │
+│ 183 │ Sarai Tinck                 │ MIT Graduate Student                  │ false │ true       │ false │
+│ 184 │ John Vaughan                │ Police Lab Technitian                 │ false │ true       │ false │
+│ 185 │ Emma Ve                     │ Bidder                                │ false │ true       │ false │
+│ 186 │ Kent Wagner                 │ Upscale Funeral Goer                  │ false │ true       │ false │
+│ 187 │ Erick Wofford               │ German Tech Agent                     │ false │ true       │ false │
+│ 188 │ Jane Wu                     │ UN Staffer Wu                         │ false │ true       │ false │
+│ 189 │ Kim Yannayon                │ MIT Graduate Student                  │ false │ true       │ false │
+│ 190 │ Jonathan Yaskoff            │ London Businessman                    │ false │ true       │ false │
+│ 191 │ Alexander Yassin            │ U.N. Delegate Representing Indonesia  │ false │ true       │ false │
+│ 192 │ Alex Zelenka                │ Upscale Man                           │ false │ true       │ false │

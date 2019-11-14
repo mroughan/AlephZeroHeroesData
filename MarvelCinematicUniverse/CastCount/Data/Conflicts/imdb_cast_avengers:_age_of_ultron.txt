@@ -1,0 +1,147 @@
+143×5 DataFrame
+│ Row │ actor                      │ character                         │ named │ uncredited │ voice │
+│     │ String                     │ String                            │ Bool  │ Bool       │ Bool  │
+├─────┼────────────────────────────┼───────────────────────────────────┼───────┼────────────┼───────┤
+│ 1   │ Robert Downey Jr.          │ Tony Stark / Iron Man             │ true  │ false      │ false │
+│ 2   │ Chris Hemsworth            │ Thor                              │ true  │ false      │ false │
+│ 3   │ Mark Ruffalo               │ Bruce Banner / Hulk               │ true  │ false      │ false │
+│ 4   │ Chris Evans                │ Steve Rogers / Captain America    │ true  │ false      │ false │
+│ 5   │ Scarlett Johansson         │ Natasha Romanoff / Black Widow    │ true  │ false      │ false │
+│ 6   │ Jeremy Renner              │ Clint Barton / Hawkeye            │ true  │ false      │ false │
+│ 7   │ James Spader               │ Ultron                            │ true  │ false      │ false │
+│ 8   │ Samuel L. Jackson          │ Nick Fury                         │ true  │ false      │ false │
+│ 9   │ Don Cheadle                │ James Rhodes / War Machine        │ true  │ false      │ false │
+│ 10  │ Aaron Taylor-Johnson       │ Pietro Maximoff / Quicksilver     │ true  │ false      │ false │
+│ 11  │ Elizabeth Olsen            │ Wanda Maximoff / Scarlet Witch    │ true  │ false      │ false │
+│ 12  │ Paul Bettany               │ Jarvis / Vision                   │ true  │ false      │ false │
+│ 13  │ Cobie Smulders             │ Maria Hill                        │ true  │ false      │ false │
+│ 14  │ Anthony Mackie             │ Sam Wilson / Falcon               │ true  │ false      │ false │
+│ 15  │ Hayley Atwell              │ Peggy Carter                      │ true  │ false      │ false │
+│ 16  │ Idris Elba                 │ Heimdall                          │ true  │ false      │ false │
+│ 17  │ Linda Cardellini           │ Laura Barton                      │ true  │ false      │ false │
+│ 18  │ Stellan Skarsgård          │ Erik Selvig                       │ true  │ false      │ false │
+│ 19  │ Claudia Kim                │ Dr. Helen Cho                     │ true  │ false      │ false │
+│ 20  │ Thomas Kretschmann         │ Strucker                          │ true  │ false      │ false │
+│ 21  │ Andy Serkis                │ Ulysses Klaue                     │ true  │ false      │ false │
+│ 22  │ Julie Delpy                │ Madame B                          │ true  │ false      │ false │
+│ 23  │ Stan Lee                   │ Stan Lee                          │ false │ false      │ false │
+│ 24  │ Henry Goodman              │ Dr. List                          │ true  │ false      │ false │
+│ 25  │ Chris Luca                 │ Fortress Soldier                  │ false │ false      │ false │
+│ 26  │ Brian Schaeffer            │ Strucker Mercenary                │ false │ false      │ false │
+│ 27  │ Dominique Provost-Chalkley │ Zrinka                            │ true  │ false      │ false │
+│ 28  │ Isaac Andrews              │ Costel                            │ true  │ false      │ false │
+│ 29  │ Gareth Kieran Jones        │ Sokovian Acid Student             │ false │ false      │ false │
+│ 30  │ Chan Woo Lim               │ Dr. Cho's Assistant               │ false │ false      │ false │
+│ 31  │ Minhee Yeo                 │ Dr. Cho's Assistant               │ false │ false      │ false │
+│ 32  │ Bentley Kalu               │ Klaue's Mercenary                 │ false │ false      │ false │
+│ 33  │ Julian Bleach              │ Ballet Instructor                 │ false │ false      │ false │
+│ 34  │ Christopher Beasley        │ Johannesburg Cop                  │ false │ false      │ false │
+│ 35  │ Vuyo Dabula                │ Johannesburg Cop                  │ false │ false      │ false │
+│ 36  │ Nondumiso Tembe            │ Johannesburg Driver               │ false │ false      │ false │
+│ 37  │ Kabelo Thai                │ Johannesburg Onlooker             │ false │ false      │ false │
+│ 38  │ Lele Ledwaba               │ Johannesburg Onlooker             │ false │ false      │ false │
+│ 39  │ Mandla Gaduka              │ Johannesburg Onlooker             │ false │ false      │ false │
+│ 40  │ Harriet Manamela           │ Johannesburg Onlooker             │ false │ false      │ false │
+│ 41  │ Beulah Hashe               │ Johannesburg Onlooker             │ false │ false      │ false │
+│ 42  │ Musca Kumalo               │ Johannesburg Onlooker             │ false │ false      │ false │
+│ 43  │ Mathapelo September        │ Johannesburg Onlooker             │ false │ false      │ false │
+│ 44  │ Antony Acheampong          │ Johannesburg Elevator Passenger   │ false │ false      │ false │
+│ 45  │ Chioma Anyanwu             │ Johannesburg Elevator Passenger   │ false │ false      │ false │
+│ 46  │ Ben Sakamoto               │ Cooper Barton                     │ true  │ false      │ false │
+│ 47  │ Imogen Poynton             │ Lila Barton                       │ true  │ false      │ false │
+│ 48  │ Isabella Poynton           │ Lila Barton                       │ true  │ false      │ false │
+│ 49  │ Ingvild Deila              │ World Hub Tech                    │ false │ false      │ false │
+│ 50  │ Sunny Yeo                  │ Korean Train Passenger            │ false │ false      │ false │
+│ 51  │ Namju Go                   │ Korean Train Passenger            │ false │ false      │ false │
+│ 52  │ Mina Kweon                 │ Korean Train Passenger            │ false │ false      │ false │
+│ 53  │ Earl T. Kim                │ Korean Train Passenger            │ false │ false      │ false │
+│ 54  │ Arthur Lee                 │ Korean Train Passenger            │ false │ false      │ false │
+│ 55  │ Verity Hewlitt             │ Sokovian Family                   │ false │ false      │ false │
+│ 56  │ Michael Matovski           │ Sokovian Family                   │ false │ false      │ false │
+│ 57  │ Alma Noce                  │ Sokovian Family                   │ false │ false      │ false │
+│ 58  │ Riccardo Richetta          │ Sokovian Family                   │ false │ false      │ false │
+│ 59  │ Constanza Ruff             │ Sokovian Woman                    │ false │ false      │ false │
+│ 60  │ Monty Mclaren-Clark        │ Tub Family Child                  │ false │ false      │ false │
+│ 61  │ Julia Krynke               │ Sokovian Driver                   │ false │ false      │ false │
+│ 62  │ Tony Christian             │ Sokovian SUV Driver               │ false │ false      │ false │
+│ 63  │ Ian Kay                    │ Sokovian SUV Passenger            │ false │ false      │ false │
+│ 64  │ Barry Aird                 │ Sokovian Police Captain           │ false │ false      │ false │
+│ 65  │ Aaron Himelstein           │ Specialist Cameron Klein          │ false │ false      │ false │
+│ 66  │ Kerry Condon               │ Friday                            │ true  │ false      │ true  │
+│ 67  │ Jaiden Stafford            │ Nathaniel Pietro Barton           │ true  │ false      │ false │
+│ 68  │ Joseph M. Abbott           │ Party Guest                       │ false │ true       │ false │
+│ 69  │ Mohammed Ali               │ Worker in a Scientific Laboratory │ false │ true       │ false │
+│ 70  │ Freddie Andrews            │ Party Guest                       │ false │ true       │ false │
+│ 71  │ David Olawale Ayinde       │ Somalian Ship Worker              │ false │ true       │ false │
+│ 72  │ Nikita Baron               │ Ballet Dancer                     │ false │ true       │ false │
+│ 73  │ Gintare Beinoraviciute     │ Citizen                           │ false │ true       │ false │
+│ 74  │ Francesca Bennett          │ Sokovian Driver                   │ false │ true       │ false │
+│ 75  │ Laura Bernardeschi         │ Sokovian Citizen                  │ false │ true       │ false │
+│ 76  │ Dilyana Bouklieva          │ Sokovian Citizen                  │ false │ true       │ false │
+│ 77  │ Dante Briggins             │ Party Guest                       │ false │ true       │ false │
+│ 78  │ Josh Brolin                │ Thanos                            │ true  │ true       │ false │
+│ 79  │ Rowdy Brown                │ Cop                               │ false │ true       │ false │
+│ 80  │ Billy Burke                │ Dancer                            │ false │ true       │ false │
+│ 81  │ Cheryl Burniston           │ Sergeant                          │ false │ true       │ false │
+│ 82  │ Abbey Marise Butler        │ American                          │ false │ true       │ false │
+│ 83  │ Michael Chapman            │ Lab Tech Scientist                │ false │ true       │ false │
+│ 84  │ Leigh Daniels              │ Dancer                            │ false │ true       │ false │
+│ 85  │ Marianna Dean              │ Party Guest                       │ false │ true       │ false │
+│ 86  │ Lukas DiSparrow            │ Sok                               │ true  │ true       │ false │
+│ 87  │ Thom Dobbin                │ Party Guest                       │ false │ true       │ false │
+│ 88  │ Alexandra Doyle            │ Reporter                          │ false │ true       │ false │
+│ 89  │ Keith Fausnaught           │ Pedestrian                        │ false │ true       │ false │
+│ 90  │ Aurora Fearnley            │ Marine                            │ false │ true       │ false │
+│ 91  │ Lou Ferrigno               │ Hulk                              │ true  │ true       │ true  │
+│ 92  │ Hannah Flynn               │ Dancer                            │ false │ true       │ false │
+│ 93  │ Robert J. Fraser           │ Youth                             │ false │ true       │ false │
+│ 94  │ Adam Gary                  │ Sokovian                          │ false │ true       │ false │
+│ 95  │ Alex Gillison              │ Masked Asgardian                  │ false │ true       │ false │
+│ 96  │ Sophie Gooding             │ Club Dancer                       │ false │ true       │ false │
+│ 97  │ Guna Gultniece             │ Student                           │ false │ true       │ false │
+│ 98  │ Mark Haldor                │ Asgardian                         │ false │ true       │ false │
+│ 99  │ Beshoy Hanna               │ Pedestrian                        │ false │ true       │ false │
+│ 100 │ Salem Hanna                │ Party Guest                       │ false │ true       │ false │
+│ 101 │ Sam Hanover                │ Sokovian Citizen                  │ false │ true       │ false │
+│ 102 │ Robin Harvey               │ South African Mall Patron         │ false │ true       │ false │
+│ 103 │ Jason Her                  │ TV News Anchor                    │ false │ true       │ false │
+│ 104 │ Leigh Holland              │ Masked Asgardian                  │ false │ true       │ false │
+│ 105 │ Kornelia Horvath           │ Sokovian                          │ false │ true       │ false │
+│ 106 │ Bron James                 │ Lab Technician                    │ false │ true       │ false │
+│ 107 │ Mariola Jaworska           │ Sokovian                          │ false │ true       │ false │
+│ 108 │ Marcus G. Johnson          │ Shield Agent                      │ false │ true       │ false │
+│ 109 │ Attila G. Kerekes          │ Sokovian Citizen                  │ false │ true       │ false │
+│ 110 │ Denis Khoroshko            │ Sokovian Driver Pavlov            │ false │ true       │ false │
+│ 111 │ Hrvoje Klecz               │ Party Guest                       │ false │ true       │ false │
+│ 112 │ Irina Klimovich            │ Sokovian Students                 │ false │ true       │ false │
+│ 113 │ Devin Koehler              │ Citizen                           │ false │ true       │ false │
+│ 114 │ Lex Lang                   │ Sokovian Soldier                  │ false │ true       │ false │
+│ 115 │ Jamie Lengyel              │ Evil Hydra Scientist              │ false │ true       │ false │
+│ 116 │ Jorge Leon Martinez        │ Stark Guest                       │ false │ true       │ false │
+│ 117 │ Benjamin Lim               │ Boy on the Train                  │ false │ true       │ false │
+│ 118 │ Marian Lorencik            │ Sokovian                          │ false │ true       │ false │
+│ 119 │ Edina Loskay               │ Sokovian                          │ false │ true       │ false │
+│ 120 │ Bartosz Malarski           │ Sokovian Student                  │ false │ true       │ false │
+│ 121 │ Lena Milan                 │ Sokovian Agent                    │ false │ true       │ true  │
+│ 122 │ Eric Morcos                │ The Agent                         │ false │ true       │ false │
+│ 123 │ Joti Nagra                 │ Student                           │ false │ true       │ false │
+│ 124 │ Nick W. Nicholson          │ Dr. Taryl Jenkins                 │ true  │ true       │ false │
+│ 125 │ Judit Novotnik             │ Sokovian                          │ false │ true       │ false │
+│ 126 │ Emeson Nwolie              │ Businessman                       │ false │ true       │ false │
+│ 127 │ Sigmund Oakeshott          │ USO Military Policeman            │ false │ true       │ false │
+│ 128 │ Andrea-Nichole Olivas      │ S.H.I.E.L.D agent                 │ false │ true       │ false │
+│ 129 │ Zakk Pierce                │ Sokovian Boy                      │ false │ true       │ false │
+│ 130 │ Andrew James Porter        │ Party Guest                       │ false │ true       │ false │
+│ 131 │ Guy Potter                 │ British Officer                   │ false │ true       │ false │
+│ 132 │ Tim Powell                 │ DEA Director                      │ false │ true       │ false │
+│ 133 │ Diezel Ramos               │ Masked Asgardian                  │ false │ true       │ false │
+│ 134 │ Dagny Rollins              │ Girl on the Train                 │ false │ true       │ false │
+│ 135 │ Anthony J Sacco            │ Party Guest                       │ false │ true       │ false │
+│ 136 │ Danielle Saunders          │ S.H.I.E.L.D. Agent                │ false │ true       │ false │
+│ 137 │ Faye Sewell                │ Oslo Hub Scientist                │ false │ true       │ false │
+│ 138 │ Megyn Shott                │ Car Driver                        │ false │ true       │ false │
+│ 139 │ Bari Suzuki                │ Shield Agent                      │ false │ true       │ false │
+│ 140 │ Georgie-May Tearle         │ Student                           │ false │ true       │ false │
+│ 141 │ Chris Townsend             │ Party Guest                       │ false │ true       │ false │
+│ 142 │ Daniel Westwood            │ Asgardian God                     │ false │ true       │ false │
+│ 143 │ Tatiana Zarubova           │ Sokovian                          │ false │ true       │ false │

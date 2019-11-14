@@ -1,0 +1,142 @@
+138×5 DataFrame
+│ Row │ actor                       │ character                           │ named │ uncredited │ voice │
+│     │ String                      │ String                              │ Bool  │ Bool       │ Bool  │
+├─────┼─────────────────────────────┼─────────────────────────────────────┼───────┼────────────┼───────┤
+│ 1   │ Robert Downey Jr.           │ Tony Stark                          │ true  │ false      │ false │
+│ 2   │ Gwyneth Paltrow             │ Pepper Potts                        │ true  │ false      │ false │
+│ 3   │ Don Cheadle                 │ Lt. Col. James 'Rhodey' Rhodes      │ true  │ false      │ false │
+│ 4   │ Scarlett Johansson          │ Natalie Rushman / Natasha Romanoff  │ true  │ false      │ false │
+│ 5   │ Sam Rockwell                │ Justin Hammer                       │ true  │ false      │ false │
+│ 6   │ Mickey Rourke               │ Ivan Vanko                          │ true  │ false      │ false │
+│ 7   │ Samuel L. Jackson           │ Nick Fury                           │ true  │ false      │ false │
+│ 8   │ Clark Gregg                 │ Agent Coulson                       │ true  │ false      │ false │
+│ 9   │ John Slattery               │ Howard Stark                        │ true  │ false      │ false │
+│ 10  │ Garry Shandling             │ Senator Stern                       │ true  │ false      │ false │
+│ 11  │ Paul Bettany                │ JARVIS                              │ true  │ false      │ true  │
+│ 12  │ Kate Mara                   │ U.S. Marshal                        │ false │ false      │ false │
+│ 13  │ Leslie Bibb                 │ Christine Everhart                  │ true  │ false      │ false │
+│ 14  │ Jon Favreau                 │ Happy Hogan                         │ true  │ false      │ false │
+│ 15  │ Christiane Amanpour         │ Christiane Amanpour                 │ true  │ false      │ false │
+│ 16  │ Philippe Bergeron           │ Detective Lemieux                   │ true  │ false      │ false │
+│ 17  │ James Bethea                │ Security Force #1                   │ false │ false      │ false │
+│ 18  │ Michael Bruno               │ Security Force #2                   │ false │ false      │ false │
+│ 19  │ Kate Clark                  │ Expo Fan                            │ false │ false      │ false │
+│ 20  │ Luminita Docan              │ Russian Newscaster                  │ false │ false      │ false │
+│ 21  │ François Duhamel            │ French Photographer                 │ false │ false      │ false │
+│ 22  │ Larry Ellison               │ Larry Ellison                       │ true  │ false      │ false │
+│ 23  │ DJ AM                       │ Adam Goldstein                      │ true  │ false      │ false │
+│ 24  │ Tim Guinee                  │ Major Allen                         │ true  │ false      │ false │
+│ 25  │ Eric L. Haney               │ General Meade                       │ true  │ false      │ false │
+│ 26  │ Ali Khan                    │ 10 Rings Gangster                   │ false │ false      │ false │
+│ 27  │ Evgeniy Lazarev             │ Anton Vanko                         │ true  │ false      │ false │
+│ 28  │ Stan Lee                    │ Stan Lee                            │ false │ false      │ false │
+│ 29  │ Isaiah Guyman Martin IV     │ AV Operator                         │ false │ false      │ false │
+│ 30  │ Helena Mattsson             │ Rebecca                             │ true  │ false      │ false │
+│ 31  │ Keith Middlebrook           │ Expo Cop                            │ false │ false      │ false │
+│ 32  │ Anya Monzikova              │ Rebeka                              │ true  │ false      │ false │
+│ 33  │ Margy Stein                 │ Bambi Arbogast                      │ true  │ false      │ false │
+│ 34  │ Olivia Munn                 │ Chess Roberts                       │ true  │ false      │ false │
+│ 35  │ Elon Musk                   │ Elon Musk                           │ true  │ false      │ false │
+│ 36  │ Bill O'Reilly               │ Bill O'Reilly                       │ true  │ false      │ false │
+│ 37  │ Alejandro Patiño            │ Strawberry Vendor                   │ false │ false      │ false │
+│ 38  │ Davin Ransom                │ Young Tony Stark                    │ false │ false      │ false │
+│ 39  │ Karim Saleh                 │ Guard                               │ false │ false      │ false │
+│ 40  │ Brian Schaeffer             │ Hammer Expo Tech                    │ false │ false      │ false │
+│ 41  │ Phillipe Simon              │ French Waiter                       │ false │ false      │ false │
+│ 42  │ Jack White                  │ Jack                                │ true  │ false      │ false │
+│ 43  │ Melanie Brown               │ Ironette Dancer                     │ false │ false      │ false │
+│ 44  │ Krystal Ellsworth           │ Ironette Dancer                     │ false │ false      │ false │
+│ 45  │ Victoria Gracie             │ Ironette Dancer                     │ false │ false      │ false │
+│ 46  │ Gina Cantrell               │ Ironette Dancer                     │ false │ false      │ false │
+│ 47  │ Renee Herlocker             │ Ironette Dancer                     │ false │ false      │ false │
+│ 48  │ Jill Ann Pineda-Arnold      │ Ironette Dancer                     │ false │ false      │ false │
+│ 49  │ Sandy Colton                │ Ironette Dancer                     │ false │ false      │ false │
+│ 50  │ Annika Ihnat                │ Ironette Dancer                     │ false │ false      │ false │
+│ 51  │ Jenny Robinson              │ Ironette Dancer                     │ false │ false      │ false │
+│ 52  │ Lindsay Dennis              │ Ironette Dancer                     │ false │ false      │ false │
+│ 53  │ Jennifer D. Johnson         │ Ironette Dancer                     │ false │ false      │ false │
+│ 54  │ Lindsay Rosenberg           │ Ironette Dancer                     │ false │ false      │ false │
+│ 55  │ Hannah Douglass             │ Ironette Dancer                     │ false │ false      │ false │
+│ 56  │ Brooke Long                 │ Ironette Dancer                     │ false │ false      │ false │
+│ 57  │ Rachele Brooke Smith        │ Ironette Dancer                     │ false │ false      │ false │
+│ 58  │ Nadine Ellis                │ Ironette Dancer                     │ false │ false      │ false │
+│ 59  │ Kylette Zamora              │ Ironette Dancer                     │ false │ false      │ false │
+│ 60  │ Ted Alderman                │ News Cameraman                      │ false │ true       │ false │
+│ 61  │ Donessa Alexander           │ Birthday Party Guest / Expo Guest   │ false │ false      │ false │
+│ 62  │ Martin Andris               │ Expo Greeter                        │ false │ true       │ false │
+│ 63  │ Cassity Atkins              │ Expo Patron                         │ false │ true       │ false │
+│ 64  │ Ayelet'                     │ Model                               │ false │ true       │ false │
+│ 65  │ Russell Vance Bailey        │ Expo Attendee                       │ false │ true       │ false │
+│ 66  │ Gregory Baldi               │ Monaco Grand Prix Restaurant Guest  │ false │ true       │ false │
+│ 67  │ Elya Beer                   │ Bartender                           │ false │ true       │ false │
+│ 68  │ Jordan Bobbitt              │ Little Girl at EXPO Gala            │ false │ true       │ false │
+│ 69  │ Chris Borden                │ Dignitary / Expo Attendee           │ false │ false      │ false │
+│ 70  │ Lauren C. Brooks            │ Expo Attendee                       │ false │ true       │ false │
+│ 71  │ Pete Brown                  │ Air Force Major                     │ false │ true       │ false │
+│ 72  │ Basilina Butler             │ Tony Stark Racing Fan               │ false │ true       │ false │
+│ 73  │ Elizabeth J. Carlisle       │ Birthday Party Guest                │ false │ true       │ false │
+│ 74  │ Michael Cash                │ VIP Expo Guest                      │ false │ true       │ false │
+│ 75  │ John Ceallach               │ Captain Anders                      │ true  │ true       │ false │
+│ 76  │ Katie Cleary                │ Beautiful Girl                      │ false │ true       │ false │
+│ 77  │ Ajarae Coleman              │ Expo Guest                          │ false │ true       │ false │
+│ 78  │ Christian Contreras         │ Expo attendee                       │ false │ true       │ false │
+│ 79  │ Rosa Costanza               │ Background                          │ false │ true       │ false │
+│ 80  │ Rick L. Dean                │ Monte Carlo Race Fan                │ false │ true       │ false │
+│ 81  │ Timothy 'TJ' James Driscoll │ French Prison Guard #2              │ false │ true       │ false │
+│ 82  │ Josh Driver                 │ Expo Guest                          │ false │ true       │ false │
+│ 83  │ Jasmine Dustin              │ Watermelon Girl                     │ false │ true       │ false │
+│ 84  │ Max Favreau                 │ Expo Kid                            │ false │ true       │ false │
+│ 85  │ Sam Felman                  │ Stark Expo Attendee                 │ false │ true       │ false │
+│ 86  │ Caitlin Gallo               │ I Love You girl                     │ false │ true       │ false │
+│ 87  │ Shakira Vanise Gamble       │ Pepper's Party Guest                │ false │ true       │ false │
+│ 88  │ Paul Grace                  │ French Prison Guard #1              │ false │ true       │ false │
+│ 89  │ Clare Grant                 │ Expo Fan                            │ false │ true       │ false │
+│ 90  │ James Granville             │ Expo Fan                            │ false │ true       │ false │
+│ 91  │ Seth Green                  │ Expo Fan                            │ false │ true       │ false │
+│ 92  │ Kathryn Henzler             │ Expo Attendee                       │ false │ true       │ false │
+│ 93  │ Cary Huff                   │ VIP Expo Guest                      │ false │ true       │ false │
+│ 94  │ Dustin Jacobs               │ Expo Attendee                       │ false │ true       │ false │
+│ 95  │ Jennifer Lynne Johnson      │ Expo Attendee                       │ false │ true       │ false │
+│ 96  │ Ralph Kampshoff             │ USAF Maj. General Saunders          │ true  │ true       │ false │
+│ 97  │ Robert E. Kerr              │ Racetrack Photographer              │ false │ true       │ false │
+│ 98  │ Mark Kubr                   │ Prisoner                            │ false │ true       │ false │
+│ 99  │ Kevin Lapsley               │ Race Car Fan                        │ false │ true       │ false │
+│ 100 │ Cameron Lee                 │ Senate Page                         │ true  │ true       │ false │
+│ 101 │ Jee-Yun Lee                 │ Reporter                            │ false │ true       │ false │
+│ 102 │ Waymond Lee                 │ Expo Guest                          │ false │ true       │ false │
+│ 103 │ Mathew Lorenceau            │ Prison Guard Chevalier              │ false │ true       │ false │
+│ 104 │ Christopher Maleki          │ Reporter                            │ false │ true       │ false │
+│ 105 │ Richard Markman             │ Photographer at Senate hearing      │ false │ true       │ false │
+│ 106 │ Matt McColm                 │ Guard                               │ false │ true       │ false │
+│ 107 │ Bryan McCoy                 │ Expo Guest                          │ false │ true       │ false │
+│ 108 │ Heather S. Michaels         │ Reporter                            │ false │ true       │ false │
+│ 109 │ Tony Montalbano             │ Spectator                           │ false │ true       │ false │
+│ 110 │ Ed Moy                      │ Awards Attendee                     │ false │ true       │ false │
+│ 111 │ Kinyumba Mutakabbir         │ Security Officer                    │ false │ true       │ false │
+│ 112 │ Aryn Nelson                 │ Stark Expo Attendee                 │ false │ true       │ false │
+│ 113 │ Delka Nenkova               │ Russian Woman                       │ false │ true       │ false │
+│ 114 │ Tony Nevada                 │ SWAT Sergeant Bellows               │ false │ true       │ false │
+│ 115 │ Nick W. Nicholson           │ Stark Expo Attendee                 │ false │ true       │ false │
+│ 116 │ Stephen P. Nick             │ VIP Expo Guest                      │ false │ true       │ false │
+│ 117 │ Allison Ochmanek            │ Watermelon Girl                     │ false │ true       │ false │
+│ 118 │ Nicolas Pajon               │ French Reporter                     │ false │ true       │ false │
+│ 119 │ Victor J.W. Pekarcik III    │ White House Chief of Staff          │ false │ true       │ false │
+│ 120 │ Joy Sydney Peters           │ Actress                             │ false │ true       │ false │
+│ 121 │ Erin Pickett                │ Expo Guest                          │ false │ true       │ false │
+│ 122 │ Olivia Presley              │ Expo VIP                            │ false │ true       │ false │
+│ 123 │ Steven James Price          │ Senate Gallery Member               │ false │ true       │ false │
+│ 124 │ Kiana Prudhont              │ Expo Kid                            │ false │ true       │ false │
+│ 125 │ Kristin Quick               │ VIP Expo Guest                      │ false │ true       │ false │
+│ 126 │ Tanner Alexander Redman     │ 1960's Film Crew                    │ false │ true       │ false │
+│ 127 │ Tanoai Reed                 │ Security Guard Fighting Happy Hogan │ false │ true       │ false │
+│ 128 │ Anthony J Sacco             │ Expo Guest                          │ false │ true       │ false │
+│ 129 │ Kelly Sarah Samuels         │ Stark Expo Attendee                 │ false │ true       │ false │
+│ 130 │ Torin Sixx                  │ Pepper's Birthday Party Guest       │ false │ true       │ false │
+│ 131 │ Peter Trenholm Smith        │ Senator                             │ false │ true       │ false │
+│ 132 │ Grace Stanley               │ Model                               │ false │ true       │ false │
+│ 133 │ Douglas Swander             │ Party Guest                         │ false │ true       │ false │
+│ 134 │ Michael A. Templeton        │ US Senator                          │ false │ true       │ false │
+│ 135 │ Denise Vasquez              │ Sci Expo Attendee                   │ false │ true       │ false │
+│ 136 │ Lucy Walsh                  │ Scientist in explosion              │ false │ true       │ false │
+│ 137 │ Peter Sebastian Wrobell     │ Tony Stark Usher                    │ false │ true       │ false │
+│ 138 │ Maria Zambrana              │ Expo Attendee                       │ false │ true       │ false │

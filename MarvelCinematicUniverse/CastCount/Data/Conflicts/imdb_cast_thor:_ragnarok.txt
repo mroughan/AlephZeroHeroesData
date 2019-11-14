@@ -1,0 +1,123 @@
+119×5 DataFrame
+│ Row │ actor                  │ character                                 │ named │ uncredited │ voice │
+│     │ String                 │ String                                    │ Bool  │ Bool       │ Bool  │
+├─────┼────────────────────────┼───────────────────────────────────────────┼───────┼────────────┼───────┤
+│ 1   │ Chris Hemsworth        │ Thor                                      │ true  │ false      │ false │
+│ 2   │ Tom Hiddleston         │ Loki                                      │ true  │ false      │ false │
+│ 3   │ Cate Blanchett         │ Hela                                      │ true  │ false      │ false │
+│ 4   │ Idris Elba             │ Heimdall                                  │ true  │ false      │ false │
+│ 5   │ Jeff Goldblum          │ Grandmaster                               │ true  │ false      │ false │
+│ 6   │ Tessa Thompson         │ Valkyrie                                  │ true  │ false      │ false │
+│ 7   │ Karl Urban             │ Skurge                                    │ true  │ false      │ false │
+│ 8   │ Mark Ruffalo           │ Bruce Banner / Hulk                       │ true  │ false      │ false │
+│ 9   │ Anthony Hopkins        │ Odin                                      │ true  │ false      │ false │
+│ 10  │ Benedict Cumberbatch   │ Doctor Strange                            │ true  │ false      │ false │
+│ 11  │ Taika Waititi          │ Korg                                      │ true  │ false      │ true  │
+│ 12  │ Rachel House           │ Topaz                                     │ true  │ false      │ false │
+│ 13  │ Clancy Brown           │ Surtur                                    │ true  │ false      │ true  │
+│ 14  │ Tadanobu Asano         │ Hogun                                     │ true  │ false      │ false │
+│ 15  │ Ray Stevenson          │ Volstagg                                  │ true  │ false      │ false │
+│ 16  │ Zachary Levi           │ Fandral                                   │ true  │ false      │ false │
+│ 17  │ Georgia Blizzard       │ Asgardian Date #1                         │ false │ false      │ false │
+│ 18  │ Amali Golden           │ Asgardian Date #2                         │ false │ false      │ false │
+│ 19  │ Luke Hemsworth         │ Actor Thor                                │ false │ false      │ false │
+│ 20  │ Sam Neill              │ Actor Odin                                │ false │ false      │ false │
+│ 21  │ Charlotte Nicdao       │ Actor Sif                                 │ false │ false      │ false │
+│ 22  │ Ash Ricardo            │ Odin's Assistant                          │ false │ false      │ false │
+│ 23  │ Shalom Brune-Franklin  │ College Girl #1                           │ false │ false      │ false │
+│ 24  │ Taylor Hemsworth       │ College Girl #2                           │ false │ false      │ false │
+│ 25  │ Cohen Holloway         │ Lead Scrapper                             │ false │ false      │ false │
+│ 26  │ Alia Seror-O'Neill     │ Golden Lady #1                            │ false │ false      │ false │
+│ 27  │ Sophia Laryea          │ Golden Lady #2                            │ false │ false      │ false │
+│ 28  │ Steven Oliver          │ Cousin Carlo                              │ true  │ false      │ false │
+│ 29  │ Hamish Parkinson       │ Beerbot 5000                              │ false │ false      │ false │
+│ 30  │ Jasper Bagg            │ Warden                                    │ false │ false      │ false │
+│ 31  │ Sky Castanho           │ Asgardian Daughter                        │ false │ false      │ false │
+│ 32  │ Shari Sebbens          │ Asgardian Mother                          │ false │ false      │ false │
+│ 33  │ Richard Green          │ Asgardian Uncle                           │ false │ false      │ false │
+│ 34  │ Sol Castanho           │ Asgardian Son                             │ false │ false      │ false │
+│ 35  │ Jet Tranter            │ Valkyrie Sister #1                        │ false │ false      │ false │
+│ 36  │ Samantha Hopper        │ Valkyrie Sister #2                        │ false │ false      │ false │
+│ 37  │ Eloise Winestock       │ Asgardian Woman                           │ false │ false      │ false │
+│ 38  │ Rob Mayes              │ Asgardian Man                             │ false │ false      │ false │
+│ 39  │ Jordan Abbey-Young     │ Sakaaran Citizen                          │ false │ true       │ false │
+│ 40  │ Bashir Ally            │ Indra                                     │ true  │ true       │ false │
+│ 41  │ Martin Sta Ana         │ Sakarian Citizen                          │ false │ true       │ false │
+│ 42  │ Brenton Ashe           │ NYPD Officer                              │ false │ true       │ false │
+│ 43  │ David James Austin     │ Asgardian / NY Passer-By                  │ false │ false      │ false │
+│ 44  │ Sydney Shea Barker     │ Asgardian                                 │ false │ true       │ false │
+│ 45  │ Donnie Baxter          │ GM Pilot                                  │ false │ true       │ false │
+│ 46  │ Lexy Bernardo          │ Sakaaran Citizen                          │ false │ true       │ false │
+│ 47  │ Hunter Stratton Boland │ Sakaaran                                  │ false │ true       │ false │
+│ 48  │ Gabby Carbon           │ Actor Jane Foster                         │ false │ true       │ false │
+│ 49  │ Greta Carew-Johns      │ Grandmaster VIP                           │ false │ true       │ false │
+│ 50  │ Jo Christiaans         │ Asgardian                                 │ false │ true       │ false │
+│ 51  │ Brodie Cornish         │ Asgardian Girl                            │ false │ true       │ false │
+│ 52  │ Jacob Crawford         │ Asgardian Patron #2                       │ false │ true       │ false │
+│ 53  │ Matt Damon             │ Actor Loki                                │ false │ true       │ false │
+│ 54  │ Melissa Dawe           │ Asgardian                                 │ false │ true       │ false │
+│ 55  │ Cameron Dean           │ Asgardian Guard                           │ false │ true       │ false │
+│ 56  │ Suzanne Dervish-Ali    │ Asgardian                                 │ false │ true       │ false │
+│ 57  │ Liam Hop Yek Dodds     │ Asgardian Boy                             │ false │ true       │ false │
+│ 58  │ Liam Donnelly          │ Asgardian                                 │ false │ true       │ false │
+│ 59  │ Sasha Dulics           │ New York City Passerby                    │ false │ true       │ false │
+│ 60  │ Aimee Duroux           │ Asgardian                                 │ false │ true       │ false │
+│ 61  │ Simon Durrell          │ Asgardian Noble                           │ false │ true       │ false │
+│ 62  │ Shinaed Evans          │ Asgardian                                 │ false │ true       │ false │
+│ 63  │ Tracie Filmer          │ Asgardian                                 │ false │ true       │ false │
+│ 64  │ Sean Edward Frazer     │ Asgardian                                 │ false │ true       │ false │
+│ 65  │ Daniel Goodwin         │ Asgardian                                 │ false │ true       │ false │
+│ 66  │ Adam Green             │ New York Businessman                      │ false │ true       │ false │
+│ 67  │ Charles Green          │ Asgardian Patron #1                       │ false │ true       │ false │
+│ 68  │ Dylan Kai Harris       │ Asgardian Refugee                         │ false │ true       │ false │
+│ 69  │ Roberto Harrison       │ Asgardian                                 │ false │ true       │ false │
+│ 70  │ Tahlia Jade Holt       │ Asgardian                                 │ false │ true       │ false │
+│ 71  │ Bobby Hoskins          │ Asgardian                                 │ false │ true       │ false │
+│ 72  │ Apollo Jackson         │ Gladiator                                 │ false │ true       │ false │
+│ 73  │ Cale Kampers           │ Asgardian                                 │ false │ true       │ false │
+│ 74  │ Dean Kenny             │ Trainee Guard                             │ false │ true       │ false │
+│ 75  │ Joel Knights           │ Sakaaran Citizen / Floatychairan Prisoner │ false │ false      │ false │
+│ 76  │ David Knijnenburg      │ Asgardian Refugee                         │ false │ true       │ false │
+│ 77  │ Stephanie Kutty        │ Asgardian                                 │ false │ true       │ false │
+│ 78  │ Demetri Landell        │ Asgardian                                 │ false │ true       │ false │
+│ 79  │ Stan Lee               │ Barber                                    │ false │ true       │ false │
+│ 80  │ Braden Lewis           │ Asgardian Child                           │ false │ true       │ false │
+│ 81  │ Jordan Lewis           │ Asgardian Child                           │ false │ true       │ false │
+│ 82  │ Dan Logovik            │ Asgardian                                 │ false │ true       │ false │
+│ 83  │ Steven Lunavich        │ Heavy Set Man                             │ false │ true       │ false │
+│ 84  │ Alexandra MacDonald    │ Sakaarian                                 │ false │ true       │ false │
+│ 85  │ Georgia Mae            │ Asgardian                                 │ false │ true       │ false │
+│ 86  │ Mervyn Marriott        │ Asgardian / New Yorker                    │ false │ false      │ false │
+│ 87  │ Tracey Lee Maxwell     │ Asgardian Servant                         │ false │ true       │ false │
+│ 88  │ Mollie McGregor        │ Twin Sakaaran Citizen                     │ false │ true       │ false │
+│ 89  │ Sophia McGregor        │ Twin Sakaaran Citizen                     │ false │ true       │ false │
+│ 90  │ Andrew S. McMillan     │ Gladiator                                 │ false │ true       │ false │
+│ 91  │ Declan McMurray        │ Asgardian                                 │ false │ true       │ false │
+│ 92  │ Abhishek Mehta         │ Asgardian                                 │ false │ true       │ false │
+│ 93  │ Anthony Miller         │ Grand Master Guard                        │ false │ true       │ false │
+│ 94  │ Paris Moletti          │ NYC Passerby                              │ false │ true       │ false │
+│ 95  │ Sam Monaghan           │ Asguardian                                │ false │ true       │ false │
+│ 96  │ Gideon Mzembe          │ Asgardian                                 │ false │ true       │ false │
+│ 97  │ Winnie Mzembe          │ Asgardian                                 │ false │ true       │ false │
+│ 98  │ Jip Panosot            │ Asgardian Refugee                         │ false │ true       │ false │
+│ 99  │ Kai Pantano            │ Soldier of Asgard                         │ false │ true       │ false │
+│ 100 │ Anna Patch             │ Dancing Sakarian                          │ false │ true       │ false │
+│ 101 │ Samuel Peacock         │ Asgardian                                 │ false │ true       │ false │
+│ 102 │ Erin Hayley Powell     │ Asgardian                                 │ false │ true       │ false │
+│ 103 │ Jon Quested            │ Einherjar Guard                           │ false │ true       │ false │
+│ 104 │ Stephanie Riggio       │ Quinjet                                   │ false │ true       │ true  │
+│ 105 │ Lachlan Robbie         │ Special Abilities Driver                  │ false │ true       │ false │
+│ 106 │ Paul Rosenblum         │ Asgardian                                 │ false │ true       │ false │
+│ 107 │ Michael Stent          │ Asgardian                                 │ false │ true       │ false │
+│ 108 │ Lara Thomas            │ Sakaaran Citizen                          │ false │ true       │ false │
+│ 109 │ Tennille Thomas        │ Sakaaran Citizen                          │ false │ true       │ false │
+│ 110 │ Josh Torr              │ Palace Guard #2                           │ false │ true       │ false │
+│ 111 │ Krystal Vayda          │ Asgardian Female                          │ false │ true       │ false │
+│ 112 │ Stephen Vining         │ Grandmaster Guard                         │ false │ true       │ false │
+│ 113 │ Jason Virgil           │ Asgardian Elder                           │ false │ true       │ false │
+│ 114 │ Beatrice Ward          │ Asgardian Citizen                         │ false │ true       │ false │
+│ 115 │ Ken Watanabe           │ Asgardian Noble                           │ false │ true       │ false │
+│ 116 │ Mikey Wulff            │ Grand Master Guard / Asgardian Refugee    │ false │ false      │ false │
+│ 117 │ Elizabeth Xu           │ Asgardian                                 │ false │ true       │ false │
+│ 118 │ Mike Zarate            │ Asgardian / Choir                         │ false │ false      │ false │
+│ 119 │ Connor Zegenhagen      │ Asgardian                                 │ false │ true       │ false │

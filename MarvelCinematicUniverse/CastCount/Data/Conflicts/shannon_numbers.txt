@@ -1,0 +1,28 @@
+24×7 DataFrame
+│ Row │ Title                               │ TypeOfMovie     │ RunThrough │ NoOfConflicts │ Shannon │ CI_m    │ CI_p    │
+│     │ String                              │ String          │ Int64      │ Int64         │ Float64 │ Float64 │ Float64 │
+├─────┼─────────────────────────────────────┼─────────────────┼────────────┼───────────────┼─────────┼─────────┼─────────┤
+│ 1   │ Iron Man                            │ origin story    │ 1          │ 36            │ 5.00639 │ 4.03555 │ 6.21077 │
+│ 2   │ Iron Man                            │ origin story    │ 2          │ 81            │ 6.83041 │ 5.71567 │ 8.16256 │
+│ 3   │ The Incredible Hulk                 │ origin story    │ 2          │ 92            │ 5.79389 │ 4.95386 │ 6.77637 │
+│ 4   │ Iron Man 2                          │ sequel 1        │ 2          │ 112           │ 7.84377 │ 6.9839  │ 8.80951 │
+│ 5   │ Thor                                │ origin story    │ 2          │ 95            │ 13.5605 │ 11.68   │ 15.7437 │
+│ 6   │ Captain America: The First Avenger  │ origin story    │ 2          │ 99            │ 9.95687 │ 8.57508 │ 11.5613 │
+│ 7   │ The Avengers                        │ team up         │ 1          │ 92            │ 14.2295 │ 12.6394 │ 16.0198 │
+│ 8   │ The Avengers                        │ team up         │ 2          │ 237           │ 14.5092 │ 13.3644 │ 15.7521 │
+│ 9   │ Iron Man 3                          │ sequel 2        │ 2          │ 121           │ 13.2343 │ 11.5532 │ 15.16   │
+│ 10  │ Thor: The Dark World                │ sequel 1        │ 2          │ 106           │ 14.4298 │ 12.8165 │ 16.2462 │
+│ 11  │ Captain America: The Winter Soldier │ sequel 1        │ 2          │ 149           │ 13.2087 │ 11.9331 │ 14.6207 │
+│ 12  │ Guardians of the Galaxy             │ team up         │ 2          │ 157           │ 15.6545 │ 14.1768 │ 17.2862 │
+│ 13  │ Avengers: Age of Ultron             │ team up         │ 1          │ 180           │ 13.3463 │ 12.2683 │ 14.519  │
+│ 14  │ Avengers: Age of Ultron             │ team up         │ 2          │ 302           │ 15.1449 │ 14.0353 │ 16.3423 │
+│ 15  │ Ant-Man                             │ origin story    │ 2          │ 82            │ 8.62088 │ 7.21353 │ 10.3028 │
+│ 16  │ Captain America: Civil War          │ team up         │ 2          │ 263           │ 16.4627 │ 15.3433 │ 17.6638 │
+│ 17  │ Doctor Strange                      │ origin story    │ 2          │ 112           │ 6.93253 │ 6.13914 │ 7.82845 │
+│ 18  │ Spider-Man: Homecoming              │ origin story    │ 2          │ 58            │ 6.99934 │ 5.60336 │ 8.74311 │
+│ 19  │ Guardians of the Galaxy Vol. 2      │ team up         │ 2          │ 127           │ 13.7256 │ 12.6334 │ 14.9122 │
+│ 20  │ Thor: Ragnarok                      │ sequel 2        │ 2          │ 197           │ 14.8258 │ 13.2315 │ 16.6121 │
+│ 21  │ Black Panther                       │ origin story    │ 2          │ 117           │ 11.7733 │ 10.3884 │ 13.3429 │
+│ 22  │ Avengers: Infinity War              │ team up squared │ 2          │ 278           │ 26.6847 │ 24.4869 │ 29.0799 │
+│ 23  │ Ant-Man and the Wasp                │ sequel 1        │ 2          │ 110           │ 11.1517 │ 9.82136 │ 12.6623 │
+│ 24  │ Captain Marvel                      │ origin story    │ 2          │ 165           │ 11.594  │ 10.1693 │ 13.2182 │
