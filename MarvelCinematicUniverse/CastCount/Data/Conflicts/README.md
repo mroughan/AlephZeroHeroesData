@@ -4,16 +4,38 @@ In many cases there are two files. The CSV file is the raw data, which
 is what we use. The TXT file is in a more convenient, human readable
 format for validation. 
 
-1. IMDB derived cast lists (for each movie):
-       imdb_<movie name>.<suffix>
+1. The main file is a large Excel spreadsheet
+        marvel_cinematic_universe_conflict.xlsx
+   which contain lists of conflicts for each movie. The file consists
+   of a set of sheets, one for each movie, and a small set of
+   supplementary information sheets at the start.
 
-   Fields:
-   + Actor: actor name as given in IMDB.
-   + Character: character name as given in IMDB [1].
-   + Named: is the character name a proper name [2].
-   + Uncredited: is the role listed as uncredited in IMDB.
-   + Voice: is the actor listed as a voice actor in IMDB.
+   The format for a single sheet is:
+       + a header (first 4 lines) giving the title, and run through
+       + a list of conflicts
+         The list if divided into sequences with mostly blank lines indicating a new sequence
 
+       	 Fields
+		Context: location (free form text) only at the start of a sequence, with lines of dashes to separate sequences
+		Timestamp: time of conflict in mm.ss format.
+		Type of conflict: [2]
+		Party A:
+		A Enhancement: a number indicated how the character is positive or negatively enhanced in the conflict
+		Party B:
+		B Enhancement: a number indicated how the character is positive or negatively enhanced in the conflict
+		Outcome: the victor (by name) or "inconclusive"
+		Factors ...: the reasons for the enhancements listed above
+       		Notes: additional information (free form text)
+
+         All party names should be canonicalised version of the
+         superhero name (where there is one). 		
+
+       + The list of conflicts is ended by "EOL" in the timestamp
+         column. After this some supplementary information is
+         included. It included for validation only. The structure of
+         this information varies. Please use other datasets for more
+         precise lists of characters etc.
+       
 2. Lists (for each movie) of characters with their frequency of interaction
       
    Fields:
@@ -21,16 +43,6 @@ format for validation.
    + Frequency: frequency with which they appear (in conflicts [2]) in the movie
 
 3. Movie summary statistics 
-
-   numbers.<suffix> -- basic statistics for each movie
-      
-   Fields:
-   + Title
-   + ReleaseYear
-   + Total: total number of characters listed in IMDB.
-   + Named: number of named characters [2]. 
-   + Credited: number of credited characters as listed in IMDB.
-   + Voice : number of voice actor roles.
 
    shannon_numbers.<suffix> -- summary statistics for effective cast
                                size based on number of conflicts
