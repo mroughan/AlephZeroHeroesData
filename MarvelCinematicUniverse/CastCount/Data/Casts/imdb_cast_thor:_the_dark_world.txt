@@ -1,0 +1,97 @@
+93×5 DataFrame
+│ Row │ actor                    │ character                         │ named │ uncredited │ voice │
+│     │ String                   │ String                            │ Bool  │ Bool       │ Bool  │
+├─────┼──────────────────────────┼───────────────────────────────────┼───────┼────────────┼───────┤
+│ 1   │ Chris Hemsworth          │ Thor                              │ true  │ false      │ false │
+│ 2   │ Natalie Portman          │ Jane Foster                       │ true  │ false      │ false │
+│ 3   │ Tom Hiddleston           │ Loki                              │ true  │ false      │ false │
+│ 4   │ Anthony Hopkins          │ Odin                              │ true  │ false      │ false │
+│ 5   │ Christopher Eccleston    │ Malekith                          │ true  │ false      │ false │
+│ 6   │ Jaimie Alexander         │ Sif                               │ true  │ false      │ false │
+│ 7   │ Zachary Levi             │ Fandral                           │ true  │ false      │ false │
+│ 8   │ Ray Stevenson            │ Volstagg                          │ true  │ false      │ false │
+│ 9   │ Tadanobu Asano           │ Hogun                             │ true  │ false      │ false │
+│ 10  │ Idris Elba               │ Heimdall                          │ true  │ false      │ false │
+│ 11  │ Rene Russo               │ Frigga                            │ true  │ false      │ false │
+│ 12  │ Adewale Akinnuoye-Agbaje │ Algrim / Kurse                    │ true  │ false      │ false │
+│ 13  │ Kat Dennings             │ Darcy Lewis                       │ true  │ false      │ false │
+│ 14  │ Stellan Skarsgård        │ Erik Selvig                       │ true  │ false      │ false │
+│ 15  │ Alice Krige              │ Eir                               │ true  │ false      │ false │
+│ 16  │ Clive Russell            │ Tyr                               │ true  │ false      │ false │
+│ 17  │ Jonathan Howard          │ Ian Boothby                       │ true  │ false      │ false │
+│ 18  │ Ramone Morgan            │ John                              │ true  │ false      │ false │
+│ 19  │ Obada Alassadi           │ Navid                             │ true  │ false      │ false │
+│ 20  │ Imaan Chentouf           │ Maddie                            │ true  │ false      │ false │
+│ 21  │ Claire Brown             │ Volstagg's Wife                   │ false │ false      │ false │
+│ 22  │ Henry Calcutt            │ Volstagg's Child #1               │ false │ false      │ false │
+│ 23  │ Ava Caton                │ Volstagg's Child #2               │ false │ false      │ false │
+│ 24  │ Abbie McCann             │ Volstagg's Child #3               │ false │ false      │ false │
+│ 25  │ Thomas Arnold            │ Desk Officer                      │ false │ false      │ false │
+│ 26  │ Sam Swainsbury           │ Stonehenge TV News Reporter       │ false │ false      │ false │
+│ 27  │ Connor Donaghey          │ Sad Child                         │ false │ false      │ false │
+│ 28  │ Royce Pierreson          │ Student                           │ false │ false      │ false │
+│ 29  │ Annabel Norbury          │ Woman on Platform                 │ false │ false      │ false │
+│ 30  │ Sophie Cosson            │ Wench #1                          │ false │ false      │ false │
+│ 31  │ Chris O'Dowd             │ Richard                           │ true  │ false      │ false │
+│ 32  │ Justin Edwards           │ Police Officer #1                 │ false │ false      │ false │
+│ 33  │ Gruffudd Glyn            │ Police Officer #2                 │ false │ false      │ false │
+│ 34  │ Richard Brake            │ Einherjar Lieutenant              │ false │ false      │ false │
+│ 35  │ Stan Lee                 │ Stan Lee                          │ false │ false      │ false │
+│ 36  │ Steve Scott              │ Steve Scott                       │ true  │ false      │ false │
+│ 37  │ Brett Tucker             │ Einherjar Guard                   │ false │ false      │ false │
+│ 38  │ Talulah Riley            │ Nurse                             │ false │ false      │ false │
+│ 39  │ Richard Wharton          │ Asylum Patient                    │ false │ false      │ false │
+│ 40  │ Leonardo Amato           │ Sel                               │ true  │ true       │ false │
+│ 41  │ Alyson Andrews           │ Student                           │ false │ true       │ false │
+│ 42  │ Jason Beeston            │ Dark Elf                          │ false │ true       │ false │
+│ 43  │ Gintare Beinoraviciute   │ City Worker                       │ false │ true       │ false │
+│ 44  │ Conor Boru               │ Asgardian Guard                   │ false │ true       │ false │
+│ 45  │ Jason Bostridge          │ Asgardian Man                     │ false │ true       │ false │
+│ 46  │ Jonathan Brooks          │ Student                           │ false │ true       │ false │
+│ 47  │ Jay E Brown              │ Police Officer                    │ false │ true       │ false │
+│ 48  │ Caleb Campbell           │ Einherjar Prison Guard            │ false │ true       │ false │
+│ 49  │ Greg Chun                │ Additional Voices                 │ false │ true       │ false │
+│ 50  │ Bern Collaço             │ Police Officer                    │ false │ true       │ false │
+│ 51  │ Gary Comerford           │ Diner                             │ false │ true       │ false │
+│ 52  │ Andrew Crayford          │ Celtic Musician                   │ false │ true       │ false │
+│ 53  │ Adam Critchlow           │ Einherjar Guard                   │ false │ true       │ false │
+│ 54  │ Tony Curran              │ Bor                               │ true  │ true       │ false │
+│ 55  │ Rydell Danzie            │ Asgardian Einherjar               │ false │ true       │ false │
+│ 56  │ Benicio Del Toro         │ The Collector                     │ true  │ true       │ false │
+│ 57  │ Aj DeLeon                │ Dark Elf                          │ false │ true       │ false │
+│ 58  │ Chris Evans              │ Loki as Captain America           │ true  │ true       │ false │
+│ 59  │ Chloe Farnworth          │ Asgardian Waitress                │ false │ true       │ false │
+│ 60  │ Martin Fox               │ Police officer                    │ false │ true       │ false │
+│ 61  │ Roshawn Franklin         │ Jenson                            │ true  │ true       │ false │
+│ 62  │ Caroline Garnell         │ Asgardian Woman                   │ false │ true       │ false │
+│ 63  │ Lana Gautier             │ Crying Asgardian                  │ false │ true       │ false │
+│ 64  │ Bella Ava Georgiou       │ Girl with Cameraphone on the Tube │ false │ true       │ false │
+│ 65  │ Justin G. Gibson         │ Celtic Musician                   │ false │ true       │ false │
+│ 66  │ Alex Gillison            │ Asgard Einharjar                  │ false │ true       │ false │
+│ 67  │ Steven Hack              │ Patient #2                        │ false │ true       │ false │
+│ 68  │ Erkan Halil              │ Student                           │ false │ true       │ false │
+│ 69  │ Leigh Holland            │ Dark Elf                          │ false │ true       │ false │
+│ 70  │ Corey Jovan              │ Asgardian Guard                   │ false │ true       │ false │
+│ 71  │ Kamay Lau                │ Vanir Woman                       │ false │ true       │ false │
+│ 72  │ Ophelia Lovibond         │ Carina                            │ true  │ true       │ false │
+│ 73  │ Charles Moss             │ Asgardian Man                     │ false │ true       │ false │
+│ 74  │ Richard Ochampaugh       │ Marauder                          │ false │ true       │ false │
+│ 75  │ Alannah Olivia           │ Library Student                   │ false │ true       │ false │
+│ 76  │ Paul J. Porter           │ Asgardian Einherjar               │ false │ true       │ false │
+│ 77  │ Lilian Price             │ Asgardian Child                   │ false │ true       │ false │
+│ 78  │ James Michael Rankin     │ Odin's Guard                      │ false │ true       │ false │
+│ 79  │ Evie Ryland              │ Asgardian Citizen                 │ false │ true       │ false │
+│ 80  │ Shane Salter             │ Restaurant Customer               │ false │ true       │ false │
+│ 81  │ Andrew Scott-Marshall    │ Marauder                          │ false │ true       │ false │
+│ 82  │ Julian Seager            │ Marauder                          │ false │ true       │ false │
+│ 83  │ Graham Shiels            │ Einherjar                         │ false │ true       │ false │
+│ 84  │ Matthew Skomo            │ Asgardian Einherjar               │ false │ true       │ false │
+│ 85  │ Glen Stanway             │ Desk Officer                      │ false │ true       │ false │
+│ 86  │ Julian Stone             │ Voice Actor                       │ false │ true       │ false │
+│ 87  │ Tom Swacha               │ Asgardian Man                     │ false │ true       │ false │
+│ 88  │ Peter Theobalds          │ Marauder Warrior                  │ false │ true       │ false │
+│ 89  │ Mariano Venida           │ Vanir Leader                      │ false │ true       │ false │
+│ 90  │ Paul Warren              │ Creature Marauder                 │ false │ true       │ false │
+│ 91  │ Richard Whiten           │ Kemper                            │ false │ true       │ false │
+│ 92  │ Bryan Michael Williams   │ Student #2                        │ false │ true       │ false │
+│ 93  │ Christian Wolf-La'Moy    │ Asgardian Guard                   │ false │ true       │ false │

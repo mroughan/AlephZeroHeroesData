@@ -11,7 +11,7 @@ format for validation.
    supplementary information sheets at the start.
 
    The format for a single sheet is:
-       + a header (first 4 lines) giving the title, and run through
+       + a header (first 4 lines) giving the title, and run through (if missing there was only one run through)
        + a list of conflicts
          The list if divided into sequences with mostly blank lines indicating a new sequence
 

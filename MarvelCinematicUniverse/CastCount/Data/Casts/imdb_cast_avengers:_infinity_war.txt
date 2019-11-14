@@ -1,0 +1,109 @@
+105×5 DataFrame
+│ Row │ actor                   │ character                        │ named │ uncredited │ voice │
+│     │ String                  │ String                           │ Bool  │ Bool       │ Bool  │
+├─────┼─────────────────────────┼──────────────────────────────────┼───────┼────────────┼───────┤
+│ 1   │ Robert Downey Jr.       │ Tony Stark / Iron Man            │ true  │ false      │ false │
+│ 2   │ Chris Hemsworth         │ Thor                             │ true  │ false      │ false │
+│ 3   │ Mark Ruffalo            │ Bruce Banner / Hulk              │ true  │ false      │ false │
+│ 4   │ Chris Evans             │ Steve Rogers / Captain America   │ true  │ false      │ false │
+│ 5   │ Scarlett Johansson      │ Natasha Romanoff / Black Widow   │ true  │ false      │ false │
+│ 6   │ Don Cheadle             │ James Rhodes / War Machine       │ true  │ false      │ false │
+│ 7   │ Benedict Cumberbatch    │ Doctor Strange                   │ true  │ false      │ false │
+│ 8   │ Tom Holland             │ Peter Parker / Spider-Man        │ true  │ false      │ false │
+│ 9   │ Chadwick Boseman        │ T'Challa / Black Panther         │ true  │ false      │ false │
+│ 10  │ Zoe Saldana             │ Gamora                           │ true  │ false      │ false │
+│ 11  │ Karen Gillan            │ Nebula                           │ true  │ false      │ false │
+│ 12  │ Tom Hiddleston          │ Loki                             │ true  │ false      │ false │
+│ 13  │ Paul Bettany            │ Vision                           │ true  │ false      │ false │
+│ 14  │ Elizabeth Olsen         │ Wanda Maximoff / Scarlet Witch   │ true  │ false      │ false │
+│ 15  │ Anthony Mackie          │ Sam Wilson / Falcon              │ true  │ false      │ false │
+│ 16  │ Sebastian Stan          │ Bucky Barnes / Winter Soldier    │ true  │ false      │ false │
+│ 17  │ Idris Elba              │ Heimdall                         │ true  │ false      │ false │
+│ 18  │ Danai Gurira            │ Okoye                            │ true  │ false      │ false │
+│ 19  │ Peter Dinklage          │ Eitri                            │ true  │ false      │ false │
+│ 20  │ Benedict Wong           │ Wong                             │ true  │ false      │ false │
+│ 21  │ Pom Klementieff         │ Mantis                           │ true  │ false      │ false │
+│ 22  │ Dave Bautista           │ Drax                             │ true  │ false      │ false │
+│ 23  │ Vin Diesel              │ Groot                            │ true  │ false      │ true  │
+│ 24  │ Bradley Cooper          │ Rocket                           │ true  │ false      │ true  │
+│ 25  │ Gwyneth Paltrow         │ Pepper Potts                     │ true  │ false      │ false │
+│ 26  │ Benicio Del Toro        │ The Collector                    │ true  │ false      │ false │
+│ 27  │ Josh Brolin             │ Thanos                           │ true  │ false      │ false │
+│ 28  │ Chris Pratt             │ Peter Quill / Star-Lord          │ true  │ false      │ false │
+│ 29  │ Sean Gunn               │ On-Set Rocket                    │ false │ false      │ false │
+│ 30  │ William Hurt            │ Secretary of State Thaddeus Ross │ true  │ false      │ false │
+│ 31  │ Letitia Wright          │ Shuri                            │ true  │ false      │ false │
+│ 32  │ Terry Notary            │ Cull Obsidian / On-Set Groot     │ false │ false      │ false │
+│ 33  │ Tom Vaughan-Lawlor      │ Ebony Maw                        │ true  │ false      │ false │
+│ 34  │ Carrie Coon             │ Proxima Midnight                 │ true  │ false      │ false │
+│ 35  │ Michael James Shaw      │ Corvus Glaive                    │ true  │ false      │ false │
+│ 36  │ Stan Lee                │ Bus Driver                       │ false │ false      │ false │
+│ 37  │ Winston Duke            │ M'Baku                           │ true  │ false      │ false │
+│ 38  │ Florence Kasumba        │ Ayo                              │ false │ false      │ false │
+│ 39  │ Kerry Condon            │ Voice of Friday                  │ false │ false      │ true  │
+│ 40  │ Monique Ganderton       │ On-Set Proxima Midnight          │ false │ false      │ false │
+│ 41  │ Jacob Batalon           │ Ned                              │ true  │ false      │ false │
+│ 42  │ Tiffany Espensen        │ Cindy                            │ true  │ false      │ false │
+│ 43  │ Isabella Amara          │ Sally                            │ true  │ false      │ false │
+│ 44  │ Ethan Dizon             │ Tiny                             │ false │ false      │ false │
+│ 45  │ Ariana Greenblatt       │ Young Gamora                     │ true  │ false      │ false │
+│ 46  │ Ameenah Kaplan          │ Gamora's Mother                  │ false │ false      │ false │
+│ 47  │ Ross Marquand           │ Red Skull                        │ true  │ false      │ false │
+│ 48  │ Michael Anthony Rogers  │ Secretary Ross' Aide             │ false │ false      │ false │
+│ 49  │ Stephen McFeely         │ Secretary Ross' Aide             │ false │ false      │ false │
+│ 50  │ Aaron Lazar             │ Doctor Strange Double            │ false │ false      │ false │
+│ 51  │ Robert Pralgo           │ Thanos Reader                    │ false │ false      │ false │
+│ 52  │ Olaniyan Thurmon        │ Teenage Groot Reader             │ false │ false      │ false │
+│ 53  │ Blair Jasin             │ Street Pedestrian #1             │ false │ false      │ false │
+│ 54  │ Matthew Zuk             │ Street Pedestrian #2             │ false │ false      │ false │
+│ 55  │ Laura Miller            │ Scottish News                    │ false │ false      │ false │
+│ 56  │ Damon Emmons            │ High school Student              │ false │ false      │ false │
+│ 57  │ Marija Juliette Abney   │ Dora Milaje                      │ false │ true       │ false │
+│ 58  │ Kenneth Branagh         │ Asgardian Distress Call          │ false │ true       │ true  │
+│ 59  │ Àaron Brewster          │ Bike Rider in Park               │ false │ true       │ false │
+│ 60  │ Sergio Briones          │ NYPD                             │ false │ true       │ false │
+│ 61  │ Lucie Carroll           │ Mourner                          │ false │ true       │ false │
+│ 62  │ Jamel Chambers          │ Merchant                         │ false │ true       │ false │
+│ 63  │ Matthew Christensen     │ Student                          │ false │ true       │ false │
+│ 64  │ Harry Drizzy            │ NYC Pedestrian                   │ false │ true       │ false │
+│ 65  │ David Dman Escobar      │ Taxi Cab Driver                  │ false │ true       │ false │
+│ 66  │ Steven Essani           │ Soldier                          │ false │ true       │ false │
+│ 67  │ Jacob Evans             │ NYC Pedestrian                   │ false │ true       │ false │
+│ 68  │ Daniela Gaskie          │ National Guard                   │ false │ true       │ false │
+│ 69  │ Martavious Gayles       │ Construction Worker              │ false │ true       │ false │
+│ 70  │ John Gettier            │ NYPD                             │ false │ true       │ false │
+│ 71  │ Solomon Glave           │ Coffee Shop Employee             │ false │ true       │ false │
+│ 72  │ Emelita T. Gonzalez     │ Zen-Whoberi Elder                │ false │ true       │ false │
+│ 73  │ Cecil M. Henry          │ Patron in Vehicle                │ false │ true       │ false │
+│ 74  │ Bobby Hoskins           │ Asgardian                        │ false │ true       │ false │
+│ 75  │ Rabon Hutcherson        │ Border Tribe                     │ false │ true       │ false │
+│ 76  │ Samuel L. Jackson       │ Nick Fury                        │ true  │ true       │ false │
+│ 77  │ Floyd Anthony Johns Jr. │ Jabari Warrior                   │ false │ true       │ false │
+│ 78  │ Kejuan London Keith     │ Citizen                          │ false │ true       │ false │
+│ 79  │ Mallory Kidwell         │ NYC Pedestrian                   │ false │ true       │ false │
+│ 80  │ Devin Koehler           │ NYC Pedestrian                   │ false │ true       │ false │
+│ 81  │ Demetri Landell         │ Asgardian                        │ false │ true       │ false │
+│ 82  │ Chase Ledgerwood        │ NYC Pedestrian                   │ false │ true       │ false │
+│ 83  │ Elgin Lee               │ Pedestrian                       │ false │ true       │ false │
+│ 84  │ Luke Maher              │ Medical Assistant                │ false │ true       │ false │
+│ 85  │ Joe Maitland            │ Edinburgh Pedestrian             │ false │ true       │ false │
+│ 86  │ Perla Middleton         │ Business Worker                  │ false │ true       │ false │
+│ 87  │ Michael Pierino Miller  │ NY Business Man                  │ false │ true       │ false │
+│ 88  │ Frank David Monroe      │ Border Tribe Warrior             │ false │ true       │ false │
+│ 89  │ Kevin Montgomery        │ Student                          │ false │ true       │ false │
+│ 90  │ Jared Moser             │ NYC Pedestrian                   │ false │ true       │ false │
+│ 91  │ Marie Mouroum           │ Dora Milaje                      │ false │ true       │ false │
+│ 92  │ Callan Mulvey           │ Jack Rollins                     │ true  │ true       │ false │
+│ 93  │ Harrison Osterfield     │ Boy on Bus                       │ false │ true       │ false │
+│ 94  │ Edward Parker           │ Construction Worker              │ false │ true       │ false │
+│ 95  │ Annie Pisapia           │ Pedestrian                       │ false │ true       │ false │
+│ 96  │ Austin Rospert          │ Pedestrian                       │ false │ true       │ false │
+│ 97  │ James Siderits          │ NYC Pedestrian                   │ false │ true       │ false │
+│ 98  │ Matthew Excel Simmons   │ Asgardian                        │ false │ true       │ false │
+│ 99  │ Cobie Smulders          │ Maria Hill                       │ true  │ true       │ false │
+│ 100 │ Shawn South             │ NYC Pedestrian                   │ false │ true       │ false │
+│ 101 │ James Sterling          │ NYC Pedestrian                   │ false │ true       │ false │
+│ 102 │ Travis Thompson         │ New York Pedestrian              │ false │ true       │ false │
+│ 103 │ Robert Tinsley          │ Sanitation Worker                │ false │ true       │ false │
+│ 104 │ Kevin D Wilson          │ Jogger                           │ false │ true       │ false │
+│ 105 │ Michael David Yuhl      │ NYC Maintenance                  │ false │ true       │ false │

@@ -1,0 +1,140 @@
+136×5 DataFrame
+│ Row │ actor                      │ character                      │ named │ uncredited │ voice │
+│     │ String                     │ String                         │ Bool  │ Bool       │ Bool  │
+├─────┼────────────────────────────┼────────────────────────────────┼───────┼────────────┼───────┤
+│ 1   │ Chadwick Boseman           │ T'Challa / Black Panther       │ true  │ false      │ false │
+│ 2   │ Michael B. Jordan          │ Erik Killmonger                │ true  │ false      │ false │
+│ 3   │ Lupita Nyong'o             │ Nakia                          │ true  │ false      │ false │
+│ 4   │ Danai Gurira               │ Okoye                          │ true  │ false      │ false │
+│ 5   │ Martin Freeman             │ Everett K. Ross                │ true  │ false      │ false │
+│ 6   │ Daniel Kaluuya             │ W'Kabi                         │ true  │ false      │ false │
+│ 7   │ Letitia Wright             │ Shuri                          │ true  │ false      │ false │
+│ 8   │ Winston Duke               │ M'Baku                         │ true  │ false      │ false │
+│ 9   │ Sterling K. Brown          │ N'Jobu                         │ true  │ false      │ false │
+│ 10  │ Angela Bassett             │ Ramonda                        │ true  │ false      │ false │
+│ 11  │ Forest Whitaker            │ Zuri                           │ true  │ false      │ false │
+│ 12  │ Andy Serkis                │ Ulysses Klaue                  │ true  │ false      │ false │
+│ 13  │ Florence Kasumba           │ Ayo                            │ false │ false      │ false │
+│ 14  │ John Kani                  │ T'Chaka                        │ true  │ false      │ false │
+│ 15  │ David S. Lee               │ Limbani                        │ true  │ false      │ false │
+│ 16  │ Nabiyah Be                 │ Linda                          │ true  │ false      │ false │
+│ 17  │ Isaach De Bankolé          │ River Tribe Elder              │ false │ false      │ false │
+│ 18  │ Connie Chiume              │ Mining Tribe Elder             │ false │ false      │ false │
+│ 19  │ Dorothy Steel              │ Merchant Tribe Elder           │ false │ false      │ false │
+│ 20  │ Danny Sapani               │ Border Tribe Elder             │ false │ false      │ false │
+│ 21  │ Sydelle Noel               │ Dora Milaje                    │ false │ false      │ false │
+│ 22  │ Marija Juliette Abney      │ Dora Milaje                    │ false │ false      │ false │
+│ 23  │ Zola Williams              │ Dora Milaje                    │ false │ false      │ false │
+│ 24  │ Janeshia Adams-Ginyard     │ Dora Milaje                    │ false │ false      │ false │
+│ 25  │ Maria Hippolyte            │ Dora Milaje                    │ false │ false      │ false │
+│ 26  │ Marie Mouroum              │ Dora Milaje                    │ false │ false      │ false │
+│ 27  │ Jénel Stevens              │ Dora Milaje                    │ false │ false      │ false │
+│ 28  │ Sope Aluko                 │ Shaman                         │ false │ false      │ false │
+│ 29  │ Stan Lee                   │ Thirsty Gambler                │ false │ false      │ false │
+│ 30  │ Atandwa Kani               │ Young T'Chaka                  │ true  │ false      │ false │
+│ 31  │ Ashton Tyler               │ Young T'Challa                 │ true  │ false      │ false │
+│ 32  │ Denzel Whitaker            │ James / Young Zuri             │ true  │ false      │ false │
+│ 33  │ Shaunette Renée Wilson     │ Dora Milaje                    │ false │ false      │ false │
+│ 34  │ Christine Hollingsworth    │ Dora Milaje                    │ false │ false      │ false │
+│ 35  │ Lucy Hockings              │ BBC Reporter                   │ false │ false      │ false │
+│ 36  │ Bambadjan Bamba            │ Militant Leader                │ false │ false      │ false │
+│ 37  │ Roland Kilumbu             │ Young Militant                 │ false │ false      │ false │
+│ 38  │ Jermaine Holt              │ Driver                         │ false │ false      │ false │
+│ 39  │ Dominique Elijah Smith     │ Cargo Truck Militant           │ false │ false      │ false │
+│ 40  │ Jalil Jay Lynch            │ Nigerian Militant #1           │ false │ false      │ false │
+│ 41  │ Vaughndio Forbes           │ Nigerian Militant #2           │ false │ false      │ false │
+│ 42  │ Sasha Morfaw               │ Nigerian Woman #1              │ false │ false      │ false │
+│ 43  │ Alexis Louder              │ Nigerian Woman #2              │ false │ false      │ false │
+│ 44  │ Francesca Faridany         │ Museum Director                │ false │ false      │ false │
+│ 45  │ Mark Ashworth              │ Security Guard                 │ false │ false      │ false │
+│ 46  │ Seth Carr                  │ Young Killmonger               │ true  │ false      │ false │
+│ 47  │ Jeremy Sample              │ Jabari Fisherman               │ false │ false      │ false │
+│ 48  │ Chad Crumley               │ South African Tough            │ false │ false      │ false │
+│ 49  │ Alexis Rhee                │ Elderly Woman                  │ false │ false      │ false │
+│ 50  │ Danny Chung                │ Dealer                         │ false │ false      │ false │
+│ 51  │ Elizabeth Elkins           │ CIA Agent                      │ false │ false      │ false │
+│ 52  │ Tony Sears                 │ French Ambassador              │ false │ false      │ false │
+│ 53  │ Alex Riley Hughes          │ Basketball Kid                 │ false │ false      │ false │
+│ 54  │ Clifford Gay               │ Basketball Kid                 │ false │ false      │ false │
+│ 55  │ Shamel Heath               │ Basketball Kid                 │ false │ false      │ false │
+│ 56  │ De'Jon Watts               │ Hot Dog Kid                    │ false │ false      │ false │
+│ 57  │ Alex R. Hibbert            │ Young Oakland Kid              │ false │ false      │ false │
+│ 58  │ Tristan Timmons            │ Oakland Kid                    │ false │ false      │ false │
+│ 59  │ Abraham Clinkscales        │ Oakland Kid                    │ false │ false      │ false │
+│ 60  │ Thabo Moropane             │ Wakandan Child                 │ false │ false      │ false │
+│ 61  │ Zani Mogodi                │ Wakandan Child                 │ false │ false      │ false │
+│ 62  │ Zenzi Williams             │ Jabari Woman                   │ false │ false      │ false │
+│ 63  │ Trevor Noah                │ Griot                          │ true  │ false      │ true  │
+│ 64  │ Ryan Adriel                │ Wakanda Citizen                │ false │ true       │ false │
+│ 65  │ Joseph Akharoh Jr.         │ Citizen of Wakanda             │ false │ true       │ false │
+│ 66  │ John Jacob Anderson        │ UN Reporter                    │ false │ true       │ false │
+│ 67  │ Rodney Luis Aquino         │ California Pedestrian Oakland  │ false │ true       │ false │
+│ 68  │ Tobias Armand              │ Warrior                        │ false │ true       │ false │
+│ 69  │ Stanley Aughtry            │ Merchant Tribe Warrior         │ false │ true       │ false │
+│ 70  │ Clayton J. Barber          │ Museum Security Guard          │ false │ true       │ false │
+│ 71  │ Carrie Bernans             │ Dora Milaje                    │ false │ true       │ false │
+│ 72  │ Rose Bianco                │ Older Woman                    │ false │ true       │ false │
+│ 73  │ Maiya Boyd                 │ Museum School Child            │ false │ true       │ false │
+│ 74  │ Teneisha Campbell          │ Border Tribewoman              │ false │ true       │ false │
+│ 75  │ Andrea Antonio Canal       │ Casino Guest                   │ false │ true       │ false │
+│ 76  │ Buddy Cannon               │ U. N. Official                 │ false │ true       │ false │
+│ 77  │ Timothy Carr               │ UN Security Guard              │ false │ true       │ false │
+│ 78  │ Jamel Chambers             │ Merchant                       │ false │ true       │ false │
+│ 79  │ Michael R. Ciminna         │ Security Guard                 │ false │ true       │ false │
+│ 80  │ Byron Coolie               │ Wakandan                       │ false │ true       │ false │
+│ 81  │ Cowboy                     │ Museum Guard                   │ false │ true       │ false │
+│ 82  │ Adelynn Cuevas             │ Field Trip Kid                 │ false │ true       │ false │
+│ 83  │ Hai Dang                   │ Market Shopper                 │ false │ true       │ false │
+│ 84  │ Ibrahim Dumbuya            │ Kings Guard                    │ false │ true       │ false │
+│ 85  │ David Dunston              │ Citizen of Wakanda             │ false │ true       │ false │
+│ 86  │ Jacob Evans                │ Photographer                   │ false │ true       │ false │
+│ 87  │ Shad Gaspard               │ Actor                          │ false │ true       │ false │
+│ 88  │ John Gettier               │ UN Security Guard              │ false │ true       │ false │
+│ 89  │ Tahseen Ghauri             │ U.N. Official                  │ false │ true       │ false │
+│ 90  │ Raenen Golez               │ Casino Patron                  │ false │ true       │ false │
+│ 91  │ Emelita T. Gonzalez        │ UN Philippine Represenitive    │ false │ true       │ false │
+│ 92  │ Apollo GT                  │ Fish Market Shopper            │ false │ true       │ false │
+│ 93  │ Mohamed Hakeemshady        │ Warrior                        │ false │ true       │ false │
+│ 94  │ Donja Harper               │ Border Tribe                   │ false │ true       │ false │
+│ 95  │ Cecil M. Henry             │ United Nations Council Member  │ false │ true       │ false │
+│ 96  │ Maxwell Highsmith          │ River Tribe Member             │ false │ true       │ false │
+│ 97  │ Rabon Hutcherson           │ Border Tribe                   │ false │ true       │ false │
+│ 98  │ Lidya Jewett               │ Young Nakia                    │ false │ true       │ false │
+│ 99  │ Floyd Anthony Johns Jr.    │ Jabari Warrior                 │ false │ true       │ false │
+│ 100 │ Maritalyn Koulebetouba     │ Wakandan                       │ false │ true       │ false │
+│ 101 │ Tunde Laleye               │ Border Tribesman               │ false │ true       │ false │
+│ 102 │ Demetri Landell            │ Wakanda Tribe                  │ false │ true       │ false │
+│ 103 │ John Y Lee                 │ Casino Dealer                  │ false │ true       │ false │
+│ 104 │ Alona Leoine               │ School Child / Playground Kid  │ false │ false      │ false │
+│ 105 │ Josue Louis-Charles        │ Mining Tribe                   │ false │ true       │ false │
+│ 106 │ Travis Love                │ Jabari Warrior                 │ false │ true       │ false │
+│ 107 │ Lee Mapp                   │ Wakandan Villager              │ false │ true       │ false │
+│ 108 │ Fernando A. Mico           │ Casino Patron                  │ false │ true       │ false │
+│ 109 │ Jerel Tyrone Miller        │ Border Tribe                   │ false │ true       │ false │
+│ 110 │ Frank David Monroe         │ Border Tribe Warrior           │ false │ true       │ false │
+│ 111 │ Timothy D. Montjoy         │ Ambassador Aide                │ false │ true       │ false │
+│ 112 │ Joel Nathaniel             │ Tourist                        │ false │ true       │ false │
+│ 113 │ Bradley Newcomer           │ UN Ambassador                  │ false │ true       │ false │
+│ 114 │ Ofu Obekpa                 │ Kings Guard                    │ false │ true       │ false │
+│ 115 │ Amechi Okocha              │ Bueze                          │ true  │ true       │ false │
+│ 116 │ David Opegbemi             │ Jabari Warrior                 │ false │ true       │ false │
+│ 117 │ Che'valier Paul            │ U.N. Press Member              │ false │ true       │ false │
+│ 118 │ Isaac Phillips             │ Mining Tribe #2                │ false │ true       │ false │
+│ 119 │ Hasaan Rasheed             │ Kings Guard                    │ false │ true       │ false │
+│ 120 │ Sheril Rodgers             │ Oakland California Pedestrian  │ false │ true       │ false │
+│ 121 │ Michael Christopher Rodney │ Kings Guard                    │ false │ true       │ false │
+│ 122 │ Brady Rogers               │ U.N. Delegate                  │ false │ true       │ false │
+│ 123 │ Kawta Sarak                │ Korean CIA Agent / Coffee Girl │ false │ false      │ false │
+│ 124 │ Matteo Spears Satriano     │ English Schoolboy              │ false │ true       │ false │
+│ 125 │ Milton Saul                │ Merchant Tribe                 │ false │ true       │ false │
+│ 126 │ Patti Schellhaas           │ Casino Player                  │ false │ true       │ false │
+│ 127 │ Shomari                    │ Jabari Drummer                 │ false │ true       │ false │
+│ 128 │ James Siderits             │ U.N. Official / Translator     │ false │ false      │ false │
+│ 129 │ Jihae Song                 │ Casino Guest                   │ false │ true       │ false │
+│ 130 │ Sebastian Stan             │ Bucky Barnes                   │ true  │ true       │ false │
+│ 131 │ Travis Thompson            │ Photographer                   │ false │ true       │ false │
+│ 132 │ Kent Wagner                │ UN Press Reporter              │ false │ true       │ false │
+│ 133 │ William Walker             │ Museum Security Guard          │ false │ true       │ false │
+│ 134 │ Rachel Star Withers        │ CIA Agent                      │ false │ true       │ false │
+│ 135 │ Raven Wynn                 │ Korean Market Shopper          │ false │ true       │ false │
+│ 136 │ Perry Zulu Jr.             │ Border Tribe Warrior           │ false │ true       │ false │

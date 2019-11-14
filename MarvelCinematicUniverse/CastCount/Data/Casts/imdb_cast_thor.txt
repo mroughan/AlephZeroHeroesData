@@ -1,0 +1,94 @@
+90×5 DataFrame
+│ Row │ actor                     │ character                    │ named │ uncredited │ voice │
+│     │ String                    │ String                       │ Bool  │ Bool       │ Bool  │
+├─────┼───────────────────────────┼──────────────────────────────┼───────┼────────────┼───────┤
+│ 1   │ Chris Hemsworth           │ Thor                         │ true  │ false      │ false │
+│ 2   │ Natalie Portman           │ Jane Foster                  │ true  │ false      │ false │
+│ 3   │ Tom Hiddleston            │ Loki                         │ true  │ false      │ false │
+│ 4   │ Anthony Hopkins           │ Odin                         │ true  │ false      │ false │
+│ 5   │ Stellan Skarsgård         │ Erik Selvig                  │ true  │ false      │ false │
+│ 6   │ Kat Dennings              │ Darcy Lewis                  │ true  │ false      │ false │
+│ 7   │ Clark Gregg               │ Agent Coulson                │ true  │ false      │ false │
+│ 8   │ Colm Feore                │ King Laufey                  │ true  │ false      │ false │
+│ 9   │ Idris Elba                │ Heimdall                     │ true  │ false      │ false │
+│ 10  │ Ray Stevenson             │ Volstagg                     │ true  │ false      │ false │
+│ 11  │ Tadanobu Asano            │ Hogun                        │ true  │ false      │ false │
+│ 12  │ Josh Dallas               │ Fandral                      │ true  │ false      │ false │
+│ 13  │ Jaimie Alexander          │ Sif                          │ true  │ false      │ false │
+│ 14  │ Rene Russo                │ Frigga                       │ true  │ false      │ false │
+│ 15  │ Adriana Barraza           │ Isabela Alvarez              │ true  │ false      │ false │
+│ 16  │ Maximiliano Hernández     │ Agent Sitwell                │ true  │ false      │ false │
+│ 17  │ Richard Cetrone           │ Frost Giant Captain          │ false │ false      │ false │
+│ 18  │ Darren Kendrick           │ Frost Giant Sentry           │ false │ false      │ false │
+│ 19  │ Josh Coxx                 │ Frost Giant Hailstrum        │ false │ false      │ false │
+│ 20  │ Justice Smith             │ Frost Giant Brute            │ false │ false      │ false │
+│ 21  │ Joseph Gatt               │ Frost Giant Grundroth        │ true  │ false      │ false │
+│ 22  │ Luke Massy                │ Frost Giant Raze             │ false │ false      │ false │
+│ 23  │ Matt Ducey                │ Einherjar Guard              │ false │ false      │ false │
+│ 24  │ Jason Camp                │ Einherjar Guard              │ false │ false      │ false │
+│ 25  │ Buddy Sosthand            │ Agent Delancey               │ true  │ false      │ false │
+│ 26  │ Blake Silver              │ Techie                       │ false │ false      │ false │
+│ 27  │ Jamie McShane             │ Agent Jackson                │ true  │ false      │ false │
+│ 28  │ Dale Godboldo             │ Agent Garrett                │ true  │ false      │ false │
+│ 29  │ Patrick O'Brien Demsey    │ Agent Cale                   │ true  │ false      │ false │
+│ 30  │ Jim Palmer                │ SHIELD Guard                 │ false │ false      │ false │
+│ 31  │ Seth Coltan               │ Townie                       │ false │ false      │ false │
+│ 32  │ J. Michael Straczynski    │ Townie                       │ false │ false      │ false │
+│ 33  │ Ryan Schaefer             │ Townie                       │ false │ false      │ false │
+│ 34  │ Matt Battaglia            │ Pete                         │ true  │ false      │ false │
+│ 35  │ Stan Lee                  │ Stan the Man                 │ true  │ false      │ false │
+│ 36  │ Joel McCrary              │ Drunk Townie                 │ false │ false      │ false │
+│ 37  │ Isaac Kappy               │ Pet Store Clerk              │ false │ false      │ false │
+│ 38  │ Juliet Lopez              │ Admission Nurse              │ false │ false      │ false │
+│ 39  │ Rob Mars                  │ Orderly                      │ false │ false      │ false │
+│ 40  │ Carrie Lazar              │ Viking Mother                │ false │ false      │ false │
+│ 41  │ Harley Graham             │ Viking Child                 │ false │ false      │ false │
+│ 42  │ Alexander Wright          │ Viking Elder                 │ false │ false      │ false │
+│ 43  │ Hilary Pingle             │ Viking                       │ false │ false      │ false │
+│ 44  │ Shawn-Caulin Young        │ Viking                       │ false │ false      │ false │
+│ 45  │ Kinsey McLean             │ Viking                       │ false │ false      │ false │
+│ 46  │ Kelly Hawthorne           │ Viking                       │ false │ false      │ false │
+│ 47  │ Dakota Goyo               │ Young Thor                   │ true  │ false      │ false │
+│ 48  │ Ted Allpress              │ Young Loki                   │ true  │ false      │ false │
+│ 49  │ Martin Edward Andazola    │ Townie / Arturo the Grocer   │ false │ false      │ false │
+│ 50  │ Chris Antonini            │ Man in Bar                   │ false │ true       │ false │
+│ 51  │ David Bantly              │ SHIELD Scientist             │ false │ true       │ false │
+│ 52  │ Vanessa Bednar            │ Viking Villager              │ false │ true       │ false │
+│ 53  │ Todd Bethke               │ Postman                      │ false │ true       │ false │
+│ 54  │ Troy Brenna               │ Frost Giant                  │ false │ true       │ false │
+│ 55  │ Adam Critchlow            │ Einherjar Guard              │ false │ true       │ false │
+│ 56  │ Michelle Csitos           │ Viking Village Wife          │ false │ true       │ false │
+│ 57  │ Elizabeth Dean            │ Asgardian Demigoddess        │ false │ true       │ false │
+│ 58  │ Rick L. Dean              │ Asgardian                    │ false │ true       │ false │
+│ 59  │ Pat Duke                  │ Frost Giant Sentry           │ false │ true       │ true  │
+│ 60  │ Jeremy Dunn               │ Frost Giant                  │ false │ true       │ false │
+│ 61  │ Kimberly Evan             │ Lady in Waiting to the Queen │ false │ true       │ false │
+│ 62  │ Derek Graf                │ Frost Giant                  │ false │ true       │ false │
+│ 63  │ Brice Harris              │ Utility Frost Giant          │ false │ true       │ false │
+│ 64  │ Eric Holloway             │ Townie                       │ false │ true       │ false │
+│ 65  │ Samuel L. Jackson         │ Nick Fury                    │ true  │ true       │ false │
+│ 66  │ Jasyn Jefferies           │ Einherjar Guard              │ false │ true       │ false │
+│ 67  │ Courtney Jones            │ Asgardian Goddess            │ false │ true       │ false │
+│ 68  │ Corey Jovan               │ Asgardian Guard              │ false │ true       │ false │
+│ 69  │ James Kimball             │ Einherjar Guard              │ false │ true       │ false │
+│ 70  │ Julio Leal                │ Asguard Knight               │ false │ true       │ false │
+│ 71  │ Raven Lewis               │ Soldier                      │ false │ true       │ false │
+│ 72  │ Jonaral Martin            │ Asgardian                    │ false │ true       │ false │
+│ 73  │ Keith Middlebrook         │ Agent McGuire                │ true  │ true       │ false │
+│ 74  │ Nabil Nona                │ Roman God                    │ false │ true       │ false │
+│ 75  │ Stephen Oyoung            │ Einherjar Guard              │ false │ true       │ false │
+│ 76  │ Martin Palmer             │ Towns Person                 │ false │ true       │ false │
+│ 77  │ Terry Dale Parks          │ Nurse                        │ false │ true       │ false │
+│ 78  │ Taylor Reed               │ Guard of Asland              │ false │ true       │ false │
+│ 79  │ Jeremy Renner             │ Clint Barton                 │ true  │ true       │ false │
+│ 80  │ Anthony J Sacco           │ Townie                       │ false │ true       │ false │
+│ 81  │ Tanissa Potrovitza Schoen │ Extra in Diner               │ false │ true       │ false │
+│ 82  │ Shaun V. Scott            │ Agent Scott Kelly            │ true  │ true       │ false │
+│ 83  │ Walter Simonson           │ Asgardian                    │ false │ true       │ false │
+│ 84  │ Jimmy Star                │ Asgardian Guard              │ false │ true       │ false │
+│ 85  │ Michael E. Stogner        │ Driver / Pedestrian          │ false │ false      │ false │
+│ 86  │ Douglas Tait              │ Frost Giant                  │ false │ true       │ false │
+│ 87  │ Deena Trudy               │ Guardian Angel               │ false │ true       │ false │
+│ 88  │ Matthew Trujillo          │ Bar Back                     │ false │ true       │ false │
+│ 89  │ Clay von Carlowitz        │ Asgardian Guard              │ false │ true       │ false │
+│ 90  │ Travis Willingham         │ Frost Giants                 │ false │ true       │ false │
