@@ -1,16 +1,16 @@
 There are several main groups of files here:
 
-In many cases there are two files. The CSV file is the raw data, which
-is what we use. The TXT file is in a more convenient, human readable
-format for validation. 
+1. script_text.json
 
-1. Lists (for each movie) of characters with their frequency of interaction
+   is a JSON file with the full collected transcripts. The source meta-atribute indicats how the script was collected. Online scripts were collected from https://transcripts.fandom.com/wiki/<name_of_film> on the 17th of November. The transcript format reflects the style of text written on the website and differs between the films. PDF transcripts we extracted from the available PDFs in the ScriptPDFs folder.  
+
+2. Lists (for each movie) of characters with their frequency of interaction
       
    Fields:
    + Character: character names (note these are not all canonical)
    + Frequency: frequency with which they appear (in dialogue [2]) in the movie
 
-2. summary statistics 
+3. summary statistics 
 
    shannon_numbers.<suffix> -- summary statistics for effective cast
                                size based on number of conflicts
@@ -28,4 +28,3 @@ format for validation.
 
 [1] See aliases file to map these to canonical names.
 
-[2] See paper for more information.
