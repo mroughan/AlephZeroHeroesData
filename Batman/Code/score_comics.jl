@@ -45,7 +45,7 @@ for (i,f1) in enumerate(files)
 
     borda_update!( scores, df )
     dowdall_update!( scores_d, df )
-    dowdall_update!( scores_a, df; alpha=0.5 )
+    power_update!( scores_a, df; alpha=0.5 )
     preference_matrix_update!( preferences, preference_list, df )
 end
 
@@ -61,14 +61,14 @@ s[:, :Copeland] = copeland_score(preferences)
 # preference_list[c2,:]
 # s[:, :Copeland_Rank2] = sortperm(c2)
 
-Hybrid=Symbol("Power (alpha=0.5)")
+Power=Symbol("Power (alpha=0.5)")
 rename!(s, :Score=>:Borda)
 rename!(s, :Score_1=>:Dowdall)
-rename!(s, :Score_2=>Hybrid)
+rename!(s, :Score_2=>Power)
 s[:, :Dowdall] = round.( s[:, :Dowdall]; digits=3 )
-s[:, Hybrid] = round.( s[:, Hybrid]; digits=3 )
+s[:, Power] = round.( s[:, Power]; digits=3 )
 
-sort!( s, Hybrid; rev=true )
+sort!( s, Power; rev=true )
 s[1:20, :]
 
 CSV.write("$data_dir/batman_meta_ranking.csv", s)
@@ -76,7 +76,7 @@ CSV.write("$data_dir/batman_meta_ranking.csv", s)
 N = 10
 k1 = topN(s, N; col=:Borda)
 k2 = topN(s, N; col=:Dowdall)
-k3 = topN(s, N; col=Hybrid)
+k3 = topN(s, N; col=Power)
 k4 = topN(s, N; col=:Copeland)
 # k5 = topN(s, N; col=:Copeland_Rank2, rev=false)
 k = union(k1,k2,k3,k4)

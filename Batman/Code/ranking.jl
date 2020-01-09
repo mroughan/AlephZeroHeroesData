@@ -44,8 +44,9 @@ function borda_update!( scores::DataFrame, ranking::DataFrame )
 
 end
 
-function dowdall_update!( scores::DataFrame, ranking::DataFrame; alpha::Float64=1.0 )
+function power_update!( scores::DataFrame, ranking::DataFrame; alpha::Float64=1.0 )
     # https://en.wikipedia.org/wiki/Borda_count
+    # power-based generalisation of Dowdall
     n = size(scores,1)
     
     for i=1:size(ranking,1)
@@ -63,6 +64,8 @@ function dowdall_update!( scores::DataFrame, ranking::DataFrame; alpha::Float64=
     end
 
 end
+dowdall_update!( scores::DataFrame, ranking::DataFrame) = power_update!( scores, ranking )
+
 
 function preference_matrix_update!( preferences::Array{Int,2}, preference_list::DataFrame, ranking::DataFrame )
     # calculate the preference matrix for the input ranking
