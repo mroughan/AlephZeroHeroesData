@@ -61,9 +61,17 @@ cover artists to refer to the cover artist of the collection, but if
 this is not clear it will usually be the cover artist of the first
 issue included in the volume.
 
-When multiple creators are listed, the ordering is arbitrary.
+When multiple creators are listed, the ordering is arbitrary, but
+usually ordered by time (in the case of serials). 
 
-If multiple sources disagree, we include all listed creators.
+If multiple sources disagree, we include all listed creators, but the
+focus is on the creators of core content, not spin offs. 
+
+In some cases the number of creators was very large, and instead of
+listing all we have just listed them as "various".
+
+In some cases a certain type of creator was not involved, and is then
+listed as "na".
 
 The list of "robins" is the least carefully compiled and checked data
 so far. Should be used with a pinch of salt. 
@@ -73,6 +81,8 @@ so far. Should be used with a pinch of salt.
 ## What isn't there
 
 In hindsight, should have recorded
+
++ editors, where available.
 
 + a "type" e.g., one-shot v storyline v (un-associated) collection,
   and the issues that go into it in the latter two cases.
@@ -84,3 +94,12 @@ Maybe able to scrape this from dc.fandom.com using the sources given,
 but will need to go into the issues to get.
 
 
+## Specific file descriptions:
+
++ comic_list.csv a list of basic information about the Batman graphics novels being ranked
++ batman_creators.csv = comic_list_writer_artist.csv a list of creators for each book
++ batman_meta_ranking.csv a ranking of the books with scores
++ batman_meta_ranking_X.csv a ranking of X for X=script,cover,pencils,inks,colors,letters
++ batman_meta_ranking_creators.csv top ten for each creator types compiled into one table
++ batman_meta_ranking_creators_sorted.csv all creators sorted into one ranking
++ batman_meta_ranking_creators_sorted.csv all creators grouped then sorted into one ranking
