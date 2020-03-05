@@ -54,6 +54,15 @@ format for validation.
    + CI_m: lower 95th percentile confidence interval for Shannon
    + CI_p: upper 95th percentile confidence interval for Shannon
 
+   profitability_1.csv -- just the data relating profitability to the
+                          effective cast size.
+
+Fields:
+   + Title
+   + TypeOfMovie: origin story | sequel # | team up [2]
+   + Profitability: as described
+   + Shannon: shannon entropy based effective cast size metric
+
 
 [1] See aliases file to map these to canonical names.
 
