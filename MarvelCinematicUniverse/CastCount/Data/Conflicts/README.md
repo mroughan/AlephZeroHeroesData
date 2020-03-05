@@ -57,7 +57,7 @@ format for validation.
    profitability_1.csv -- just the data relating profitability to the
                           effective cast size.
 
-Fields:
+   Fields:
    + Title
    + TypeOfMovie: origin story | sequel # | team up [2]
    + Profitability: as described
