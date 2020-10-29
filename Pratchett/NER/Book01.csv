@@ -1,0 +1,219 @@
+Name,Frequency,NAliases,Types,Subtypes,Subsubtypes
+Rincewind,639,3,Person,Human,Wizard
+Twoflower,351,4,Person,Human,Tourist
+Hrun the Barbarian,139,2,Person,Human,Hero
+The Discworld,72,6,Location,World,Discworld
+Death,53,2,Person,Supernatural,Incarnate
+The Luggage,46,3,Person,Supernatural,Anthropomorphic
+Ankh-Morpork,41,3,Location,PopulationCenter,MajorCity
+Ymor,38,1,Person,Human,Thief
+Stren Withel,38,3,Person,Human,Thief
+Broadman,38,1,Person,Human,Innkeeper
+The Weasel,34,2,Person,Human,Hero
+The Rim,34,2,Location,GeoFeature,MajorFeature
+Liessa Wyrmrider,32,3,Person,Human,Dragonrider
+Krull,31,2,Location,GeoRegion,Nation
+Blind Hugh,29,2,Person,Human,Thief
+Lio!rt,28,2,Person,Human,Dragonrider
+Lord Vetinari,27,1,Person,Human,Politician
+Arch-astronomer of Krull,26,2,Misc,Position,
+The Lady,26,3,Person,Supernatural,God
+The Broken Drum,25,2,Location,ManMadeFeature,Buildings
+Bel-Shamharoth,25,8,Person,Supernatural,Demon
+Circumfence,24,3,Location,GeoFeature,MajorFeature
+The Wyrmberg,24,1,Location,GeoFeature,MajorFeature
+Kring,24,1,Person,Supernatural,Anthropomorphic
+Fate of the Discworld,23,1,Person,Supernatural,God
+Great A’Tuin,20,6,Person,Supernatural,WorldTurtle
+Bravd the Hublander,20,2,Person,Human,Hero
+Zlorf Flannelfoot,20,2,Person,Human,Assassin
+K!sdra,19,1,Person,Human,Dragonrider
+Tethis,18,1,Person,Troll,Sea
+Liartes,16,1,Person,Human,Dragonrider
+Guestmaster Garhartra,16,2,Person,Human,Wizard
+Agatean Empire,14,3,Location,GeoRegion,Nation
+Druellae,14,1,Person,Supernatural,Dryad
+Rimfall,14,2,Location,GeoFeature,MajorFeature
+Loremaster,13,2,Misc,Position,
+"Lord of the Wyrmberg, Greicha the First",13,4,Person,Undead,Dragonrider
+Circle Sea,12,1,Gazetteer,WaterFeature,WaterBody
+Eight Great Spells,10,3,Artefact,Magic,Spell
+Unseen University,10,2,Location,ManMadeFeature,Buildings
+Time,10,1,Artefact,Concept,unknown
+Potent Voyager,10,2,Artefact,Object,Spaceship
+Great Nef,9,2,Location,GeoRegion,Region
+Trob,9,1,Artefact,Language,unknown
+Rerpf,9,1,Person,Human,Innkeeper
+Bronze Psepha,9,2,Person,Animal,Dragon
+Emperor of the Agatean Empire,7,3,Person,Human,Ruler
+Goldeneyes Silverhand Dactylos,7,5,Person,Human,Craftsman
+Master Launchcontroller of Krull,7,2,Misc,Position,
+The Hub,7,1,Location,GeoFeature,MajorFeature
+Ninereeds,6,1,Person,Animal,Dragon
+Marchesa,6,1,Person,Human,Wizard
+Cripple Wa,6,2,Person,Human,Thief
+Krullian,6,2,Location,Nationality,unknown
+Blind Io,6,2,Person,Supernatural,God
+Ankh-Morpork City Watch,6,3,Organisation,GovernmentAgency,
+Rimbow,6,1,Location,GeoFeature,MajorFeature
+Hades,5,3,Location,Transdimensional,unknown
+Wizards’ Quarter,5,3,Location,ManMadeFeature,Region
+Counterweight Continent,5,1,Gazetteer,GeoRegion,MajorLandMass
+Gorphal,5,1,Person,Human,Servant
+Hubland,4,3,Location,GeoRegion,Region
+Terton,4,1,Person,Human,Lengthman
+Ankh-Morporkian,4,3,Location,Nationality,unknown
+Brown Islands,4,1,Gazetteer,GeoRegion,MinorLandMass
+beTrobi,4,1,Location,Nationality,unknown
+Offler the six-armed Crocodile God,4,2,Person,Supernatural,God
+Creator,4,2,Person,Supernatural,God
+Scrofula,4,1,Person,Supernatural,Incarnate
+Hublandish,4,2,Location,Nationality,unknown
+Creation,4,1,Artefact,Concept,unknown
+Bes Pelargic,4,2,Location,PopulationCenter,MinorCity
+Nine Turning Mirrors,3,1,Person,Human,Ruler
+Assassins’ Guild,3,1,Organisation,Guild,
+Mage Wars,3,1,Misc,Event,
+Turnwise,3,1,Location,Direction,unknown
+Evil,3,1,Artefact,Concept,unknown
+Temple of Small Gods,3,2,Organisation,Business,
+Dehydrated Ocean,3,1,Gazetteer,WaterFeature,WaterBody
+Gorrin the Cat,3,2,Person,unknown,unknown
+Octavo,3,1,Artefact,Title,Book
+Pseudopolis,2,1,Gazetteer,PopulationCenter,MajorCity
+Urn,2,1,Person,Human,Philosopher
+Winter Secundus,2,2,Date,Season,
+Length,2,1,Location,Direction,unknown
+First Men,2,1,Misc,Other,
+Hogswatch Night,2,1,Date,Holiday,
+Vestcake’s Floating Curse,2,2,Artefact,Magic,Spell
+Olden Ones,2,2,Person,Supernatural,Olden One
+Merchants’ Guild,2,2,Organisation,Guild,
+Chimeria,2,1,Gazetteer,WaterFeature,WaterBody
+Brass Bridge,2,1,Location,ManMadeFeature,Road
+Palace of the Seven Deserts,2,1,Location,ManMadeFeature,Buildings
+Edgewise,2,1,Location,Direction,unknown
+Sergeant,2,1,Misc,Position,
+Chirm,2,1,Gazetteer,PopulationCenter,MinorCity
+Widdershin Gate,2,1,Location,ManMadeFeature,Road
+The Craft,2,1,Artefact,Concept,unknown
+Hubwards,2,1,Location,Direction,unknown
+Octarine,2,2,Artefact,Magic,Colour
+Short Street,2,1,Location,ManMadeFeature,Road
+Heaven,2,1,Location,Transdimensional,unknown
+Laolith,2,1,Person,Animal,Dragon
+Whore Pits,2,1,Location,ManMadeFeature,Buildings
+Klatch,2,1,Gazetteer,GeoRegion,Nation
+Light Dams of the Great Nef,2,2,Location,ManMadeFeature,unknown
+Grey Miasma of H’rull,1,1,Artefact,Magic,unknown
+Metal Warriors,1,1,Artefact,Object,unknown
+Temple of Bel-Shamharoth,1,1,Location,ManMadeFeature,Buildings
+Rehigreed,1,1,Location,GeoRegion,Province
+Filigree Street,1,1,Location,ManMadeFeature,Road
+Eventuality,1,1,Location,Transdimensional,unknown
+Kerible the Enchanter,1,1,Person,unknown,unknown
+Zephyrus,1,1,Person,Supernatural,God
+Beggars’ Guild,1,1,Organisation,Guild,
+Ashonai,1,1,Artefact,Magic,Spell
+Pitchiu,1,1,Person,unknown,unknown
+Jerakeen,1,1,Person,Supernatural,WorldElephant
+Alls Fallow,1,1,Date,Holiday,
+Red Triangle,1,1,Location,GeoRegion,Region
+River Gate,1,1,Location,ManMadeFeature,Road
+Archmandrite of B’Ituni,1,1,Person,unknown,unknown
+Berilia,1,1,Person,Supernatural,WorldElephant
+Turning To Animals,1,1,Artefact,Magic,WitchMagic
+Vanglemesht,1,1,Artefact,Language,unknown
+Archmage of Ymitury,1,1,Person,unknown,unknown
+Merchant Street,1,1,Location,ManMadeFeature,Road
+Heric Whiteblade,1,1,Person,Human,Hero
+The Octarine Fairy Book,1,1,Artefact,Title,Book
+Seven-Handed Sek,1,1,Person,Supernatural,God
+Gods’ Quarter,1,1,Location,ManMadeFeature,Region
+Adam’s apple,1,1,Misc,Other,
+Gonim,1,1,Gazetteer,GeoRegion,Nation
+Infernal Combustion Enigma,1,1,Artefact,Object,unknown
+Gorunna,1,1,Location,GeoRegion,Region
+Backspindlewinter,1,1,Date,Season,
+Plaza of Broken Moons,1,1,Location,ManMadeFeature,Buildings
+Sumtri,1,1,Artefact,Language,unknown
+Secundus Spring,1,1,Date,Season,
+Ghlen Livid,1,1,Artefact,Product,Drink
+Tubul,1,1,Person,Supernatural,WorldElephant
+Morpork Mountains,1,1,Gazetteer,GeoFeature,Mountain Range
+Sorca people,1,1,Location,Nationality,unknown
+There Be Dragons,1,1,Artefact,Motto,unknown
+Ice System of Zeret,1,1,Location,World,unknown
+Black Oroogu,1,1,Artefact,Language,unknown
+There Be Dragons Everywhere,1,1,Artefact,Motto,unknown
+Urabewe,1,1,Gazetteer,GeoRegion,MajorLandMass
+Gamblers’ Guild,1,1,Organisation,Guild,
+Law of Conservation of Reality,1,1,Artefact,Concept,unknown
+Twilight Peoples,1,1,Misc,Other,
+Rime Street,1,1,Location,ManMadeFeature,Road
+Age of Magic,1,1,Date,Era,
+Famine,1,1,Person,Supernatural,Incarnate
+Ninereeds the Masteraccount,1,1,Person,Human,unknown
+Great T’Phon,1,1,Person,Supernatural,WorldElephant
+Bathys,1,1,Location,World,Discworld
+Number of Bel-Shamharoth,1,1,Artefact,Magic,unknown
+Codice of Chimeria,1,1,Person,unknown,unknown
+Temple of the Seven-Handed Sek,1,1,Location,ManMadeFeature,Buildings
+Atavarr’s Personal Gravitational Upset,1,1,Artefact,Magic,Spell
+Chance,1,1,Person,Supernatural,Incarnate
+Elemental Magical Force,1,1,Artefact,Magic,unknown
+Lords of the Circle Sea,1,1,Misc,Position,
+Groaning Platter,1,1,Location,ManMadeFeature,Buildings
+Urshoring,1,1,Artefact,Magic,Spell
+Rammerock Mountains,1,1,Location,GeoFeature,Mountain Range
+Mount Awayawa,1,1,Gazetteer,GeoFeature,Mountain
+Chimeran,1,1,Artefact,Language,unknown
+Gorunna Trench,1,1,Gazetteer,WaterFeature,Trench
+Caderack Mountains,1,1,Gazetteer,GeoFeature,Mountain Range
+Orohai,1,1,Gazetteer,GeoRegion,Province
+Alohura,1,1,Person,Supernatural,God
+Unseen University Faculty of Medicine,1,1,Organisation,Education,
+Small Gods’ Eve,1,1,Date,Holiday,
+Ajandurah’s Wand of Utter Negativity,1,1,Artefact,Magic,Item
+the coming of Man to the Discworld,1,1,Date,Era,
+Quirm City,1,1,Location,PopulationCenter,MajorCity
+Hubwards Gate,1,1,Location,ManMadeFeature,Road
+Pearl Dock,1,1,Location,ManMadeFeature,Road
+Eighth Level,1,1,Artefact,Magic,unknown
+Crueltide,1,1,Date,Season,
+Ebiris,1,1,Artefact,Magic,Spell
+Destiny,1,1,Person,Supernatural,Incarnate
+Turnwise Ocean,1,1,Location,WaterFeature,WaterBody
+Howondaland,1,1,Location,GeoRegion,Nation
+Mount Raruaruaha,1,1,Gazetteer,GeoFeature,Mountain
+Pasha of Redurant,1,1,Person,unknown,unknown
+the Birthplace,1,1,Location,unknown,unknown
+Urmond,1,1,Person,Human,Assassin
+Zchloty,1,1,Location,GeoRegion,Region
+Kvanti,1,1,Artefact,Magic,Spell
+Deosil Gate,1,1,Location,ManMadeFeature,Road
+Night,1,1,Person,Supernatural,Incarnate
+Widdershins,1,1,Location,Direction,unknown
+the Time of Mating,1,1,Location,unknown,unknown
+Rimland,1,1,Location,GeoRegion,Region
+I-Don’t-Know Jack,1,1,Person,unknown,unknown
+Captain Eightpanther’s Travelers’ Digestives,1,1,Artefact,Product,unknown
+The Sum of Things,1,1,Artefact,Concept,unknown
+Fresnel’s Wonderful Concentrator,1,1,Artefact,Magic,Spell
+Minor Religions Faculty of Unseen University,1,1,Organisation,Education,
+Archchancellor Ridcully,1,1,Person,Human,Wizard
+Frost Alley,1,1,Location,ManMadeFeature,Road
+Tomb of Pitchiu,1,1,Location,ManMadeFeature,Buildings
+Spring Prime,1,1,Date,Season,
+Big Bang hypothesis,1,1,Artefact,Concept,unknown
+High Borogravian,1,1,Artefact,Language,unknown
+Autumn Prime,1,1,Date,Season,
+Steady Gait hypothesis,1,1,Artefact,Concept,unknown
+Grinjo,1,1,Person,Human,Assassin
+Summer Two,1,1,Date,Season,
+Pestilence,1,1,Person,Supernatural,Incarnate
+Fredor at the Crimson Leech,1,1,Person,unknown,unknown
+Dunmanifestin,1,1,Gazetteer,GeoFeature,Mountain
+Leaning Tower,1,1,Location,ManMadeFeature,Buildings
+Erig Stronginthearm,1,1,Person,Dwarf,Hero
+Reforgule of Krull,1,1,Person,unknown,unknown

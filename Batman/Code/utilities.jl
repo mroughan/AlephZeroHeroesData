@@ -1,4 +1,5 @@
-import Base: +, round
+using DataFrames
+import Base: +, round, append!
 
 searchdir(path,key) = filter(x->match(key,x) != nothing, readdir(path))
 
@@ -22,6 +23,23 @@ function increment!( d::Dict{S, T}, k::S, i::T) where {T<:Real, S<:Any}
     end
 end
 increment!(d::Dict{S, T}, k::S ) where {T<:Real, S<:Any} = increment!( d, k, one(T))
+
+function decrement!( d::Dict{S, T}, k::S, i::T) where {T<:Real, S<:Any}
+    if haskey(d, k)
+        d[k] -= i
+    else
+        d[k] = -i
+    end
+end
+decrement!(d::Dict{S, T}, k::S ) where {T<:Real, S<:Any} = increment!( d, k, one(T))
+
+function append!( d::Dict{S, Array{T,1}}, k::S, x::Array{T,1}) where {T<:Any, S<:Any}
+    if haskey(d, k)
+        append!(d[k], x)
+    else
+        d[k] = x
+    end
+end
 
 function increment!( d::Dict{S, Dict{S, T}}, k1::S, k2::S, i::T) where {T<:Real, S<:Any}
     if !haskey(d, k1)
