@@ -1,0 +1,110 @@
+Src,Dst,Weight
+Rincewind,Twoflower,37
+Rincewind,Hrun the Barbarian,4
+Rincewind,The Discworld,5
+Rincewind,Death,4
+Rincewind,The Luggage,4
+Rincewind,Ankh-Morpork,4
+Rincewind,Stren Withel,3
+Rincewind,Broadman,2
+Rincewind,The Rim,2
+Rincewind,Krull,1
+Rincewind,Lio!rt,4
+Rincewind,Lord Vetinari,3
+Rincewind,The Broken Drum,3
+Rincewind,Bel-Shamharoth,6
+Rincewind,Circumfence,2
+Rincewind,The Wyrmberg,1
+Rincewind,Kring,4
+Rincewind,Fate of the Discworld,1
+Rincewind,Guestmaster Garhartra,1
+Rincewind,Agatean Empire,2
+Rincewind,Druellae,2
+Rincewind,Rimfall,1
+Rincewind,Circle Sea,1
+Rincewind,Unseen University,2
+Rincewind,Great Nef,1
+Twoflower,Hrun the Barbarian,6
+Twoflower,The Discworld,5
+Twoflower,The Luggage,7
+Twoflower,Stren Withel,1
+Twoflower,Broadman,2
+Twoflower,The Rim,2
+Twoflower,Blind Hugh,1
+Twoflower,Lord Vetinari,1
+Twoflower,The Lady,2
+Twoflower,The Broken Drum,3
+Twoflower,Bel-Shamharoth,2
+Twoflower,Great A’Tuin,1
+Twoflower,Bravd the Hublander,1
+Twoflower,Zlorf Flannelfoot,1
+Twoflower,Tethis,1
+Twoflower,Agatean Empire,1
+Twoflower,Rimfall,1
+Twoflower,Great Nef,1
+Hrun the Barbarian,Death,1
+Hrun the Barbarian,The Luggage,2
+Hrun the Barbarian,Ankh-Morpork,2
+Hrun the Barbarian,The Weasel,3
+Hrun the Barbarian,The Rim,1
+Hrun the Barbarian,Liessa Wyrmrider,5
+Hrun the Barbarian,Lio!rt,1
+Hrun the Barbarian,Bravd the Hublander,2
+Hrun the Barbarian,Liartes,3
+Hrun the Barbarian,Circle Sea,1
+The Discworld,Death,2
+The Discworld,Ankh-Morpork,1
+The Discworld,The Rim,3
+The Discworld,Krull,1
+The Discworld,The Broken Drum,1
+The Discworld,Bel-Shamharoth,1
+The Discworld,Circumfence,1
+The Discworld,Fate of the Discworld,3
+The Discworld,Great A’Tuin,6
+The Discworld,Guestmaster Garhartra,1
+The Discworld,Rimfall,1
+The Discworld,Circle Sea,1
+The Discworld,Great Nef,2
+Death,The Luggage,1
+Death,Ankh-Morpork,1
+Death,The Broken Drum,1
+Death,Fate of the Discworld,2
+The Luggage,Ankh-Morpork,1
+Ankh-Morpork,Ymor,2
+Ankh-Morpork,Stren Withel,1
+Ankh-Morpork,Lord Vetinari,4
+Ankh-Morpork,The Broken Drum,1
+Ankh-Morpork,Fate of the Discworld,1
+Ankh-Morpork,Circle Sea,2
+Ymor,Stren Withel,2
+Ymor,Broadman,3
+Ymor,The Broken Drum,1
+Ymor,Zlorf Flannelfoot,3
+Stren Withel,The Broken Drum,1
+Broadman,Blind Hugh,1
+The Weasel,Bravd the Hublander,6
+The Rim,Krull,4
+The Rim,Great A’Tuin,2
+The Rim,Tethis,2
+The Rim,Rimfall,2
+Liessa Wyrmrider,The Wyrmberg,1
+Krull,Circumfence,11
+Krull,Fate of the Discworld,1
+Krull,Great A’Tuin,2
+Krull,Tethis,1
+Krull,Rimfall,1
+Krull,Great Nef,1
+Blind Hugh,The Broken Drum,3
+Lio!rt,Liartes,4
+Lord Vetinari,Agatean Empire,1
+The Lady,Fate of the Discworld,3
+Bel-Shamharoth,Druellae,1
+Circumfence,Great A’Tuin,1
+Circumfence,Tethis,1
+Circumfence,Agatean Empire,1
+Circumfence,Great Nef,1
+Kring,K!sdra,1
+Kring,Great Nef,1
+Kring,Bronze Psepha,1
+Great A’Tuin,Rimfall,2
+Circle Sea,Unseen University,1

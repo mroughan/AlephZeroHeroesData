@@ -1,10 +1,11 @@
 This folder contains the results of Named Entity extraction from Terry
 Pratchett's Discworld novels.
 
-There are two sets of files
+The files are in the form
 
- + BookNN.csv        -- contains an abbreviated set of data
+ + BookNN.csv         -- contains an abbreviated set of data
  + Book NN - NAME.csv -- contains the full data
+ + network_BookNN.csv  - contains the derived networks
 
 The fields are
  + Name: the entities name
