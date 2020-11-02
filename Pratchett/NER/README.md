@@ -23,4 +23,8 @@ The fields are
 Note that these are (more than some of my other files) a work in
 progress.
 
+** Additional Notes**
 
+1. The Type "Gazetteer" also refers to locations, but these locations
+were obtained directly from the Discworld Atlas's Gazetteer with the
+advantage that these include coordinates. 
