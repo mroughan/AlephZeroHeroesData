@@ -1,0 +1,112 @@
+Number,Title,Publisher,Year,Subseries,Notes
+# https://wiki.lspace.org/mediawiki/Bibliography
+# https://discworld.fandom.com/wiki/List_of_Discworld_Books
+# * indicates not clear Subseries
+#
+# Main novels, not including
+#            + graphic novels
+#            + collections
+#            + short stories and "Where's my cow"
+#            + maps, quizbooks, companions, diaries, gazettes, ...
+#            + non-discworld books
+# 
+01,The Colour of Magic,Colin Smythe,1983,Rincewind,
+02,The Light Fantastic,Colin Smythe,1986,Rincewind,
+03,Equal Rites,"Gollancz,Colin Smythe",1987,Witches,
+04,Mort,"Gollancz,Colin Smythe",1987,Death,
+05,Sourcery,"Gollancz,Colin Smythe",1988,Rincewind,
+06,Wyrd Sisters,Gollancz,1988,Witches,
+07,Pyramids,Gollancz,1989,Ancient Civilisations,
+08,Guards! Guards!,Gollancz,1989,City Watch,
+09,Eric,Gollancz,1990,Rincewind,illustrated
+10,Moving Pictures,Gollancz,1990,"Industrial Revolution,Wizards",
+11,Reaper Man,Gollancz,1991,Death,
+12,Witches Abroad,Gollancz,1991,Witches,
+13,Small Gods,Gollancz,1992,Ancient Civilisations,
+14,Lords and Ladies,Gollancz,1992,Witches,
+15,Men at Arms,Gollancz,1993,City Watch,
+16,Soul Music,Gollancz,1994,Death,
+17,Interesting Times,Gollancz,1994,Rincewind,
+18,Maskerade,Gollancz,1995,Witches,
+19,Feet of Clay,Gollancz,1996,City Watch,
+20,Hogfather,Gollancz,1996,Death,
+21,Jingo,Gollancz,1997,City Watch,
+22,The Last Continent,Doubleday,1998,Rincewind,
+23,Carpe Jugulum,Doubleday,1998,Witches,
+24,The Fifth Elephant,Doubleday,1999,City Watch,
+25,The Truth,Doubleday,2000,Industrial Revolution,
+26,Thief of Time,Doubleday,2001,Death,
+27,The Last Hero,Gollancz,2001,Rincewind,* and illustrated
+28,The Amazing Maurice and his Educated Rodents,Doubleday,2001,One-off,
+29,Night Watch,Doubleday,2002,City Watch,
+30,The Wee Free Men,Doubleday,2003,Tiffany Aching,
+31,Monstrous Regiment,Doubleday,2003,One-off,
+32,A Hat Full of Sky,Doubleday,2004,Tiffany Aching,
+33,Going Postal,Doubleday,2004,Industrial Revolution,
+34,Thud!,Doubleday,2005,City Watch,
+35,Wintersmith,Doubleday,2006,Tiffany Aching,
+36,Making Money,Doubleday,2007,Industrial Revolution,
+37,Unseen Academicals,Doubleday,2009,"Rincewind,Wizards",
+38,I Shall Wear Midnight,Doubleday,2010,Tiffany Aching,
+39,Snuff,Doubleday,2011,City Watch,
+40,Raising Steam,Doubleday,2013,Industrial Revolution,*
+41,The Shepherd's Crown,Doubleday,2015,Tiffany Aching,
+#
+# Short stories in the discworld
+,Troll Bridge,,1992,,Short story
+,Theatre of Cruelty,,1993,,Short story
+,The Sea and Little Fishes,,1998,,Short story
+,Death and What Comes Next,,2002,,Short story
+,A Few Words From Lord Havelock Vetinari,,2002,,Short story
+,Once More* With Footnotes,,2004,,Compilation of short works
+,Where's my cow,,2005,,Children's book
+#
+# Diaries and yearbooks
+,Discworld's Ankh Morpork City Watch Diary 1999,,1998,,
+,Discworld Assassins' Guild Yearbook and Diary 2000,,1999,,
+,Discworld Fools' Guild Diary 2001,,2000,,
+,Discworld Thieves' Guild Yearbook & Diary 2002,,2001,,
+,The Discworld (Reformed) Vampyre's Diary 2003,,2002,,
+,The Discworld Almanak: The Year of the Prawn,,2004,,
+,The Ankh-Morpork Post Office Handbook: Discworld Diary 2007,,2006,,
+,Lu-Tze's Yearbook of Enlightenment 2008,,2007,,
+,Discworld Diary 2015: We R Igors: First and Last Aid,,2014,,
+,Discworld Diary 2016: A Practical Manual for the Modern Witch,,2015,,
+,The Terry Pratchett Diary,,2016,,
+,Terry Pratchett's Discworld Quiz Diary 2019,,2018,,
+,Death and Friends, A Discworld Journal,,2019,,
+,The Ankh-Morpork City Watch Discworld Journal,,2020,,
+#
+# Companions and Science
+# this one isn't working at the moment: ,Discworld Companion (Discworld Companion Books),,1994,,
+,The New Discworld Companion,,2003,,
+,Turtle Recall: The Discworld Companion...So Far,,2012,,
+,"The Science of Discworld",,1999,,
+,"The Science of Discworld #2, The Globe",,2002,,
+,"The Science of Discworld #3, Darwin's Watch",,2005,,
+,"The Science of Discworld #4, Judgement Day",,2013,,
+#
+# Maps and Atlases
+,The Discworld Mapp: Being the Onlie True and Mostlie Accurate Mappe of the Fantastyk and Magical Dyscworlde,,1995,,
+,The Compleat Discworld Atlas,,2015,,
+,The Streets of Ankh-Morpork,,1993,,
+,The Compleat Ankh-Morpork: City Guide,,2012,,
+,A Tourist Guide to Lancre,,1998,,
+,Death's Domain: A Discworld Mapp,,1999,,
+#
+# Graphic Novels
+#
+# Miscellany
+,Mrs Bradshaw's Handbook,,2014,,
+,The World of Poo,,2012,brad,
+,A Collegiate Casting-Out of Devilish Devices,,2005,,"Book 37.5"
+,Nanny Ogg's Cookbook,,1999,,
+,The Wit and Wisdom of Discworld,,2007,,
+,The Art of Discworld,,2004,,
+,The Folklore of Discworld,,2008,,
+,The Ankh-Morpork Archives: Volume One,,2019,,
+,The Ankh-Morpork Archives: Volume Two,,2020,,
+#
+#  Anthologies and collections of other books
+,A Blink of the Screen: Collected Shorter Fiction,,2012,,
+# groupings of various books
