@@ -1,0 +1,98 @@
+Title,Time,NormalisedTS,Party A,Party B,"Outcome (A, B,  inconclusive)"
+Avengers: Age of Ultron,1.88,0.0133,Iron Man,Hydra Shield,Hydra Shield
+Avengers: Age of Ultron,5.05,0.0358,Hawkeye,Quicksilver,Quicksilver
+Avengers: Age of Ultron,5.15,0.0365,Hawkeye,Quicksilver,Quicksilver
+Avengers: Age of Ultron,5.38,0.0382,Quicksilver,Captain America,Quicksilver
+Avengers: Age of Ultron,6.17,0.0438,Iron Man,Hydra Shield,Iron Man
+Avengers: Age of Ultron,9.77,0.0693,Strucker,Captain America,Captain America
+Avengers: Age of Ultron,32.6,0.2312,Thor,Ultron,Thor
+Avengers: Age of Ultron,41.0,0.2908,Ultron,Strucker,Ultron
+Avengers: Age of Ultron,43.15,0.306,Quicksilver,Ulysses Klaue,Quicksilver
+Avengers: Age of Ultron,44.37,0.3147,Ultron,Ulysses Klaue,Ultron
+Avengers: Age of Ultron,45.58,0.3233,Ultron,Ulysses Klaue,Ultron
+Avengers: Age of Ultron,45.9,0.3255,Ultron,Ulysses Klaue,Ultron
+Avengers: Age of Ultron,46.9,0.3326,Ultron,Iron Man,Ultron
+Avengers: Age of Ultron,46.98,0.3332,Ultron,Iron Man,Ultron
+Avengers: Age of Ultron,47.1,0.334,Quicksilver,Thor,Quicksilver
+Avengers: Age of Ultron,47.17,0.3345,Scarlet Witch,Captain America,Scarlet Witch
+Avengers: Age of Ultron,47.52,0.337,Iron Man,Ultron,inconclusive
+Avengers: Age of Ultron,47.57,0.3374,Captain America,Quicksilver,Quicksilver
+Avengers: Age of Ultron,47.73,0.3385,Thor,Quicksilver,Thor
+Avengers: Age of Ultron,47.85,0.3394,Iron Man,Ultron,inconclusive
+Avengers: Age of Ultron,48.07,0.3409,Captain America,Quicksilver,Captain America
+Avengers: Age of Ultron,48.82,0.3462,Captain America,Quicksilver,Quicksilver
+Avengers: Age of Ultron,49.23,0.3491,Hawkeye,Scarlet Witch,Hawkeye
+Avengers: Age of Ultron,49.33,0.3499,Quicksilver,Hawkeye,Quicksilver
+Avengers: Age of Ultron,52.47,0.3721,Iron Man,Ultron,Iron Man
+Avengers: Age of Ultron,52.72,0.3739,Iron Man,Ultron,Iron Man
+Avengers: Age of Ultron,54.0,0.383,Iron Man's Hulk Trap,Hulk,Iron Man's Hulk Trap
+Avengers: Age of Ultron,54.52,0.3867,Iron Man's Hulk Trap,Hulk,Hulk
+Avengers: Age of Ultron,55.12,0.3909,Hulk,Iron Man,Hulk
+Avengers: Age of Ultron,55.22,0.3916,Hulk,Iron Man,Iron Man
+Avengers: Age of Ultron,55.25,0.3918,Hulk,Iron Man,Hulk
+Avengers: Age of Ultron,55.37,0.3927,Hulk,Iron Man,Iron Man
+Avengers: Age of Ultron,55.48,0.3935,Hulk,Iron Man,Hulk
+Avengers: Age of Ultron,55.55,0.394,Hulk,Iron Man,Hulk
+Avengers: Age of Ultron,55.68,0.3949,Hulk,Iron Man,Iron Man
+Avengers: Age of Ultron,56.02,0.3973,Hulk,Iron Man,Iron Man
+Avengers: Age of Ultron,56.13,0.3981,Hulk,Iron Man,inconclusive
+Avengers: Age of Ultron,56.2,0.3986,Hulk,Iron Man,Iron Man
+Avengers: Age of Ultron,56.4,0.4,Hulk,Iron Man,Iron Man
+Avengers: Age of Ultron,56.65,0.4018,Hulk,Iron Man,Hulk
+Avengers: Age of Ultron,56.83,0.403,Hulk,Iron Man,Hulk
+Avengers: Age of Ultron,57.05,0.4046,Hulk,Iron Man,Iron Man
+Avengers: Age of Ultron,57.12,0.4051,Hulk,Iron Man,Iron Man
+Avengers: Age of Ultron,57.37,0.4069,Hulk,Iron Man,Hulk
+Avengers: Age of Ultron,57.7,0.4092,Hulk,Iron Man,Hulk
+Avengers: Age of Ultron,57.97,0.4111,Hulk,Iron Man,Iron Man
+Avengers: Age of Ultron,58.98,0.4183,Hulk,Iron Man,Iron Man
+Avengers: Age of Ultron,79.0,0.5603,Ultron,Dr. Helen Cho,Ultron
+Avengers: Age of Ultron,80.65,0.572,Ultron,Captain America,Ultron
+Avengers: Age of Ultron,80.75,0.5727,Ultron,Captain America,Ultron
+Avengers: Age of Ultron,81.07,0.575,Ultron,Captain America,Ultron
+Avengers: Age of Ultron,81.32,0.5767,Ultron,Captain America,inconclusive
+Avengers: Age of Ultron,81.45,0.5777,Ultron,Captain America,Captain America
+Avengers: Age of Ultron,81.5,0.578,Ultron,Captain America,Ultron
+Avengers: Age of Ultron,82.2,0.583,Ultron,Captain America,Captain America
+Avengers: Age of Ultron,82.25,0.5833,Ultron,Captain America,Ultron
+Avengers: Age of Ultron,82.37,0.5842,Ultron,Captain America,Captain America
+Avengers: Age of Ultron,82.43,0.5846,Ultron,Black Widow,Ultron
+Avengers: Age of Ultron,82.63,0.586,Ultron,Captain America,Ultron
+Avengers: Age of Ultron,82.73,0.5867,Ultron,Captain America,Ultron
+Avengers: Age of Ultron,82.87,0.5877,Ultron,Captain America,Captain America
+Avengers: Age of Ultron,83.0,0.5887,Ultron,Captain America,inconclusive
+Avengers: Age of Ultron,83.02,0.5888,Hawkeye,Ultron,Hawkeye
+Avengers: Age of Ultron,83.43,0.5917,Ultron,Captain America,inconclusive
+Avengers: Age of Ultron,83.52,0.5923,Ultron,Captain America,Captain America
+Avengers: Age of Ultron,83.57,0.5927,Ultron,Captain America,Ultron
+Avengers: Age of Ultron,83.73,0.5938,Ultron,Captain America,Ultron
+Avengers: Age of Ultron,84.83,0.6016,Ultron,Captain America,Ultron
+Avengers: Age of Ultron,84.87,0.6019,Quicksilver,Ultron,Quicksilver
+Avengers: Age of Ultron,84.95,0.6025,Scarlet Witch,Ultron,Scarlet Witch
+Avengers: Age of Ultron,85.08,0.6034,Quicksilver,Ultron,Quicksilver
+Avengers: Age of Ultron,85.52,0.6065,Black Widow,Ultron,Ultron
+Avengers: Age of Ultron,91.63,0.6499,Quicksilver,Iron Man,Quicksilver
+Avengers: Age of Ultron,91.63,0.6499,Quicksilver,Hulk,Quicksilver
+Avengers: Age of Ultron,92.05,0.6528,Iron Man,Captain America,Iron Man
+Avengers: Age of Ultron,92.12,0.6533,Hulk,Scarlet Witch,Hulk
+Avengers: Age of Ultron,92.18,0.6538,Iron Man,Captain America,inconclusive
+Avengers: Age of Ultron,92.23,0.6541,Hulk,Scarlet Witch,Scarlet Witch
+Avengers: Age of Ultron,93.05,0.6599,Thor,Vision,Thor
+Avengers: Age of Ultron,101.67,0.7211,Vision,Ultron,Ultron
+Avengers: Age of Ultron,108.2,0.7674,Thor,Ultron,Ultron
+Avengers: Age of Ultron,109.27,0.775,Thor,Ultron,Ultron
+Avengers: Age of Ultron,109.35,0.7755,Thor,Ultron,Ultron
+Avengers: Age of Ultron,113.63,0.8059,Thor,Ultron,Ultron
+Avengers: Age of Ultron,113.9,0.8078,Vision,Ultron,Vision
+Avengers: Age of Ultron,116.65,0.8273,Vision,Ultron,Ultron
+Avengers: Age of Ultron,116.68,0.8275,Vision,Ultron,Vision
+Avengers: Age of Ultron,116.8,0.8284,Vision,Ultron,Vision
+Avengers: Age of Ultron,116.8,0.8284,Thor,Ultron,Thor
+Avengers: Age of Ultron,116.8,0.8284,Iron Man,Ultron,Iron Man
+Avengers: Age of Ultron,117.13,0.8307,Hulk,Ultron,Hulk
+Avengers: Age of Ultron,118.92,0.8434,Black Widow,Hulk,Hulk
+Avengers: Age of Ultron,119.85,0.85,Ultron,Hulk,Ultron
+Avengers: Age of Ultron,120.43,0.8541,Ultron,Quicksilver,Quicksilver
+Avengers: Age of Ultron,121.65,0.8628,Hulk,Ultron,Hulk
+Avengers: Age of Ultron,122.7,0.8702,Scarlet Witch,Ultron,Scarlet Witch
+Avengers: Age of Ultron,126.38,0.8963,Vision,Ultron,Vision

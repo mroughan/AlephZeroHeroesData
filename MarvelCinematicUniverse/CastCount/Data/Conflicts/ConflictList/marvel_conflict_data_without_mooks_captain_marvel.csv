@@ -1,0 +1,66 @@
+Title,Time,NormalisedTS,Party A,Party B,"Outcome (A, B,  inconclusive)"
+Captain Marvel,2.53,0.0206,Captain Marvel,Yon-Rogg,Yon-Rogg
+Captain Marvel,2.77,0.0225,Captain Marvel,Yon-Rogg,inconclusive
+Captain Marvel,2.88,0.0234,Captain Marvel,Yon-Rogg,Yon-Rogg
+Captain Marvel,3.03,0.0246,Captain Marvel,Yon-Rogg,Yon-Rogg
+Captain Marvel,3.42,0.0278,Captain Marvel,Yon-Rogg,Yon-Rogg
+Captain Marvel,3.52,0.0286,Captain Marvel,Yon-Rogg,Captain Marvel
+Captain Marvel,12.78,0.1039,Captain Marvel,Talos,Talos
+Captain Marvel,14.1,0.1146,Captain Marvel,Talos,Talos
+Captain Marvel,19.93,0.162,Captain Marvel,Talos,Captain Marvel
+Captain Marvel,22.4,0.1821,Captain Marvel,Talos,Talos
+Captain Marvel,22.45,0.1825,Captain Marvel,Talos,Captain Marvel
+Captain Marvel,29.25,0.2378,Captain Marvel,Norex,inconclusive
+Captain Marvel,29.3,0.2382,Captain Marvel,Norex,Captain Marvel
+Captain Marvel,30.0,0.2439,Captain Marvel,Norex,Norex
+Captain Marvel,31.23,0.2539,Captain Marvel,Norex,Captain Marvel
+Captain Marvel,31.33,0.2547,Captain Marvel,Norex,Norex
+Captain Marvel,31.4,0.2553,Captain Marvel,Norex,Captain Marvel
+Captain Marvel,31.52,0.2563,Captain Marvel,Norex,Norex
+Captain Marvel,31.63,0.2572,Captain Marvel,Norex,Captain Marvel
+Captain Marvel,32.12,0.2611,Captain Marvel,Norex,Norex
+Captain Marvel,32.4,0.2634,Captain Marvel,Norex,Norex
+Captain Marvel,32.83,0.2669,Captain Marvel,Norex,inconclusive
+Captain Marvel,51.95,0.4224,Nick Fury,Talos,Nick Fury
+Captain Marvel,52.08,0.4234,Nick Fury,Talos,inconclusive
+Captain Marvel,52.22,0.4246,Nick Fury,Talos,Talos
+Captain Marvel,52.32,0.4254,Nick Fury,Talos,Talos
+Captain Marvel,52.43,0.4263,Nick Fury,Talos,Talos
+Captain Marvel,52.73,0.4287,Captain Marvel,Talos,Captain Marvel
+Captain Marvel,54.42,0.4424,Captain Marvel,Talos,Captain Marvel
+Captain Marvel,69.0,0.561,Mar-Vell,Yon-Rogg,Yon-Rogg
+Captain Marvel,78.67,0.6396,Norex,Yon-Rogg,Yon-Rogg
+Captain Marvel,86.6,0.7041,Captain Marvel,Yon-Rogg,Yon-Rogg
+Captain Marvel,87.02,0.7075,Captain Marvel,Yon-Rogg,Yon-Rogg
+Captain Marvel,92.33,0.7507,Captain Marvel,Yon-Rogg,Yon-Rogg
+Captain Marvel,92.33,0.7507,Captain Marvel,Bron-Char,Bron-Char
+Captain Marvel,92.33,0.7507,Captain Marvel,Att-Lass,Att-Lass
+Captain Marvel,92.33,0.7507,Captain Marvel,Minn-Erva,Minn-Erva
+Captain Marvel,92.33,0.7507,Captain Marvel,Korath,Korath
+Captain Marvel,93.78,0.7624,Captain Marvel,Yon-Rogg,Captain Marvel
+Captain Marvel,93.78,0.7624,Captain Marvel,Bron-Char,Captain Marvel
+Captain Marvel,93.78,0.7624,Captain Marvel,Korath,Captain Marvel
+Captain Marvel,94.48,0.7681,Captain Marvel,Bron-Char,Captain Marvel
+Captain Marvel,94.82,0.7709,Captain Marvel,Minn-Erva,Captain Marvel
+Captain Marvel,94.97,0.7721,Captain Marvel,Korath,Captain Marvel
+Captain Marvel,95.02,0.7725,Captain Marvel,Minn-Erva,Captain Marvel
+Captain Marvel,95.2,0.774,Captain Marvel,Minn-Erva,Minn-Erva
+Captain Marvel,95.25,0.7744,Captain Marvel,Minn-Erva,Captain Marvel
+Captain Marvel,95.27,0.7746,Captain Marvel,Bron-Char,Bron-Char
+Captain Marvel,95.37,0.7754,Captain Marvel,Bron-Char,Captain Marvel
+Captain Marvel,95.38,0.7754,Captain Marvel,Att-Lass,Att-Lass
+Captain Marvel,95.57,0.777,Captain Marvel,Att-Lass,Captain Marvel
+Captain Marvel,96.48,0.7844,Captain Marvel,Yon-Rogg,Yon-Rogg
+Captain Marvel,97.0,0.7886,Captain Marvel,Yon-Rogg,Yon-Rogg
+Captain Marvel,97.22,0.7904,Captain Marvel,Yon-Rogg,Captain Marvel
+Captain Marvel,97.5,0.7927,Captain Marvel,Yon-Rogg,inconclusive
+Captain Marvel,97.53,0.7929,Captain Marvel,Bron-Char,Bron-Char
+Captain Marvel,97.57,0.7933,Captain Marvel,Korath,inconclusive
+Captain Marvel,97.58,0.7933,Captain Marvel,Bron-Char,Captain Marvel
+Captain Marvel,97.78,0.795,Yon-Rogg,Talos,Yon-Rogg
+Captain Marvel,97.87,0.7957,Captain Marvel,Korath,Captain Marvel
+Captain Marvel,97.9,0.7959,Captain Marvel,Bron-Char,Captain Marvel
+Captain Marvel,97.92,0.7961,Captain Marvel,Korath,Captain Marvel
+Captain Marvel,98.87,0.8038,Captain Marvel,Yon-Rogg,Yon-Rogg
+Captain Marvel,100.52,0.8172,Captain Marvel,Yon-Rogg,Captain Marvel
+Captain Marvel,106.23,0.8637,Nick Fury,Goose,Goose

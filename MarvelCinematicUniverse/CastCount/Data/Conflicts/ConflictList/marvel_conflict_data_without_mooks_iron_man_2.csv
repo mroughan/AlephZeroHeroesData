@@ -1,0 +1,57 @@
+Title,Time,NormalisedTS,Party A,Party B,"Outcome (A, B,  inconclusive)"
+Iron Man 2,23.23,0.1873,Iron Man,Happy Hogan,Iron Man
+Iron Man 2,23.65,0.1907,Iron Man,Happy Hogan,Iron Man
+Iron Man 2,25.2,0.2032,Black Widow,Happy Hogan,Black Widow
+Iron Man 2,32.53,0.2623,Whiplash,Iron Man,Whiplash
+Iron Man 2,33.83,0.2728,Whiplash,Iron Man,Whiplash
+Iron Man 2,33.97,0.274,Whiplash,Iron Man,Whiplash
+Iron Man 2,34.37,0.2772,Whiplash,Iron Man,inconclusive
+Iron Man 2,34.63,0.2793,Happy Hogan,Whiplash,Happy Hogan
+Iron Man 2,35.03,0.2825,Whiplash,Iron Man,Whiplash
+Iron Man 2,35.12,0.2832,Happy Hogan,Whiplash,Happy Hogan
+Iron Man 2,35.33,0.2849,Happy Hogan,Whiplash,Whiplash
+Iron Man 2,36.07,0.2909,Whiplash,Iron Man,Whiplash
+Iron Man 2,36.33,0.293,Whiplash,Iron Man,Whiplash
+Iron Man 2,36.38,0.2934,Whiplash,Iron Man,Whiplash
+Iron Man 2,36.75,0.2964,Whiplash,Iron Man,Iron Man
+Iron Man 2,56.95,0.4593,Iron Man,War Machine,War Machine
+Iron Man 2,57.08,0.4603,Iron Man,War Machine,Iron Man
+Iron Man 2,57.2,0.4613,Iron Man,War Machine,War Machine
+Iron Man 2,57.42,0.4631,Iron Man,War Machine,Iron Man
+Iron Man 2,57.55,0.4641,Iron Man,War Machine,War Machine
+Iron Man 2,57.7,0.4653,Iron Man,War Machine,War Machine
+Iron Man 2,57.88,0.4668,Iron Man,War Machine,inconclusive
+Iron Man 2,57.97,0.4675,Iron Man,War Machine,Iron Man
+Iron Man 2,58.12,0.4687,Iron Man,War Machine,Iron Man
+Iron Man 2,58.22,0.4695,Iron Man,War Machine,War Machine
+Iron Man 2,58.35,0.4706,Iron Man,War Machine,Iron Man
+Iron Man 2,58.68,0.4732,Iron Man,War Machine,War Machine
+Iron Man 2,59.07,0.4764,Iron Man,War Machine,inconclusive
+Iron Man 2,96.67,0.7796,War Machine,Iron Man,War Machine
+Iron Man 2,97.18,0.7837,War Machine,Iron Man,War Machine
+Iron Man 2,97.37,0.7852,War Machine,Iron Man,War Machine
+Iron Man 2,98.47,0.7941,War Machine,Iron Man,War Machine
+Iron Man 2,99.38,0.8015,War Machine,Iron Man,Iron Man
+Iron Man 2,100.62,0.8115,War Machine,Iron Man,War Machine
+Iron Man 2,100.67,0.8119,War Machine,Iron Man,Iron Man
+Iron Man 2,101.18,0.816,War Machine,Iron Man,War Machine
+Iron Man 2,102.25,0.8246,War Machine,Iron Man,Iron Man
+Iron Man 2,104.02,0.8389,War Machine,Iron Man,Iron Man
+Iron Man 2,104.37,0.8417,War Machine,Iron Man,War Machine
+Iron Man 2,104.63,0.8438,War Machine,Iron Man,War Machine
+Iron Man 2,109.65,0.8843,War Machine,Whiplash,Whiplash
+Iron Man 2,109.87,0.886,Iron Man,Whiplash,inconclusive
+Iron Man 2,109.93,0.8865,Iron Man,Whiplash,Whiplash
+Iron Man 2,109.93,0.8865,War Machine,Whiplash,Whiplash
+Iron Man 2,110.0,0.8871,War Machine,Whiplash,Whiplash
+Iron Man 2,110.05,0.8875,Iron Man,Whiplash,Whiplash
+Iron Man 2,110.13,0.8881,War Machine,Whiplash,War Machine
+Iron Man 2,110.18,0.8885,Iron Man,Whiplash,Whiplash
+Iron Man 2,110.25,0.8891,War Machine,Whiplash,Whiplash
+Iron Man 2,110.33,0.8898,Iron Man,Whiplash,Iron Man
+Iron Man 2,110.38,0.8902,Iron Man,Whiplash,Whiplash
+Iron Man 2,110.5,0.8911,War Machine,Whiplash,Whiplash
+Iron Man 2,110.63,0.8922,War Machine,Whiplash,Whiplash
+Iron Man 2,111.05,0.8956,"War Machine, Iron Man",Whiplash,"War Machine, Iron Man"
+Iron Man 2,111.7,0.9008,"War Machine, Iron Man",Whiplash,Whiplash
+Iron Man 2,112.1,0.904,Iron Man,Whiplash,Iron Man

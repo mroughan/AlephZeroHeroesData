@@ -1,0 +1,7 @@
+Title,Time,NormalisedTS,Party A,Party B,"Outcome (A, B,  inconclusive)"
+Doctor Strange,46.65,0.4057,Doctor Strange,Mordo,Mordo
+Doctor Strange,46.92,0.408,Doctor Strange,Mordo,Mordo
+Doctor Strange,92.6,0.8052,Kaecilius,Doctor Strange,Kaecilius
+Doctor Strange,92.73,0.8063,Kaecilius,Doctor Strange,inconclusive
+Doctor Strange,92.82,0.8071,Kaecilius,Doctor Strange,Kaecilius
+Doctor Strange,92.88,0.8077,Kaecilius,Doctor Strange,Kaecilius

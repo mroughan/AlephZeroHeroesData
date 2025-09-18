@@ -1,0 +1,60 @@
+Title,Time,NormalisedTS,Party A,Party B,"Outcome (A, B,  inconclusive)"
+Black Panther,25.28,0.1887,M'Baku,Black Panther,M'Baku
+Black Panther,25.53,0.1905,M'Baku,Black Panther,Black Panther
+Black Panther,25.72,0.1919,M'Baku,Black Panther,M'Baku
+Black Panther,25.93,0.1935,M'Baku,Black Panther,Black Panther
+Black Panther,26.02,0.1942,M'Baku,Black Panther,Black Panther
+Black Panther,26.23,0.1957,M'Baku,Black Panther,M'Baku
+Black Panther,26.52,0.1979,M'Baku,Black Panther,Black Panther
+Black Panther,26.63,0.1987,M'Baku,Black Panther,M'Baku
+Black Panther,26.87,0.2005,M'Baku,Black Panther,Black Panther
+Black Panther,27.08,0.2021,M'Baku,Black Panther,Black Panther
+Black Panther,47.07,0.3513,Ulysses Klaue,Everett Ross,inconclusive
+Black Panther,48.35,0.3608,Black Panther,Ulysses Klaue,Ulysses Klaue
+Black Panther,52.15,0.3892,Ulysses Klaue,Okoye,Ulysses Klaue
+Black Panther,52.15,0.3892,Ulysses Klaue,Nakia,Ulysses Klaue
+Black Panther,52.67,0.3931,Ulysses Klaue,Black Panther,Ulysses Klaue
+Black Panther,52.67,0.3931,Ulysses Klaue,Shuri,Ulysses Klaue
+Black Panther,52.78,0.3939,Ulysses Klaue,Black Panther,Black Panther
+Black Panther,53.23,0.3972,Ulysses Klaue,Black Panther,Black Panther
+Black Panther,58.8,0.4388,Killmonger,Everett Ross,Killmonger
+Black Panther,59.0,0.4403,Killmonger,Black Panther,inconclusive
+Black Panther,59.22,0.4419,Killmonger,Black Panther,Killmonger
+Black Panther,62.77,0.4684,Killmonger,Ulysses Klaue,Killmonger
+Black Panther,63.13,0.4711,Killmonger,Ulysses Klaue,Killmonger
+Black Panther,79.17,0.5908,Killmonger,Black Panther,inconclusive
+Black Panther,79.35,0.5922,Killmonger,Black Panther,inconclusive
+Black Panther,79.6,0.594,Killmonger,Black Panther,Black Panther
+Black Panther,79.73,0.595,Killmonger,Black Panther,Black Panther
+Black Panther,79.85,0.5959,Killmonger,Black Panther,Killmonger
+Black Panther,79.92,0.5964,Killmonger,Black Panther,Killmonger
+Black Panther,80.07,0.5975,Killmonger,Black Panther,Killmonger
+Black Panther,80.18,0.5984,Killmonger,Black Panther,Killmonger
+Black Panther,80.35,0.5996,Killmonger,Black Panther,Killmonger
+Black Panther,80.78,0.6028,Killmonger,Zuri,Killmonger
+Black Panther,81.05,0.6049,Killmonger,Black Panther,Killmonger
+Black Panther,81.18,0.6058,Killmonger,Black Panther,Killmonger
+Black Panther,81.68,0.6096,Killmonger,Black Panther,Killmonger
+Black Panther,104.08,0.7767,Killmonger,Okoye,inconclusive
+Black Panther,104.78,0.7819,Black Panther,W'Kabi,Black Panther
+Black Panther,105.98,0.7909,Killmonger,Okoye,inconclusive
+Black Panther,106.08,0.7916,Killmonger,Okoye,Killmonger
+Black Panther,106.4,0.794,Killmonger,Okoye,Killmonger
+Black Panther,107.4,0.8015,Killmonger,Okoye,Okoye
+Black Panther,107.5,0.8022,Killmonger,Okoye,Killmonger
+Black Panther,107.68,0.8036,Killmonger,Nakia,inconclusive
+Black Panther,107.75,0.8041,Killmonger,Shuri,Shuri
+Black Panther,108.33,0.8084,Killmonger,Nakia,Nakia
+Black Panther,108.53,0.8099,Killmonger,Nakia,Killmonger
+Black Panther,108.67,0.811,Killmonger,Shuri,Shuri
+Black Panther,108.87,0.8125,Killmonger,Shuri,Killmonger
+Black Panther,109.27,0.8154,Black Panther,Killmonger,Black Panther
+Black Panther,109.42,0.8166,Black Panther,Killmonger,Killmonger
+Black Panther,109.75,0.819,Black Panther,Killmonger,inconclusive
+Black Panther,110.2,0.8224,Black Panther,Killmonger,inconclusive
+Black Panther,112.25,0.8377,M'Baku,W'Kabi,M'Baku
+Black Panther,112.62,0.8404,Black Panther,Killmonger,Killmonger
+Black Panther,112.77,0.8416,Black Panther,Killmonger,Killmonger
+Black Panther,112.97,0.8431,Black Panther,Killmonger,inconclusive
+Black Panther,115.32,0.8606,Black Panther,Killmonger,Killmonger
+Black Panther,115.78,0.864,Black Panther,Killmonger,Black Panther

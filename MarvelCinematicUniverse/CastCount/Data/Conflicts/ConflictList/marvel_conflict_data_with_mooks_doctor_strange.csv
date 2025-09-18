@@ -1,0 +1,16 @@
+Title,Time,NormalisedTS,Party A,Party B,"Outcome (A, B,  inconclusive)"
+Doctor Strange,1.83,0.0159,Kaecilius,Librarian Mook,Kaecilius
+Doctor Strange,22.85,0.1987,Mugger Mooks,Doctor Strange,Mugger Mooks
+Doctor Strange,22.92,0.1993,Mugger Mooks,Doctor Strange,Mugger Mooks
+Doctor Strange,23.07,0.2006,Mugger Mooks,Mordo,Mordo
+Doctor Strange,46.65,0.4057,Doctor Strange,Mordo,Mordo
+Doctor Strange,46.92,0.408,Doctor Strange,Mordo,Mordo
+Doctor Strange,59.4,0.5165,Zealot Mooks,Doctor Strange,Zealot Mooks
+Doctor Strange,59.55,0.5178,Zealot Mooks,Doctor Strange,Doctor Strange
+Doctor Strange,59.65,0.5187,Zealot Mooks,Doctor Strange,Doctor Strange
+Doctor Strange,69.6,0.6052,Dr. Christine Palmer,Zealot Mooks,Dr. Christine Palmer
+Doctor Strange,92.6,0.8052,Kaecilius,Doctor Strange,Kaecilius
+Doctor Strange,92.73,0.8063,Kaecilius,Doctor Strange,inconclusive
+Doctor Strange,92.82,0.8071,Kaecilius,Doctor Strange,Kaecilius
+Doctor Strange,92.88,0.8077,Kaecilius,Doctor Strange,Kaecilius
+Doctor Strange,93.0,0.8087,Mordo,Zealot Mooks,Mordo

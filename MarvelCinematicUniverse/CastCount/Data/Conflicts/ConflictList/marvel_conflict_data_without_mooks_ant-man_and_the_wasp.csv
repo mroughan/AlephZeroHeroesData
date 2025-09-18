@@ -1,0 +1,42 @@
+Title,Time,NormalisedTS,Party A,Party B,"Outcome (A, B,  inconclusive)"
+Ant-Man and the Wasp,27.17,0.2303,Wasp,Ghost,Ghost
+Ant-Man and the Wasp,27.23,0.2308,Wasp,Ghost,Wasp
+Ant-Man and the Wasp,27.37,0.2319,Wasp,Ghost,Ghost
+Ant-Man and the Wasp,27.5,0.2331,Wasp,Ghost,inconclusive
+Ant-Man and the Wasp,27.75,0.2352,Wasp,Ghost,Ghost
+Ant-Man and the Wasp,27.83,0.2358,Wasp,Ghost,Ghost
+Ant-Man and the Wasp,27.92,0.2366,Ant-Man,Ghost,Ant-Man
+Ant-Man and the Wasp,28.0,0.2373,Ant-Man,Ghost,Ant-Man
+Ant-Man and the Wasp,28.27,0.2396,Ghost,Ant-Man,Ghost
+Ant-Man and the Wasp,28.27,0.2396,Ghost,Wasp,Ghost
+Ant-Man and the Wasp,42.77,0.3625,Ghost,Wasp,Ghost
+Ant-Man and the Wasp,42.8,0.3627,Ghost,Ant-Man,Ghost
+Ant-Man and the Wasp,50.15,0.425,Wasp,Ghost,Wasp
+Ant-Man and the Wasp,66.2,0.561,Ant-Man,Jimmy Woo,Ant-Man
+Ant-Man and the Wasp,67.9,0.5754,Ghost,Agent Stoltz,Ghost
+Ant-Man and the Wasp,76.92,0.6519,Ghost,Ant-Man,Ghost
+Ant-Man and the Wasp,77.95,0.6606,Ghost,Ant-Man,Ghost
+Ant-Man and the Wasp,82.65,0.7004,Ghost,Wasp,Ghost
+Ant-Man and the Wasp,82.78,0.7015,Ghost,Ant-Man,Ghost
+Ant-Man and the Wasp,82.78,0.7015,Ghost,Luis,Ghost
+Ant-Man and the Wasp,83.15,0.7047,Wasp,Ghost,inconclusive
+Ant-Man and the Wasp,83.3,0.7059,Wasp,Ghost,inconclusive
+Ant-Man and the Wasp,83.4,0.7068,Ghost,Ant-Man,Ghost
+Ant-Man and the Wasp,83.45,0.7072,Ghost,Wasp,Ghost
+Ant-Man and the Wasp,83.55,0.7081,Ghost,Wasp,Wasp
+Ant-Man and the Wasp,83.6,0.7085,Ant-Man,Ghost,Ant-Man
+Ant-Man and the Wasp,83.95,0.7114,Sonny Burch,Wasp,Sonny Burch
+Ant-Man and the Wasp,87.68,0.7431,Ant-Man,Sonny Burch,Ant-Man
+Ant-Man and the Wasp,87.82,0.7442,Ant-Man,Sonny Burch,Ant-Man
+Ant-Man and the Wasp,89.73,0.7604,Ant-Man,Sonny Burch,Ant-Man
+Ant-Man and the Wasp,94.43,0.8003,Ghost,Luis,Ghost
+Ant-Man and the Wasp,96.02,0.8137,Sonny Burch,Luis,Sonny Burch
+Ant-Man and the Wasp,96.22,0.8154,Sonny Burch,Luis,Luis
+Ant-Man and the Wasp,96.97,0.8218,Dr. Bill Foster,Ghost,Ghost
+Ant-Man and the Wasp,97.9,0.8297,Ant-Man,Ghost,Ghost
+Ant-Man and the Wasp,97.95,0.8301,Wasp,Ghost,inconclusive
+Ant-Man and the Wasp,98.02,0.8307,Wasp,Ghost,inconclusive
+Ant-Man and the Wasp,98.07,0.8311,Wasp,Ghost,Wasp
+Ant-Man and the Wasp,98.12,0.8315,Ant-Man,Ghost,Ant-Man
+Ant-Man and the Wasp,98.2,0.8322,Wasp,Ghost,Ghost
+Ant-Man and the Wasp,98.22,0.8324,Ant-Man,Ghost,Ghost

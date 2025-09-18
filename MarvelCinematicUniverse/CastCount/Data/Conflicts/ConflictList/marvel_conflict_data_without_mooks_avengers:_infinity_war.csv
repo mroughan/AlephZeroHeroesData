@@ -1,0 +1,183 @@
+Title,Time,NormalisedTS,Party A,Party B,"Outcome (A, B,  inconclusive)"
+Avengers: Infinity War,2.53,0.017,Thor,Thanos,Thanos
+Avengers: Infinity War,4.32,0.029,Hulk,Thanos,Hulk
+Avengers: Infinity War,4.42,0.0297,Hulk,Thanos,Hulk
+Avengers: Infinity War,4.65,0.0312,Hulk,Thanos,Thanos
+Avengers: Infinity War,4.72,0.0317,Hulk,Thanos,Thanos
+Avengers: Infinity War,4.83,0.0324,Hulk,Thanos,Thanos
+Avengers: Infinity War,4.98,0.0334,Hulk,Thanos,Thanos
+Avengers: Infinity War,5.1,0.0342,Thor,Thanos,Thanos
+Avengers: Infinity War,5.87,0.0394,Heimdall,Thanos,Thanos
+Avengers: Infinity War,8.37,0.0562,Loki,Thanos,Thanos
+Avengers: Infinity War,21.17,0.1421,Cull Obsidian,Iron Man,Iron Man
+Avengers: Infinity War,21.27,0.1428,Cull Obsidian,Iron Man,Iron Man
+Avengers: Infinity War,21.83,0.1465,Cull Obsidian,Iron Man,Cull Obsidian
+Avengers: Infinity War,22.05,0.148,Cull Obsidian,Hulk,Cull Obsidian
+Avengers: Infinity War,22.15,0.1487,Cull Obsidian,Iron Man,inconclusive
+Avengers: Infinity War,22.43,0.1505,Cull Obsidian,Iron Man,Cull Obsidian
+Avengers: Infinity War,22.52,0.1511,Cull Obsidian,Spider-Man,Spider-Man
+Avengers: Infinity War,22.58,0.1515,Cull Obsidian,Spider-Man,Cull Obsidian
+Avengers: Infinity War,22.65,0.152,Cull Obsidian,Iron Man,inconclusive
+Avengers: Infinity War,22.75,0.1527,Cull Obsidian,Spider-Man,Cull Obsidian
+Avengers: Infinity War,22.8,0.153,Cull Obsidian,Iron Man,inconclusive
+Avengers: Infinity War,22.85,0.1534,Cull Obsidian,Spider-Man,Spider-Man
+Avengers: Infinity War,23.03,0.1546,Ebony Maw,Wong,Ebony Maw
+Avengers: Infinity War,23.37,0.1568,Ebony Maw,Doctor Strange,Ebony Maw
+Avengers: Infinity War,23.88,0.1603,Cull Obsidian,Iron Man,Cull Obsidian
+Avengers: Infinity War,24.2,0.1624,Ebony Maw,Spider-Man,Spider-Man
+Avengers: Infinity War,24.45,0.1641,Cull Obsidian,Iron Man,Cull Obsidian
+Avengers: Infinity War,25.92,0.174,Iron Man,Spider-Man,Spider-Man
+Avengers: Infinity War,38.07,0.2555,Corvus Glaive,Vision,Corvus Glaive
+Avengers: Infinity War,38.17,0.2562,Proxima Midnight,Scarlet Witch,Proxima Midnight
+Avengers: Infinity War,38.25,0.2567,Corvus Glaive,Vision,Corvus Glaive
+Avengers: Infinity War,38.25,0.2567,Proxima Midnight,Vision,Proxima Midnight
+Avengers: Infinity War,38.33,0.2572,Scarlet Witch,Corvus Glaive,Scarlet Witch
+Avengers: Infinity War,38.33,0.2572,Scarlet Witch,Proxima Midnight,Scarlet Witch
+Avengers: Infinity War,38.82,0.2605,Corvus Glaive,Vision,Corvus Glaive
+Avengers: Infinity War,38.93,0.2613,Proxima Midnight,Scarlet Witch,Proxima Midnight
+Avengers: Infinity War,39.07,0.2622,Corvus Glaive,Vision,Vision
+Avengers: Infinity War,39.17,0.2629,Proxima Midnight,Scarlet Witch,Proxima Midnight
+Avengers: Infinity War,39.3,0.2638,Corvus Glaive,Vision,Vision
+Avengers: Infinity War,39.45,0.2648,Corvus Glaive,Vision,Corvus Glaive
+Avengers: Infinity War,39.55,0.2654,Proxima Midnight,Scarlet Witch,Scarlet Witch
+Avengers: Infinity War,39.62,0.2659,Corvus Glaive,Vision,Corvus Glaive
+Avengers: Infinity War,39.72,0.2666,Scarlet Witch,Corvus Glaive,Scarlet Witch
+Avengers: Infinity War,39.8,0.2671,Proxima Midnight,Scarlet Witch,Proxima Midnight
+Avengers: Infinity War,40.67,0.273,Proxima Midnight,Captain America,Captain America
+Avengers: Infinity War,40.83,0.274,Falcon,Proxima Midnight,Falcon
+Avengers: Infinity War,41.0,0.2752,Falcon,Corvus Glaive,inconclusive
+Avengers: Infinity War,41.08,0.2757,Black Widow,Corvus Glaive,Black Widow
+Avengers: Infinity War,41.2,0.2765,Captain America,Proxima Midnight,inconclusive
+Avengers: Infinity War,41.27,0.277,Black Widow,Proxima Midnight,inconclusive
+Avengers: Infinity War,41.35,0.2775,Falcon,Proxima Midnight,Falcon
+Avengers: Infinity War,41.65,0.2795,"Corvus Glaive, Proxima Midnight",Captain America,"Corvus Glaive, Proxima Midnight"
+Avengers: Infinity War,41.65,0.2795,Corvus Glaive,Black Widow,Corvus Glaive
+Avengers: Infinity War,41.65,0.2795,Proxima Midnight,Black Widow,Proxima Midnight
+Avengers: Infinity War,41.65,0.2795,Corvus Glaive,Falcon,Corvus Glaive
+Avengers: Infinity War,41.65,0.2795,Proxima Midnight,Falcon,Proxima Midnight
+Avengers: Infinity War,41.65,0.2795,Proxima Midnight,Captain America,Proxima Midnight
+Avengers: Infinity War,41.65,0.2795,Proxima Midnight,Black Widow,Proxima Midnight
+Avengers: Infinity War,41.65,0.2795,Proxima Midnight,Falcon,Proxima Midnight
+Avengers: Infinity War,42.98,0.2885,Chitauri,Gamora's people,Chitauri
+Avengers: Infinity War,48.3,0.3242,Thanos,The Collector,Thanos
+Avengers: Infinity War,49.48,0.3321,Thanos,The Collector,Thanos
+Avengers: Infinity War,49.72,0.3337,Gamora,Thanos,Thanos
+Avengers: Infinity War,49.77,0.334,Gamora,Thanos,Gamora
+Avengers: Infinity War,51.8,0.3477,Gamora,Thanos,Thanos
+Avengers: Infinity War,68.85,0.4621,Nebula,Thanos,Thanos
+Avengers: Infinity War,75.47,0.5065,Eitri,Thor,Eitri
+Avengers: Infinity War,75.52,0.5068,Eitri,Rocket,Eitri
+Avengers: Infinity War,75.52,0.5068,Eitri,Groot,Eitri
+Avengers: Infinity War,76.47,0.5132,Thanos,Eitri,Thanos
+Avengers: Infinity War,79.18,0.5314,Star-Lord,Spider-Man,Star-Lord
+Avengers: Infinity War,79.18,0.5314,Star-Lord,Iron Man,Star-Lord
+Avengers: Infinity War,79.18,0.5314,Star-Lord,Doctor Strange,Star-Lord
+Avengers: Infinity War,79.3,0.5322,Drax,Doctor Strange,inconclusive
+Avengers: Infinity War,79.33,0.5324,Cloak of Levitation,Drax,Cloak of Levitation
+Avengers: Infinity War,79.42,0.533,Iron Man,Star-Lord,Iron Man
+Avengers: Infinity War,79.57,0.534,Iron Man,Star-Lord,Star-Lord
+Avengers: Infinity War,79.67,0.5347,Spider-Man,Mantis,Spider-Man
+Avengers: Infinity War,79.68,0.5348,Star-Lord,Spider-Man,Star-Lord
+Avengers: Infinity War,79.8,0.5356,Star-Lord,Spider-Man,Star-Lord
+Avengers: Infinity War,79.85,0.5359,Cloak of Levitation,Drax,Cloak of Levitation
+Avengers: Infinity War,80.05,0.5372,Iron Man,Drax,Drax
+Avengers: Infinity War,89.72,0.6021,Thanos,Gamora,Thanos
+Avengers: Infinity War,93.85,0.6299,Wakandan Shields,Thanos ships,Wakandan Shields
+Avengers: Infinity War,104.87,0.7038,Cull Obsidian,War Machine,Cull Obsidian
+Avengers: Infinity War,108.25,0.7265,Iron Man,Thanos,Iron Man
+Avengers: Infinity War,108.5,0.7282,Iron Man,Thanos,Iron Man
+Avengers: Infinity War,108.58,0.7287,Spider-Man,Thanos,Spider-Man
+Avengers: Infinity War,108.63,0.7291,Drax,Thanos,Drax
+Avengers: Infinity War,108.73,0.7297,Drax,Thanos,Thanos
+Avengers: Infinity War,108.83,0.7304,Doctor Strange,Thanos,Thanos
+Avengers: Infinity War,108.88,0.7307,Star-Lord,Thanos,Star-Lord
+Avengers: Infinity War,109.12,0.7323,Cloak of Levitation,Thanos,Cloak of Levitation
+Avengers: Infinity War,109.2,0.7329,Spider-Man,Thanos,Spider-Man
+Avengers: Infinity War,109.23,0.7331,Spider-Man,Thanos,Thanos
+Avengers: Infinity War,109.33,0.7338,Doctor Strange,Thanos,Thanos
+Avengers: Infinity War,109.37,0.734,Cloak of Levitation,Thanos,Thanos
+Avengers: Infinity War,109.43,0.7344,Iron Man,Thanos,Iron Man
+Avengers: Infinity War,109.53,0.7351,Iron Man,Thanos,Iron Man
+Avengers: Infinity War,109.68,0.7361,Spider-Man,Thanos,Spider-Man
+Avengers: Infinity War,109.7,0.7362,Spider-Man,Thanos,Thanos
+Avengers: Infinity War,109.73,0.7364,Nebula,Thanos,Nebula
+Avengers: Infinity War,109.87,0.7374,Nebula,Thanos,Nebula
+Avengers: Infinity War,110.0,0.7383,Nebula,Thanos,Nebula
+Avengers: Infinity War,110.1,0.7389,Nebula,Thanos,Thanos
+Avengers: Infinity War,110.17,0.7394,Doctor Strange,Thanos,Doctor Strange
+Avengers: Infinity War,110.25,0.7399,Drax,Thanos,Drax
+Avengers: Infinity War,110.33,0.7405,Star-Lord,Thanos,Star-Lord
+Avengers: Infinity War,110.42,0.7411,Spider-Man,Thanos,Spider-Man
+Avengers: Infinity War,110.93,0.7445,Iron Man,Thanos,Iron Man
+Avengers: Infinity War,112.32,0.7538,Spider-Man,Thanos,Thanos
+Avengers: Infinity War,112.33,0.7539,Mantis,Thanos,Thanos
+Avengers: Infinity War,112.47,0.7548,Thanos,Drax,Thanos
+Avengers: Infinity War,112.47,0.7548,Thanos,Star-Lord,Thanos
+Avengers: Infinity War,112.47,0.7548,Thanos,Nebula,Thanos
+Avengers: Infinity War,112.48,0.7549,Thanos,Doctor Strange,Thanos
+Avengers: Infinity War,112.52,0.7552,Thanos,Iron Man,Thanos
+Avengers: Infinity War,112.57,0.7555,Thanos,Drax,Thanos
+Avengers: Infinity War,112.57,0.7555,Thanos,Star-Lord,Thanos
+Avengers: Infinity War,112.57,0.7555,Thanos,Nebula,Thanos
+Avengers: Infinity War,112.67,0.7562,Thanos,Iron Man,Thanos
+Avengers: Infinity War,112.98,0.7583,Thanos,Iron Man,Thanos
+Avengers: Infinity War,113.32,0.7605,Cull Obsidian,Black Panther,Black Panther
+Avengers: Infinity War,115.38,0.7744,Shuri,Corvus Glaive,Corvus Glaive
+Avengers: Infinity War,115.55,0.7755,Corvus Glaive,Vision,Vision
+Avengers: Infinity War,115.78,0.777,Proxima Midnight,Scarlet Witch,Scarlet Witch
+Avengers: Infinity War,116.15,0.7795,Proxima Midnight,Black Widow,inconclusive
+Avengers: Infinity War,116.23,0.7801,Corvus Glaive,Vision,Corvus Glaive
+Avengers: Infinity War,116.3,0.7805,Cull Obsidian,Vision,Cull Obsidian
+Avengers: Infinity War,116.52,0.782,Cull Obsidian,Hulk,Cull Obsidian
+Avengers: Infinity War,116.63,0.7828,Cull Obsidian,Hulk,Cull Obsidian
+Avengers: Infinity War,116.78,0.7838,Cull Obsidian,Hulk,Cull Obsidian
+Avengers: Infinity War,117.03,0.7854,Cull Obsidian,Hulk,Hulk
+Avengers: Infinity War,117.08,0.7858,Cull Obsidian,Hulk,Hulk
+Avengers: Infinity War,117.15,0.7862,Cull Obsidian,Hulk,Cull Obsidian
+Avengers: Infinity War,117.23,0.7868,Cull Obsidian,Hulk,Hulk
+Avengers: Infinity War,117.52,0.7887,Proxima Midnight,Black Widow,inconclusive
+Avengers: Infinity War,117.52,0.7887,Proxima Midnight,Okoye,inconclusive
+Avengers: Infinity War,117.6,0.7893,Proxima Midnight,Black Widow,Proxima Midnight
+Avengers: Infinity War,117.65,0.7896,Proxima Midnight,Okoye,Proxima Midnight
+Avengers: Infinity War,117.67,0.7897,Corvus Glaive,Vision,Corvus Glaive
+Avengers: Infinity War,117.88,0.7911,Captain America,Corvus Glaive,Captain America
+Avengers: Infinity War,117.97,0.7917,Captain America,Corvus Glaive,Captain America
+Avengers: Infinity War,118.12,0.7928,Proxima Midnight,Black Widow,Proxima Midnight
+Avengers: Infinity War,118.22,0.7934,Proxima Midnight,Scarlet Witch,Scarlet Witch
+Avengers: Infinity War,118.38,0.7945,Captain America,Corvus Glaive,Captain America
+Avengers: Infinity War,118.47,0.7951,Captain America,Corvus Glaive,Corvus Glaive
+Avengers: Infinity War,118.55,0.7956,Captain America,Corvus Glaive,Corvus Glaive
+Avengers: Infinity War,118.63,0.7962,Vision,Corvus Glaive,Vision
+Avengers: Infinity War,120.12,0.8062,Doctor Strange,Thanos,Thanos
+Avengers: Infinity War,120.52,0.8089,Iron Man,Thanos,Iron Man
+Avengers: Infinity War,120.57,0.8092,Iron Man,Thanos,Iron Man
+Avengers: Infinity War,120.62,0.8095,Iron Man,Thanos,Iron Man
+Avengers: Infinity War,120.67,0.8099,Iron Man,Thanos,Thanos
+Avengers: Infinity War,120.78,0.8106,Iron Man,Thanos,Thanos
+Avengers: Infinity War,120.9,0.8114,Iron Man,Thanos,Iron Man
+Avengers: Infinity War,121.05,0.8124,Iron Man,Thanos,Thanos
+Avengers: Infinity War,121.1,0.8128,Iron Man,Thanos,Thanos
+Avengers: Infinity War,121.17,0.8132,Iron Man,Thanos,Thanos
+Avengers: Infinity War,121.32,0.8142,Iron Man,Thanos,Thanos
+Avengers: Infinity War,121.5,0.8154,Iron Man,Thanos,Thanos
+Avengers: Infinity War,123.42,0.8283,Star-Lord,Thanos,Thanos
+Avengers: Infinity War,125.52,0.8424,Hulk,Thanos,Thanos
+Avengers: Infinity War,125.62,0.8431,Captain America,Thanos,Thanos
+Avengers: Infinity War,125.72,0.8438,Black Panther,Thanos,Thanos
+Avengers: Infinity War,125.8,0.8443,Falcon,Thanos,Thanos
+Avengers: Infinity War,126.97,0.8521,War Machine,Thanos,Thanos
+Avengers: Infinity War,127.05,0.8527,The Winter Soldier,Thanos,Thanos
+Avengers: Infinity War,127.1,0.853,Okoye,Thanos,Thanos
+Avengers: Infinity War,127.17,0.8535,Black Widow,Thanos,Black Widow
+Avengers: Infinity War,127.2,0.8537,Groot,Thanos,Thanos
+Avengers: Infinity War,127.43,0.8552,Captain America,Thanos,Captain America
+Avengers: Infinity War,127.67,0.8568,Captain America,Thanos,Captain America
+Avengers: Infinity War,127.85,0.8581,Captain America,Thanos,Thanos
+Avengers: Infinity War,127.93,0.8586,Scarlet Witch,Thanos,Scarlet Witch
+Avengers: Infinity War,129.68,0.8703,Scarlet Witch,Thanos,Thanos
+Avengers: Infinity War,129.73,0.8707,Thanos,Vision,Thanos
+Avengers: Infinity War,130.33,0.8747,Thor,Thanos,Thor
+Avengers: Infinity War,130.45,0.8755,Thor,Thanos,Thor
+Avengers: Infinity War,130.75,0.8775,Thor,Thanos,Thor
+Avengers: Infinity War,131.0,0.8792,Thanos,the Universe,Thanos
+Avengers: Infinity War,132.52,0.8894,Thor,Thanos,Thanos

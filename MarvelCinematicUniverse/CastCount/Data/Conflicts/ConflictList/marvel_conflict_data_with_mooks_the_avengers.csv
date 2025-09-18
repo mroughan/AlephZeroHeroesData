@@ -1,0 +1,200 @@
+Title,Time,NormalisedTS,Party A,Party B,"Outcome (A, B,  inconclusive)"
+The Avengers,5.6,0.0392,Loki,Nick Fury,Loki
+The Avengers,5.62,0.0393,Loki,SHIELD Mooks,Loki
+The Avengers,5.67,0.0397,Loki,SHIELD Mooks,Loki
+The Avengers,5.68,0.0397,Loki,Scientist Mook,Loki
+The Avengers,5.7,0.0399,Loki,SHIELD Mooks,Loki
+The Avengers,5.73,0.0401,Loki,Hawkeye,Hawkeye
+The Avengers,5.77,0.0403,Loki,SHIELD Mooks,Loki
+The Avengers,5.78,0.0404,Loki,SHIELD Mooks,Loki
+The Avengers,7.87,0.055,Hawkeye,Nick Fury,Hawkeye
+The Avengers,8.4,0.0587,Hawkeye,Maria Hill,Hawkeye
+The Avengers,8.5,0.0594,Hawkeye,Maria Hill,inconclusive
+The Avengers,8.88,0.0621,Loki,SHIELD Mooks,Loki
+The Avengers,9.43,0.0659,Maria Hill,Hawkeye,inconclusive
+The Avengers,9.7,0.0678,Maria Hill,Hawkeye,inconclusive
+The Avengers,10.78,0.0754,Nick Fury,Loki,Loki
+The Avengers,14.35,0.1003,Black Widow,Soldier Mooks,Black Widow
+The Avengers,14.43,0.1009,Black Widow,Soldier Mooks,Black Widow
+The Avengers,14.6,0.1021,Black Widow,Soldier Mooks,Black Widow
+The Avengers,14.68,0.1027,Black Widow,Soldier Mooks,Black Widow
+The Avengers,14.77,0.1033,Black Widow,Soldier Mooks,Black Widow
+The Avengers,14.92,0.1043,Black Widow,Soldier Mooks,Black Widow
+The Avengers,21.2,0.1483,Captain America,punching bag,Captain America
+The Avengers,38.07,0.2662,Hawkeye,Guard Mooks,Hawkeye
+The Avengers,38.7,0.2706,Loki,Guard Mook,Loki
+The Avengers,38.82,0.2715,Loki,Museum Mook,Loki
+The Avengers,39.8,0.2783,Loki,Police Mooks,Loki
+The Avengers,41.27,0.2886,Loki,Captain America,Captain America
+The Avengers,41.7,0.2916,Loki,Black Widow,inconclusive
+The Avengers,41.72,0.2917,Loki,Captain America,inconclusive
+The Avengers,41.82,0.2924,Loki,Captain America,Loki
+The Avengers,41.97,0.2935,Loki,Captain America,Loki
+The Avengers,42.15,0.2948,Loki,Captain America,Captain America
+The Avengers,42.18,0.295,Loki,Captain America,Loki
+The Avengers,42.4,0.2965,Iron Man,Loki,Iron Man
+The Avengers,44.07,0.3082,Iron Man,Thor,Thor
+The Avengers,44.9,0.314,Thor,Loki,Thor
+The Avengers,47.12,0.3295,Iron Man,Thor,Iron Man
+The Avengers,47.75,0.3339,Iron Man,Thor,Thor
+The Avengers,48.02,0.3358,Iron Man,Thor,Iron Man
+The Avengers,48.3,0.3378,Iron Man,Thor,Thor
+The Avengers,48.45,0.3388,Iron Man,Thor,Iron Man
+The Avengers,48.78,0.3411,Iron Man,Thor,inconclusive
+The Avengers,48.83,0.3415,Iron Man,Thor,Thor
+The Avengers,49.03,0.3429,Iron Man,Thor,Thor
+The Avengers,49.12,0.3435,Iron Man,Thor,Iron Man
+The Avengers,49.28,0.3446,Iron Man,Thor,Thor
+The Avengers,49.37,0.3452,Iron Man,Thor,Iron Man
+The Avengers,49.42,0.3456,Iron Man,Thor,Iron Man
+The Avengers,49.47,0.3459,Captain America,Thor,Captain America
+The Avengers,49.47,0.3459,Captain America,Iron Man,Captain America
+The Avengers,49.75,0.3479,Iron Man,Thor,Thor
+The Avengers,49.88,0.3488,Captain America,Thor,Captain America
+The Avengers,72.63,0.5079,Hawkeye,SHIELD Aircraft,Hawkeye
+The Avengers,75.3,0.5266,Black Widow,Hulk,Black Widow
+The Avengers,76.85,0.5374,Black Widow,Hulk,Black Widow
+The Avengers,77.15,0.5395,Black Widow,Hulk,Black Widow
+The Avengers,77.27,0.5403,Thor,Hulk,Thor
+The Avengers,77.53,0.5422,Thor,Hulk,Thor
+The Avengers,77.7,0.5434,Thor,Hulk,Hulk
+The Avengers,78.32,0.5477,Thor,Hulk,Hulk
+The Avengers,78.63,0.5499,Thor,Hulk,Thor
+The Avengers,78.87,0.5515,Thor,Hulk,Thor
+The Avengers,79.0,0.5524,Thor,Hulk,Thor
+The Avengers,79.23,0.5541,Loki's Mooks,Maria Hill,Loki's Mooks
+The Avengers,79.35,0.5549,Loki's Mooks,Nick Fury,Nick Fury
+The Avengers,79.45,0.5556,Loki's Mooks,Maria Hill,Maria Hill
+The Avengers,79.63,0.5569,Thor,Hulk,Hulk
+The Avengers,79.8,0.558,Maria Hill,Loki's Mooks,Maria Hill
+The Avengers,80.2,0.5608,Thor,Hulk,Hulk
+The Avengers,80.33,0.5617,Hulk,SHIELD Aircraft,SHIELD Aircraft
+The Avengers,80.5,0.5629,Hulk,SHIELD Aircraft,Hulk
+The Avengers,81.18,0.5677,Captain America,Loki's Mooks,Captain America
+The Avengers,81.23,0.568,Captain America,Loki's Mooks,Captain America
+The Avengers,81.42,0.5694,Captain America,Loki's Mooks,Loki's Mooks
+The Avengers,81.5,0.5699,Captain America,Loki's Mooks,inconclusive
+The Avengers,81.6,0.5706,Loki's Mooks,Nick Fury,Loki's Mooks
+The Avengers,81.68,0.5712,Hawkeye,SHIELD Mooks,Hawkeye
+The Avengers,82.85,0.5794,Captain America,Loki's Mooks,Loki's Mooks
+The Avengers,83.35,0.5829,Black Widow,Hawkeye,Black Widow
+The Avengers,83.38,0.5831,Black Widow,Hawkeye,Black Widow
+The Avengers,83.47,0.5837,Black Widow,Hawkeye,Black Widow
+The Avengers,83.72,0.5855,Black Widow,Hawkeye,Black Widow
+The Avengers,84.03,0.5876,Coulson,Loki's Mooks,Coulson
+The Avengers,85.05,0.5948,Black Widow,Hawkeye,Black Widow
+The Avengers,85.23,0.596,Black Widow,Hawkeye,Hawkeye
+The Avengers,85.33,0.5967,Black Widow,Hawkeye,Black Widow
+The Avengers,85.58,0.5985,Black Widow,Hawkeye,Black Widow
+The Avengers,85.93,0.6009,Thor,Hulk cage,Thor
+The Avengers,87.32,0.6106,Captain America,Loki's Mooks,inconclusive
+The Avengers,87.75,0.6136,Iron Man,Loki's Mooks,Iron Man
+The Avengers,89.53,0.6261,Nick Fury,Captain America,Nick Fury
+The Avengers,89.53,0.6261,Nick Fury,Iron Man,Nick Fury
+The Avengers,98.97,0.6921,Iron Man,the Tesseract,the Tesseract
+The Avengers,101.52,0.7099,Iron Man,Loki,Loki
+The Avengers,101.73,0.7114,Iron Man,Loki,Loki
+The Avengers,102.27,0.7152,Iron Man,Loki,Iron Man
+The Avengers,102.82,0.719,Iron Man,Chitauri Mooks,Iron Man
+The Avengers,102.87,0.7194,Iron Man,Chitauri Mooks,Chitauri Mooks
+The Avengers,102.98,0.7201,Iron Man,Chitauri Mooks,Iron Man
+The Avengers,103.27,0.7222,Chitauri Mooks,cars,Chitauri Mooks
+The Avengers,103.43,0.7233,Chitauri Mooks,Random Mooks,Chitauri Mooks
+The Avengers,104.22,0.7288,Thor,Loki,inconclusive
+The Avengers,104.6,0.7315,Thor,Loki,inconclusive
+The Avengers,104.67,0.732,Iron Man,Chitauri Mooks,Iron Man
+The Avengers,105.0,0.7343,Thor,Loki,Loki
+The Avengers,105.12,0.7351,Loki,Hawkeye,Loki
+The Avengers,105.2,0.7357,Thor,Loki,Thor
+The Avengers,105.35,0.7367,Thor,Loki,Thor
+The Avengers,106.62,0.7456,Chitauri Mooks,Random Mooks,Chitauri Mooks
+The Avengers,107.37,0.7508,Thor,Loki,Thor
+The Avengers,107.43,0.7513,Thor,Loki,Thor
+The Avengers,107.85,0.7542,Chitauri Mooks,Random Mooks,Chitauri Mooks
+The Avengers,107.88,0.7544,Chitauri Mooks,cars,Chitauri Mooks
+The Avengers,107.97,0.755,Loki,cars,Loki
+The Avengers,108.35,0.7577,Hawkeye,Chitauri Mooks,Hawkeye
+The Avengers,108.4,0.758,Black Widow,Chitauri Mooks,inconclusive
+The Avengers,108.48,0.7586,Captain America,Chitauri Mooks,Captain America
+The Avengers,108.58,0.7593,Black Widow,Chitauri Mooks,inconclusive
+The Avengers,108.7,0.7601,Black Widow,Chitauri Mooks,inconclusive
+The Avengers,108.75,0.7605,Black Widow,Chitauri Mooks,Black Widow
+The Avengers,108.78,0.7607,Hawkeye,Chitauri Mooks,inconclusive
+The Avengers,109.07,0.7627,Police Mooks,Chitauri Mooks,inconclusive
+The Avengers,109.58,0.7663,Captain America,Chitauri Mooks,Captain America
+The Avengers,109.65,0.7668,Captain America,Chitauri Mooks,Captain America
+The Avengers,109.92,0.7687,Iron Man,Chitauri Dragon,inconclusive
+The Avengers,110.1,0.7699,Hawkeye,Chitauri Mooks,Hawkeye
+The Avengers,110.15,0.7703,Black Widow,Chitauri Mooks,Black Widow
+The Avengers,110.17,0.7704,Hawkeye,Chitauri Mooks,Chitauri Mooks
+The Avengers,110.18,0.7705,Black Widow,Chitauri Mooks,Black Widow
+The Avengers,110.25,0.771,Hawkeye,Chitauri Mooks,Hawkeye
+The Avengers,110.27,0.7711,Black Widow,Chitauri Mooks,Black Widow
+The Avengers,110.38,0.7719,Hawkeye,Chitauri Mooks,Hawkeye
+The Avengers,110.4,0.772,Captain America,Chitauri Mooks,Captain America
+The Avengers,110.45,0.7724,Thor,Chitauri Mooks,Thor
+The Avengers,111.48,0.7796,Chitauri Dragon,cars,Chitauri Dragon
+The Avengers,111.78,0.7817,Chitauri Dragon,Hulk,Hulk
+The Avengers,111.98,0.7831,Iron Man,Chitauri Dragon,Iron Man
+The Avengers,113.25,0.792,Hulk,Chitauri Mooks,Hulk
+The Avengers,113.33,0.7925,Hulk,Chitauri Mooks,Hulk
+The Avengers,113.45,0.7934,Hulk,Chitauri Mooks,Hulk
+The Avengers,113.87,0.7963,Thor,Chitauri Mooks,Thor
+The Avengers,113.88,0.7964,Thor,Chitauri Dragon,Thor
+The Avengers,114.42,0.8001,Hawkeye,Chitauri Mooks,Hawkeye
+The Avengers,114.57,0.8012,Hawkeye,Chitauri Mooks,Hawkeye
+The Avengers,114.67,0.8019,Iron Man,Chitauri Aircraft,Chitauri Aircraft
+The Avengers,114.77,0.8026,Iron Man,Chitauri Aircraft,Iron Man
+The Avengers,114.9,0.8035,Iron Man,Chitauri Aircraft,Iron Man
+The Avengers,115.28,0.8062,Hulk,Chitauri Dragon,Hulk
+The Avengers,115.48,0.8076,Black Widow,Chitauri Mooks,Chitauri Mooks
+The Avengers,115.55,0.808,Black Widow,Chitauri Mooks,Chitauri Mooks
+The Avengers,116.17,0.8124,Black Widow,Chitauri Aircraft,Black Widow
+The Avengers,116.4,0.814,Black Widow,Chitauri Mooks,Black Widow
+The Avengers,116.57,0.8152,Black Widow,Chitauri Mooks,Black Widow
+The Avengers,116.68,0.8159,Iron Man,Chitauri Mooks,Iron Man
+The Avengers,116.78,0.8166,Iron Man,Chitauri Mooks,Iron Man
+The Avengers,116.82,0.8169,Captain America,Chitauri Mooks,Captain America
+The Avengers,116.85,0.8171,Iron Man,Chitauri Mooks,Iron Man
+The Avengers,116.88,0.8173,Iron Man,Chitauri Mooks,Iron Man
+The Avengers,116.93,0.8177,Hawkeye,Chitauri Mooks,Chitauri Mooks
+The Avengers,117.05,0.8185,Hawkeye,Chitauri Mooks,Chitauri Mooks
+The Avengers,117.15,0.8192,Hulk,Chitauri Mooks,Hulk
+The Avengers,117.17,0.8194,Thor,Chitauri Mooks,Thor
+The Avengers,117.25,0.8199,Hulk,Chitauri Mooks,Hulk
+The Avengers,117.28,0.8201,Hulk,Chitauri Dragon,Hulk
+The Avengers,117.3,0.8203,Thor,Chitauri Dragon,Thor
+The Avengers,117.55,0.822,Hulk,Thor,Hulk
+The Avengers,117.88,0.8243,Soldier Mooks,Chitauri Mooks,inconclusive
+The Avengers,117.92,0.8246,Captain America,Chitauri Mooks,Chitauri Mooks
+The Avengers,117.97,0.825,Captain America,Chitauri Mooks,Captain America
+The Avengers,118.23,0.8268,Captain America,Chitauri Mooks,Captain America
+The Avengers,118.32,0.8274,Captain America,Chitauri Mooks,Captain America
+The Avengers,118.4,0.828,Captain America,Chitauri Mooks,Captain America
+The Avengers,118.47,0.8285,Captain America,Chitauri Mooks,Chitauri Mooks
+The Avengers,118.55,0.829,Captain America,Chitauri Mooks,Captain America
+The Avengers,118.65,0.8297,Captain America,Chitauri Mooks,Captain America
+The Avengers,120.15,0.8402,Hulk,Loki,Hulk
+The Avengers,120.5,0.8427,Hulk,Loki,Hulk
+The Avengers,121.27,0.848,Thor,Chitauri Mooks,Thor
+The Avengers,121.47,0.8494,Iron Man,Chitauri Dragon,inconclusive
+The Avengers,121.82,0.8519,Iron Man,Chitauri Dragon,Iron Man
+The Avengers,121.93,0.8527,Iron Man,Chitauri Mooks,Chitauri Mooks
+The Avengers,122.02,0.8533,Hawkeye,Chitauri Mooks,Hawkeye
+The Avengers,122.08,0.8537,Hawkeye,Chitauri Mooks,Hawkeye
+The Avengers,122.43,0.8562,Hawkeye,Chitauri Mooks,Chitauri Mooks
+The Avengers,122.62,0.8575,Hulk,Chitauri Mooks,Hulk
+The Avengers,122.78,0.8586,Hulk,Chitauri Mooks,Hulk
+The Avengers,123.3,0.8622,Nick Fury,SHIELD Aircraft,Nick Fury
+The Avengers,123.52,0.8638,Nick Fury,SHIELD Aircraft,SHIELD Aircraft
+The Avengers,123.78,0.8656,Iron Man,Chitauri Mooks,Chitauri Mooks
+The Avengers,123.9,0.8664,Iron Man,Chitauri Mooks,Iron Man
+The Avengers,124.27,0.869,Thor,Chitauri Mooks,Thor
+The Avengers,124.27,0.869,Captain America,Chitauri Mooks,Captain America
+The Avengers,124.28,0.8691,Thor,Chitauri Mooks,Thor
+The Avengers,124.32,0.8694,Captain America,Chitauri Mooks,Chitauri Mooks
+The Avengers,124.37,0.8697,Thor,Chitauri Mooks,inconclusive
+The Avengers,124.43,0.8701,Thor,cars,Thor
+The Avengers,124.43,0.8701,Thor,Chitauri Mooks,Thor
+The Avengers,124.8,0.8727,Black Widow,the Tesseract,Black Widow
+The Avengers,126.02,0.8813,Iron Man,missile,Iron Man

@@ -1,0 +1,99 @@
+Title,Time,NormalisedTS,Party A,Party B,"Outcome (A, B,  inconclusive)"
+Guardians of the Galaxy Vol. 2,4.23,0.0311,Groot,Orlonan Mooks,Groot
+Guardians of the Galaxy Vol. 2,4.53,0.0333,Guardians,IDM,inconclusive
+Guardians of the Galaxy Vol. 2,5.23,0.0385,Star-Lord,IDM,IDM
+Guardians of the Galaxy Vol. 2,5.32,0.0391,Rocket,IDM,Rocket
+Guardians of the Galaxy Vol. 2,5.47,0.0402,Star-Lord,IDM,IDM
+Guardians of the Galaxy Vol. 2,5.6,0.0412,Drax,IDM,IDM
+Guardians of the Galaxy Vol. 2,5.73,0.0421,Gamora,IDM,inconclusive
+Guardians of the Galaxy Vol. 2,5.9,0.0434,Star-Lord,IDM,inconclusive
+Guardians of the Galaxy Vol. 2,6.0,0.0441,Drax,IDM,IDM
+Guardians of the Galaxy Vol. 2,6.47,0.0476,Groot,bug,Groot
+Guardians of the Galaxy Vol. 2,6.48,0.0476,Groot,Rocket,Rocket
+Guardians of the Galaxy Vol. 2,6.72,0.0494,Groot,Orlonan Mook,Orlonan Mook
+Guardians of the Galaxy Vol. 2,7.03,0.0517,Rocket,IDM,IDM
+Guardians of the Galaxy Vol. 2,7.4,0.0544,Gamora,IDM,inconclusive
+Guardians of the Galaxy Vol. 2,7.42,0.0546,Drax,IDM,IDM
+Guardians of the Galaxy Vol. 2,7.67,0.0564,Gamora,IDM,inconclusive
+Guardians of the Galaxy Vol. 2,7.9,0.0581,Drax,IDM,inconclusive
+Guardians of the Galaxy Vol. 2,8.33,0.0612,Star-Lord,IDM,Star-Lord
+Guardians of the Galaxy Vol. 2,8.33,0.0612,Rocket,IDM,Rocket
+Guardians of the Galaxy Vol. 2,8.57,0.063,Rocket,IDM,IDM
+Guardians of the Galaxy Vol. 2,8.75,0.0643,Star-Lord,IDM,IDM
+Guardians of the Galaxy Vol. 2,8.92,0.0656,Gamora,IDM,Gamora
+Guardians of the Galaxy Vol. 2,19.85,0.146,Sovereign Mooks,Drax,Drax
+Guardians of the Galaxy Vol. 2,30.95,0.2276,Mantis,Rocket,Rocket
+Guardians of the Galaxy Vol. 2,37.75,0.2776,Ravager Mooks,Rocket,Rocket
+Guardians of the Galaxy Vol. 2,38.3,0.2816,Ravager Mooks,Rocket,Ravager Mooks
+Guardians of the Galaxy Vol. 2,38.47,0.2829,Ravager Mooks,Rocket,Rocket
+Guardians of the Galaxy Vol. 2,39.17,0.288,Ravager Mooks,Rocket,Rocket
+Guardians of the Galaxy Vol. 2,39.73,0.2921,Ravager Mooks,Rocket,Rocket
+Guardians of the Galaxy Vol. 2,40.0,0.2941,Yondu,Rocket,Yondu
+Guardians of the Galaxy Vol. 2,41.85,0.3077,Taserface,Yondu,inconclusive
+Guardians of the Galaxy Vol. 2,42.07,0.3093,Nebula,Yondu,Nebula
+Guardians of the Galaxy Vol. 2,42.22,0.3104,Nebula,Rocket,Nebula
+Guardians of the Galaxy Vol. 2,48.73,0.3583,Ravager Mooks,Ravager Mooks,Ravager Mooks
+Guardians of the Galaxy Vol. 2,49.53,0.3642,Taserface,Yondu,Taserface
+Guardians of the Galaxy Vol. 2,58.82,0.4325,Ravager Mooks,Yondu,Ravager Mooks
+Guardians of the Galaxy Vol. 2,58.82,0.4325,Ravager Mooks,Rocket,Ravager Mooks
+Guardians of the Galaxy Vol. 2,61.52,0.4524,Ravager Mooks,Groot,Ravager Mooks
+Guardians of the Galaxy Vol. 2,63.2,0.4647,Orlonan Mook,Groot,Groot
+Guardians of the Galaxy Vol. 2,65.0,0.4779,Ravager Mooks,Groot,Groot
+Guardians of the Galaxy Vol. 2,66.27,0.4873,Ravager Mooks,Yondu,Yondu
+Guardians of the Galaxy Vol. 2,67.05,0.493,Ravager Mooks,Yondu,Yondu
+Guardians of the Galaxy Vol. 2,67.47,0.4961,Ravager Mooks,Yondu,Yondu
+Guardians of the Galaxy Vol. 2,67.95,0.4996,Ravager Mooks,Groot,Groot
+Guardians of the Galaxy Vol. 2,68.35,0.5026,Ravager Mooks,Yondu,Yondu
+Guardians of the Galaxy Vol. 2,68.43,0.5032,Ravager Mooks,Yondu,Yondu
+Guardians of the Galaxy Vol. 2,68.5,0.5037,Ravager Mooks,Yondu,Yondu
+Guardians of the Galaxy Vol. 2,68.53,0.5039,Ravager Mooks,Yondu,Yondu
+Guardians of the Galaxy Vol. 2,68.7,0.5051,Ravager Mooks,Rocket,Rocket
+Guardians of the Galaxy Vol. 2,68.92,0.5068,Ravager Mooks,Rocket,Rocket
+Guardians of the Galaxy Vol. 2,68.92,0.5068,Ravager Mooks,Yondu,Yondu
+Guardians of the Galaxy Vol. 2,69.17,0.5086,Ravager Mooks,Rocket,Rocket
+Guardians of the Galaxy Vol. 2,69.37,0.5101,Taserface,Yondu,Yondu
+Guardians of the Galaxy Vol. 2,74.42,0.5472,Gamora,plant,Gamora
+Guardians of the Galaxy Vol. 2,74.92,0.5509,Gamora,Nebula,Nebula
+Guardians of the Galaxy Vol. 2,75.27,0.5535,Gamora,Nebula,Nebula
+Guardians of the Galaxy Vol. 2,75.47,0.5549,Gamora,Nebula,Nebula
+Guardians of the Galaxy Vol. 2,76.17,0.5601,Gamora,Nebula,Gamora
+Guardians of the Galaxy Vol. 2,77.0,0.5662,Gamora,Nebula,Gamora
+Guardians of the Galaxy Vol. 2,77.28,0.5682,Gamora,Nebula,Nebula
+Guardians of the Galaxy Vol. 2,77.37,0.5689,Gamora,Nebula,Gamora
+Guardians of the Galaxy Vol. 2,77.53,0.5701,Gamora,Nebula,Nebula
+Guardians of the Galaxy Vol. 2,86.0,0.6324,Gamora,Mantis,Gamora
+Guardians of the Galaxy Vol. 2,90.27,0.6637,Star-Lord,Ego,Ego
+Guardians of the Galaxy Vol. 2,91.53,0.673,Star-Lord,Ego,Ego
+Guardians of the Galaxy Vol. 2,92.0,0.6765,Ego,Everything,Ego
+Guardians of the Galaxy Vol. 2,92.12,0.6774,Yondu,Ego,Yondu
+Guardians of the Galaxy Vol. 2,93.37,0.6865,Ego,Guardians,Ego
+Guardians of the Galaxy Vol. 2,94.05,0.6915,Ego,Guardians,Guardians
+Guardians of the Galaxy Vol. 2,94.95,0.6982,Rocket,Ego,Rocket
+Guardians of the Galaxy Vol. 2,97.57,0.7174,Rocket,Ego,Rocket
+Guardians of the Galaxy Vol. 2,98.75,0.7261,Sovereign Mooks,Star-Lord,Star-Lord
+Guardians of the Galaxy Vol. 2,98.75,0.7261,Sovereign Mooks,Rocket,Rocket
+Guardians of the Galaxy Vol. 2,100.17,0.7365,Sovereign Mooks,Star-Lord,inconclusive
+Guardians of the Galaxy Vol. 2,102.32,0.7524,Sovereign Mooks,Star-Lord,Sovereign Mooks
+Guardians of the Galaxy Vol. 2,106.15,0.7805,Ego,Star-Lord,inconclusive
+Guardians of the Galaxy Vol. 2,106.27,0.7814,Ego,Yondu,Yondu
+Guardians of the Galaxy Vol. 2,106.67,0.7843,Ego,Rocket,Rocket
+Guardians of the Galaxy Vol. 2,106.8,0.7853,Ego,Rocket,Ego
+Guardians of the Galaxy Vol. 2,107.03,0.787,Ego,Star-Lord,Ego
+Guardians of the Galaxy Vol. 2,107.83,0.7929,Ego,Kraglin,Ego
+Guardians of the Galaxy Vol. 2,108.55,0.7982,Ego,Rocket,inconclusive
+Guardians of the Galaxy Vol. 2,108.88,0.8006,Ego,Yondu,Ego
+Guardians of the Galaxy Vol. 2,108.98,0.8013,Ego,Rocket,Ego
+Guardians of the Galaxy Vol. 2,109.12,0.8024,Ego,Drax,Ego
+Guardians of the Galaxy Vol. 2,109.23,0.8032,Ego,Nebula,Ego
+Guardians of the Galaxy Vol. 2,109.23,0.8032,Ego,Gamora,Ego
+Guardians of the Galaxy Vol. 2,109.38,0.8043,Ego,Groot,Ego
+Guardians of the Galaxy Vol. 2,109.7,0.8066,Ego,Star-Lord,Ego
+Guardians of the Galaxy Vol. 2,109.9,0.8081,Ego,Everything,Ego
+Guardians of the Galaxy Vol. 2,110.75,0.8143,Ego,Yondu,Ego
+Guardians of the Galaxy Vol. 2,113.07,0.8314,Ego,Star-Lord,Star-Lord
+Guardians of the Galaxy Vol. 2,114.4,0.8412,Ego,Star-Lord,Ego
+Guardians of the Galaxy Vol. 2,115.63,0.8502,Rocket,Gamora,Rocket
+Guardians of the Galaxy Vol. 2,116.15,0.854,Ego,Star-Lord,Star-Lord
+Guardians of the Galaxy Vol. 2,116.28,0.855,Ego,Star-Lord,Star-Lord
+Guardians of the Galaxy Vol. 2,117.0,0.8603,Ego,"Rocket, Groot","Rocket, Groot"
+Guardians of the Galaxy Vol. 2,127.87,0.9402,Kraglin,Drax,Kraglin

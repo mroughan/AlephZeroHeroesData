@@ -1,0 +1,36 @@
+Title,Time,NormalisedTS,Party A,Party B,"Outcome (A, B,  inconclusive)"
+Thor: The Dark World,1.38,0.0123,Bor,Kurse,Bor
+Thor: The Dark World,45.58,0.407,Frigga,Malekith,Frigga
+Thor: The Dark World,45.68,0.4079,Frigga,Malekith,inconclusive
+Thor: The Dark World,45.82,0.4091,Frigga,Malekith,Frigga
+Thor: The Dark World,45.88,0.4096,Frigga,Kurse,Kurse
+Thor: The Dark World,46.48,0.415,Frigga,Kurse,Kurse
+Thor: The Dark World,46.58,0.4159,Thor,Malekith,Thor
+Thor: The Dark World,46.58,0.4159,Thor,Malekith,Malekith
+Thor: The Dark World,46.58,0.4159,Thor,Kurse,Kurse
+Thor: The Dark World,59.67,0.5328,Jane Foster,Loki,inconclusive
+Thor: The Dark World,73.45,0.6558,Thor,the Aether,Thor
+Thor: The Dark World,74.62,0.6662,Loki,Kurse,Loki
+Thor: The Dark World,74.65,0.6665,Thor,Kurse,Thor
+Thor: The Dark World,74.9,0.6688,Thor,Kurse,Kurse
+Thor: The Dark World,75.37,0.6729,Thor,Kurse,Kurse
+Thor: The Dark World,75.7,0.6759,Thor,Kurse,Kurse
+Thor: The Dark World,75.82,0.677,Thor,Kurse,inconclusive
+Thor: The Dark World,76.15,0.6799,Thor,Kurse,Kurse
+Thor: The Dark World,76.3,0.6812,Loki,Kurse,Loki
+Thor: The Dark World,76.38,0.682,Loki,Kurse,Kurse
+Thor: The Dark World,84.98,0.7588,Thor,Malekith,Malekith
+Thor: The Dark World,85.2,0.7607,Thor,Malekith,Malekith
+Thor: The Dark World,85.38,0.7623,Thor,Malekith,Malekith
+Thor: The Dark World,85.57,0.764,Thor,Malekith,Thor
+Thor: The Dark World,85.82,0.7662,Thor,Malekith,inconclusive
+Thor: The Dark World,86.77,0.7747,Thor,Malekith,Thor
+Thor: The Dark World,86.82,0.7752,Thor,Malekith,Malekith
+Thor: The Dark World,87.12,0.7779,Thor,Malekith,inconclusive
+Thor: The Dark World,87.18,0.7784,Thor,Malekith,Malekith
+Thor: The Dark World,87.25,0.779,Thor,Malekith,Thor
+Thor: The Dark World,87.58,0.782,Thor,Malekith,inconclusive
+Thor: The Dark World,87.75,0.7835,Thor,Malekith,inconclusive
+Thor: The Dark World,87.83,0.7842,Thor,Malekith,Malekith
+Thor: The Dark World,91.7,0.8188,Thor,the Aether,Thor
+Thor: The Dark World,92.83,0.8288,Thor,Malekith,Thor

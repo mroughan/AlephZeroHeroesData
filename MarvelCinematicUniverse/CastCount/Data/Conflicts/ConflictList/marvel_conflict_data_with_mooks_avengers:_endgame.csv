@@ -1,0 +1,171 @@
+Title,Time,NormalisedTS,Party A,Party B,"Outcome (A, B,  inconclusive)"
+Avengers: Endgame,17.27,0.0954,Captain Marvel,Thanos,Captain Marvel
+Avengers: Endgame,17.32,0.0957,Captain Marvel,Thanos,Captain Marvel
+Avengers: Endgame,17.38,0.096,Captain Marvel,Thanos,Captain Marvel
+Avengers: Endgame,17.5,0.0967,Hulk,Thanos,Hulk
+Avengers: Endgame,17.5,0.0967,War Machine,Thanos,War Machine
+Avengers: Endgame,17.55,0.097,Thor,Thanos,Thor
+Avengers: Endgame,18.27,0.1009,Hulk,Thanos,Hulk
+Avengers: Endgame,19.1,0.1055,Thor,Thanos,Thor
+Avengers: Endgame,54.53,0.3013,Hawkeye,Yakuza Mook,Hawkeye
+Avengers: Endgame,54.63,0.3018,Hawkeye,Yakuza Mook,Hawkeye
+Avengers: Endgame,54.7,0.3022,Hawkeye,Yakuza Mook,Hawkeye
+Avengers: Endgame,54.73,0.3024,Hawkeye,Yakuza Mook,Hawkeye
+Avengers: Endgame,54.87,0.3031,Hawkeye,Yakuza Mook,Hawkeye
+Avengers: Endgame,55.35,0.3058,Hawkeye,Akihiko,Hawkeye
+Avengers: Endgame,55.58,0.3071,Hawkeye,Akihiko,Hawkeye
+Avengers: Endgame,55.78,0.3082,Hawkeye,Akihiko,Hawkeye
+Avengers: Endgame,55.92,0.309,Hawkeye,Akihiko,Hawkeye
+Avengers: Endgame,56.25,0.3108,Hawkeye,Akihiko,Hawkeye
+Avengers: Endgame,68.17,0.3766,Bruce/Hulk,car,Bruce/Hulk
+Avengers: Endgame,68.25,0.3771,Bruce/Hulk,motor bike,Bruce/Hulk
+Avengers: Endgame,73.53,0.4062,old Nebula,alien Mook,old Nebula
+Avengers: Endgame,73.67,0.407,old Nebula,alien Mook,old Nebula
+Avengers: Endgame,73.75,0.4075,old Nebula,alien Mook,alien Mook
+Avengers: Endgame,73.83,0.4079,old Gamora,alien Mook,old Gamora
+Avengers: Endgame,77.03,0.4256,Sitwell,Black Widow,Sitwell
+Avengers: Endgame,77.45,0.4279,Thor,Loki,Thor
+Avengers: Endgame,77.95,0.4307,Hulk,elevator,Hulk
+Avengers: Endgame,80.83,0.4466,Iron Man,Iron Man,Iron Man
+Avengers: Endgame,80.83,0.4466,Ant Man,Iron Man,Ant Man
+Avengers: Endgame,81.3,0.4492,Hulk,Iron Man,Hulk
+Avengers: Endgame,81.5,0.4503,Loki,everyone,Loki
+Avengers: Endgame,82.37,0.4551,Captain America,Captain America,Captain America
+Avengers: Endgame,82.7,0.4569,Captain America,Captain America,inconclusive
+Avengers: Endgame,82.88,0.4579,Captain America,Captain America,inconclusive
+Avengers: Endgame,83.2,0.4597,Captain America,Captain America,Captain America
+Avengers: Endgame,83.37,0.4606,Captain America,Captain America,Captain America
+Avengers: Endgame,91.17,0.5037,Rocket,Asgardian Mooks,Rocket
+Avengers: Endgame,93.08,0.5143,War Machine,Star-Lord,War Machine
+Avengers: Endgame,106.78,0.5899,old Nebula,Nebula,old Nebula
+Avengers: Endgame,106.85,0.5903,old Nebula,Nebula,old Nebula
+Avengers: Endgame,107.47,0.5938,old Nebula,Nebula,old Nebula
+Avengers: Endgame,112.43,0.6212,Hawkeye,Black Widow,Black Widow
+Avengers: Endgame,112.93,0.6239,Hawkeye,Black Widow,Hawkeye
+Avengers: Endgame,112.95,0.624,Hawkeye,Black Widow,Black Widow
+Avengers: Endgame,121.42,0.6708,Bruce/Hulk,infinity,Bruce/Hulk
+Avengers: Endgame,122.7,0.6779,Santuary II,Ant Man,Santuary II
+Avengers: Endgame,123.05,0.6798,Santuary II,Avengers,Santuary II
+Avengers: Endgame,125.0,0.6906,Hawkeye,Outrider Mooks,inconclusive
+Avengers: Endgame,129.68,0.7165,Iron Man,Thanos,Thanos
+Avengers: Endgame,129.69,0.7165,Captain America,Thanos,Thanos
+Avengers: Endgame,129.7,0.7166,Thor,Thanos,Thanos
+Avengers: Endgame,129.72,0.7167,Iron Man,Thanos,inconclusive
+Avengers: Endgame,130.22,0.7194,Hawkeye,Outrider Mooks,Hawkeye
+Avengers: Endgame,130.45,0.7207,Hawkeye,Outrider Mooks,Hawkeye
+Avengers: Endgame,130.5,0.721,Hawkeye,Outrider Mooks,Hawkeye
+Avengers: Endgame,131.67,0.7275,Nebula,old Nebula,Nebula
+Avengers: Endgame,132.1,0.7298,Iron Man,Thanos,inconclusive
+Avengers: Endgame,132.17,0.7302,Thor,Thanos,Thanos
+Avengers: Endgame,132.18,0.7303,Iron Man,Thanos,Thanos
+Avengers: Endgame,132.33,0.7311,Captain America,Thanos,inconclusive
+Avengers: Endgame,132.37,0.7313,Captain America,Thanos,Thanos
+Avengers: Endgame,132.43,0.7317,Thor,Thanos,inconclusive
+Avengers: Endgame,132.57,0.7324,Thor,Thanos,Thanos
+Avengers: Endgame,132.62,0.7327,Thor,Thanos,Thanos
+Avengers: Endgame,132.68,0.733,Thor,Thanos,Thanos
+Avengers: Endgame,132.73,0.7333,Thor,Thanos,Thanos
+Avengers: Endgame,133.02,0.7349,Captain America,Thanos,Captain America
+Avengers: Endgame,133.2,0.7359,Thor,Thanos,Thanos
+Avengers: Endgame,133.3,0.7365,Captain America,Thanos,Captain America
+Avengers: Endgame,133.38,0.7369,Captain America,Thanos,Captain America
+Avengers: Endgame,133.47,0.7374,Captain America,Thanos,Captain America
+Avengers: Endgame,133.52,0.7377,Captain America,Thanos,Captain America
+Avengers: Endgame,133.57,0.738,Captain America,Thanos,Captain America
+Avengers: Endgame,133.65,0.7384,Captain America,Thanos,Captain America
+Avengers: Endgame,133.73,0.7388,Captain America,Thanos,Thanos
+Avengers: Endgame,133.87,0.7396,Captain America,Thanos,inconclusive
+Avengers: Endgame,133.9,0.7398,Captain America,Thanos,Thanos
+Avengers: Endgame,133.97,0.7402,Captain America,Thanos,Thanos
+Avengers: Endgame,134.05,0.7406,Captain America,Thanos,Thanos
+Avengers: Endgame,134.15,0.7412,Captain America,Thanos,Thanos
+Avengers: Endgame,134.18,0.7413,Captain America,Thanos,Thanos
+Avengers: Endgame,138.98,0.7678,Captain America,Cull Obsidian,Captain America
+Avengers: Endgame,139.03,0.7681,Pepper Potts,Outrider Mooks,Pepper Potts
+Avengers: Endgame,139.05,0.7682,Valkirie,Outrider Tank,Valkirie
+Avengers: Endgame,139.1,0.7685,Ant Man,Chitauri Dragon,Ant Man
+Avengers: Endgame,139.13,0.7687,Black Panther,Outrider Mooks,Black Panther
+Avengers: Endgame,139.17,0.7689,Okoye,Outrider Mooks,Okoye
+Avengers: Endgame,139.18,0.769,Shuri,Outrider Mooks,Shuri
+Avengers: Endgame,139.23,0.7692,Drax,Outrider Tank,Drax
+Avengers: Endgame,139.25,0.7693,Korg,Outrider Tank,Korg
+Avengers: Endgame,139.27,0.7694,Pepper Potts,Outrider Aircraft,Pepper Potts
+Avengers: Endgame,139.33,0.7698,Iron Man,Outrider Mooks,Iron Man
+Avengers: Endgame,139.33,0.7698,Pepper Potts,Outrider Mooks,Pepper Potts
+Avengers: Endgame,139.33,0.7698,Captain America,Outrider Tank,Captain America
+Avengers: Endgame,139.35,0.7699,Thor,Sakaraan Mook,Thor
+Avengers: Endgame,139.37,0.77,Captain America,Sakaraan Mook,Captain America
+Avengers: Endgame,139.4,0.7702,Thor,Sakaraan Mook,Thor
+Avengers: Endgame,139.52,0.7708,Rocket,Sakaraan Mook,Rocket
+Avengers: Endgame,139.55,0.771,Iron Man,Outrider Mooks,Iron Man
+Avengers: Endgame,139.58,0.7712,Iron Man,Outrider Mooks,Iron Man
+Avengers: Endgame,139.62,0.7714,Iron Man,Cull Obsidian,Cull Obsidian
+Avengers: Endgame,139.67,0.7717,Spider-Man,Cull Obsidian,Spider-Man
+Avengers: Endgame,139.72,0.7719,Ant Man,Cull Obsidian,Ant Man
+Avengers: Endgame,140.12,0.7741,Star-Lord,Outrider Mooks,Star-Lord
+Avengers: Endgame,140.13,0.7742,Star-Lord,Sakaraan Mook,Sakaraan Mook
+Avengers: Endgame,140.15,0.7743,Star-Lord,Sakaraan Mook,Star-Lord
+Avengers: Endgame,140.17,0.7744,Star-Lord,Sakaraan Mook,Star-Lord
+Avengers: Endgame,140.27,0.775,Star-Lord,Sakaraan Mooks,Sakaraan Mooks
+Avengers: Endgame,140.33,0.7753,old Gamora,Sakaraan Mook,old Gamora
+Avengers: Endgame,140.43,0.7759,old Gamora,Star-Lord,old Gamora
+Avengers: Endgame,141.07,0.7794,Outrider Tank,Okoye,Outrider Tank
+Avengers: Endgame,141.08,0.7794,Outrider Tank,W'Kabi Mooks,Outrider Tank
+Avengers: Endgame,141.1,0.7796,Outrider Tank,Hawkeye,Hawkeye
+Avengers: Endgame,141.13,0.7797,Outrider Tank,Falcon,Falcon
+Avengers: Endgame,141.33,0.7808,Captain America,Outrider Mook,Captain America
+Avengers: Endgame,141.37,0.781,Bruce/Hulk,Outrider Mook,Bruce/Hulk
+Avengers: Endgame,141.97,0.7844,Doctor Strange,Outrider Mooks,Doctor Strange
+Avengers: Endgame,142.57,0.7877,Thanos,Mystic Mook,Thanos
+Avengers: Endgame,142.62,0.788,Corvus Glaive,Asgardian Mook,Corvus Glaive
+Avengers: Endgame,142.75,0.7887,Hawkeye,Outrider Mooks,Hawkeye
+Avengers: Endgame,142.83,0.7891,Black Panther,Outrider Tank,Black Panther
+Avengers: Endgame,142.97,0.7899,Black Panther,Sakaraan Mook,Black Panther
+Avengers: Endgame,143.0,0.7901,Black Panther,Sakaraan Mook,Black Panther
+Avengers: Endgame,143.07,0.7904,Black Panther,Sakaraan Mooks,Black Panther
+Avengers: Endgame,143.12,0.7907,Black Panther,Outrider Mooks,Black Panther
+Avengers: Endgame,143.13,0.7908,Black Panther,Thanos,Thanos
+Avengers: Endgame,143.85,0.7948,Spider-Man,Outrider Mook,Spider-Man
+Avengers: Endgame,143.92,0.7951,Spider-Man,Outrider Mooks,Spider-Man
+Avengers: Endgame,144.3,0.7972,Corvus Glaive,Asgardian Mook,Corvus Glaive
+Avengers: Endgame,144.52,0.7985,Sanctuary II,Scarlet Witch,Sanctuary II
+Avengers: Endgame,144.53,0.7985,Sanctuary II,Chitauri Dragon,Sanctuary II
+Avengers: Endgame,144.98,0.801,Spider-Man,Outrider Mooks,Outrider Mooks
+Avengers: Endgame,145.13,0.8018,Spider-Man,Outrider Mooks,Spider-Man
+Avengers: Endgame,145.2,0.8022,Spider-Man,Sanctuary II,Sanctuary II
+Avengers: Endgame,145.47,0.8037,Spider-Man,Sanctuary II,Sanctuary II
+Avengers: Endgame,145.5,0.8039,Spider-Man,Sanctuary II,Sanctuary II
+Avengers: Endgame,145.67,0.8048,The Winter Soldier,Sanctuary II,Sanctuary II
+Avengers: Endgame,145.68,0.8049,Korg,Sanctuary II,Sanctuary II
+Avengers: Endgame,145.7,0.805,Bruce/Hulk,Sanctuary II,Sanctuary II
+Avengers: Endgame,145.7,0.805,War Machine,Sanctuary II,Sanctuary II
+Avengers: Endgame,145.73,0.8051,Groot,Sanctuary II,Sanctuary II
+Avengers: Endgame,146.1,0.8072,Captain Marvel,Sanctuary II,Captain Marvel
+Avengers: Endgame,146.37,0.8087,Captain Marvel,Sanctuary II,Captain Marvel
+Avengers: Endgame,147.43,0.8145,Scarlet Witch,Outrider Mooks,Scarlet Witch
+Avengers: Endgame,147.45,0.8146,Pepper Potts,Chitauri Dragon,Pepper Potts
+Avengers: Endgame,147.5,0.8149,old Gamora,Outrider Tank,old Gamora
+Avengers: Endgame,147.53,0.8151,Okoye,Corvus Glaive,Okoye
+Avengers: Endgame,147.68,0.8159,Valkyrie,Chitauri Dragon,Valkyrie
+Avengers: Endgame,147.8,0.8166,Captain Marvel,Outrider Mooks,Captain Marvel
+Avengers: Endgame,147.8,0.8166,Captain Marvel,Outrider Tanks,Captain Marvel
+Avengers: Endgame,147.95,0.8174,Pepper Potts,Thanos,Pepper Potts
+Avengers: Endgame,147.95,0.8174,Wasp,Thanos,Wasp
+Avengers: Endgame,147.95,0.8174,Shuri,Thanos,Shuri
+Avengers: Endgame,148.07,0.8181,Captain Marvel,Thanos,Thanos
+Avengers: Endgame,148.27,0.8192,Iron Man,Thanos,Iron Man
+Avengers: Endgame,148.32,0.8194,Iron Man,Thanos,Thanos
+Avengers: Endgame,148.35,0.8196,Thor,Thanos,Thor
+Avengers: Endgame,148.43,0.8201,Thor,Thanos,inconclusive
+Avengers: Endgame,148.58,0.8209,Captain America,Thanos,inconclusive
+Avengers: Endgame,148.63,0.8212,Thor,Thanos,Thanos
+Avengers: Endgame,148.68,0.8214,Captain America,Thanos,Thanos
+Avengers: Endgame,148.77,0.8219,Captain Marvel,Thanos,Captain Marvel
+Avengers: Endgame,148.82,0.8222,Captain Marvel,Thanos,Captain Marvel
+Avengers: Endgame,148.87,0.8225,Captain Marvel,Thanos,Thanos
+Avengers: Endgame,149.02,0.8233,Captain Marvel,Thanos,Captain Marvel
+Avengers: Endgame,149.18,0.8242,Captain Marvel,Thanos,Captain Marvel
+Avengers: Endgame,149.35,0.8251,Captain Marvel,Thanos,Thanos
+Avengers: Endgame,149.78,0.8275,Iron Man,Thanos,Iron Man
+Avengers: Endgame,149.85,0.8279,Iron Man,Thanos,Thanos
+Avengers: Endgame,150.58,0.8319,Rocket,Chitauri Dragon,Chitauri Dragon

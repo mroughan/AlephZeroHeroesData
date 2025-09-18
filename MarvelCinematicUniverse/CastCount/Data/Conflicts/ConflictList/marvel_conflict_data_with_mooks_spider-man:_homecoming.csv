@@ -1,0 +1,51 @@
+Title,Time,NormalisedTS,Party A,Party B,"Outcome (A, B,  inconclusive)"
+Spider-Man: Homecoming,3.08,0.0232,Vulture,DODC Mook,Vulture
+Spider-Man: Homecoming,16.78,0.1262,Spider-Man,Cycle Thief Mook,Spider-Man
+Spider-Man: Homecoming,17.65,0.1327,Spider-Man,Car Thief Mook,Spider-Man
+Spider-Man: Homecoming,19.57,0.1471,Spider-Man,Criminal Mooks,Spider-Man
+Spider-Man: Homecoming,19.8,0.1489,Spider-Man,Criminal Mooks,Criminal Mooks
+Spider-Man: Homecoming,19.93,0.1498,Spider-Man,Criminal Mooks,Criminal Mooks
+Spider-Man: Homecoming,20.05,0.1508,Spider-Man,Criminal Mooks,Spider-Man
+Spider-Man: Homecoming,20.3,0.1526,Spider-Man,Criminal Mooks,Spider-Man
+Spider-Man: Homecoming,20.42,0.1535,Spider-Man,Criminal Mooks,Criminal Mooks
+Spider-Man: Homecoming,33.37,0.2509,Spider-Man,Shocker 2,Spider-Man
+Spider-Man: Homecoming,33.45,0.2515,Spider-Man,Shocker 1,Shocker 1
+Spider-Man: Homecoming,33.82,0.2543,Spider-Man,Shocker 2,Spider-Man
+Spider-Man: Homecoming,33.93,0.2551,Spider-Man,Shocker 1,inconclusive
+Spider-Man: Homecoming,34.27,0.2577,Spider-Man,Shocker 1,Spider-Man
+Spider-Man: Homecoming,34.33,0.2581,Spider-Man,Shocker 2,Shocker 2
+Spider-Man: Homecoming,35.83,0.2694,Spider-Man,Vulture,Vulture
+Spider-Man: Homecoming,41.82,0.3144,Vulture,Shocker 1,Vulture
+Spider-Man: Homecoming,53.67,0.4035,Vulture,DODC Mooks,Vulture
+Spider-Man: Homecoming,54.22,0.4077,Spider-Man,Vulture,Spider-Man
+Spider-Man: Homecoming,54.43,0.4092,Spider-Man,Vulture,Vulture
+Spider-Man: Homecoming,54.57,0.4103,Spider-Man,Vulture,Vulture
+Spider-Man: Homecoming,70.17,0.5276,Spider-Man,Aaron Davis,Spider-Man
+Spider-Man: Homecoming,74.22,0.558,Spider-Man,Criminal Mooks,Spider-Man
+Spider-Man: Homecoming,74.37,0.5592,Spider-Man,Criminal Mooks,Spider-Man
+Spider-Man: Homecoming,74.45,0.5598,Spider-Man,Shocker 2,Spider-Man
+Spider-Man: Homecoming,74.58,0.5608,Spider-Man,Criminal Mooks,Spider-Man
+Spider-Man: Homecoming,74.8,0.5624,Spider-Man,Criminal Mooks,Spider-Man
+Spider-Man: Homecoming,74.88,0.563,Vulture,Random Mook,Vulture
+Spider-Man: Homecoming,75.05,0.5643,FBI Mooks,Spider-Man,FBI Mooks
+Spider-Man: Homecoming,75.35,0.5665,Vulture,FBI Mooks,Vulture
+Spider-Man: Homecoming,75.42,0.5671,Vulture,Spider-Man,Vulture
+Spider-Man: Homecoming,75.65,0.5688,Vulture,Spider-Man,inconclusive
+Spider-Man: Homecoming,76.28,0.5735,Vulture,Spider-Man,Spider-Man
+Spider-Man: Homecoming,95.48,0.7179,Spider-Man,Shocker 2,Shocker 2
+Spider-Man: Homecoming,95.73,0.7198,Spider-Man,Shocker 2,Shocker 2
+Spider-Man: Homecoming,95.88,0.7209,Spider-Man,Shocker 2,Shocker 2
+Spider-Man: Homecoming,96.0,0.7218,Spider-Man,Shocker 2,Shocker 2
+Spider-Man: Homecoming,96.27,0.7238,Ned,Shocker 2,Ned
+Spider-Man: Homecoming,96.38,0.7247,Spider-Man,Shocker 2,Spider-Man
+Spider-Man: Homecoming,101.62,0.7641,Spider-Man,Vulture,Vulture
+Spider-Man: Homecoming,105.5,0.7932,Spider-Man,Vulture,Spider-Man
+Spider-Man: Homecoming,108.18,0.8134,Spider-Man,Vulture,inconclusive
+Spider-Man: Homecoming,108.75,0.8177,Spider-Man,Vulture,Vulture
+Spider-Man: Homecoming,109.0,0.8195,Spider-Man,Vulture,Vulture
+Spider-Man: Homecoming,111.02,0.8347,Spider-Man,Vulture,Vulture
+Spider-Man: Homecoming,111.38,0.8374,Spider-Man,Vulture,Vulture
+Spider-Man: Homecoming,111.65,0.8395,Spider-Man,Vulture,Spider-Man
+Spider-Man: Homecoming,111.7,0.8398,Spider-Man,Vulture,Vulture
+Spider-Man: Homecoming,112.48,0.8457,Spider-Man,Vulture,Vulture
+Spider-Man: Homecoming,132.72,0.9979,Captain America,audience,Captain America

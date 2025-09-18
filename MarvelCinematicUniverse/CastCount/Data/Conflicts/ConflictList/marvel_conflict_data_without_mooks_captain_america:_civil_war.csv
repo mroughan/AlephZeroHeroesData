@@ -1,0 +1,180 @@
+Title,Time,NormalisedTS,Party A,Party B,"Outcome (A, B,  inconclusive)"
+Captain America: Civil War,2.62,0.0178,The Winter Soldier,Howard Stark,Howard Stark
+Captain America: Civil War,8.05,0.0548,Crossbones,Black Widow,Crossbones
+Captain America: Civil War,8.15,0.0554,Crossbones,Black Widow,Black Widow
+Captain America: Civil War,8.28,0.0563,Crossbones,Black Widow,Crossbones
+Captain America: Civil War,8.52,0.058,Crossbones,Black Widow,Crossbones
+Captain America: Civil War,8.58,0.0584,Crossbones,Captain America,Crossbones
+Captain America: Civil War,8.67,0.059,Crossbones,Captain America,Crossbones
+Captain America: Civil War,9.75,0.0663,Crossbones,Captain America,Crossbones
+Captain America: Civil War,9.78,0.0665,Crossbones,Captain America,Crossbones
+Captain America: Civil War,9.9,0.0673,Crossbones,Captain America,Crossbones
+Captain America: Civil War,11.38,0.0774,Crossbones,Captain America,inconclusive
+Captain America: Civil War,11.4,0.0776,Crossbones,Captain America,Crossbones
+Captain America: Civil War,11.52,0.0784,Crossbones,Captain America,Crossbones
+Captain America: Civil War,11.62,0.079,Crossbones,Captain America,Captain America
+Captain America: Civil War,11.75,0.0799,Crossbones,Captain America,Captain America
+Captain America: Civil War,46.0,0.3129,The Winter Soldier,Captain America,The Winter Soldier
+Captain America: Civil War,46.23,0.3145,The Winter Soldier,Captain America,The Winter Soldier
+Captain America: Civil War,47.75,0.3248,Black Panther,The Winter Soldier,Black Panther
+Captain America: Civil War,47.95,0.3262,Black Panther,The Winter Soldier,Black Panther
+Captain America: Civil War,48.03,0.3267,Black Panther,The Winter Soldier,Black Panther
+Captain America: Civil War,48.33,0.3288,Black Panther,The Winter Soldier,Black Panther
+Captain America: Civil War,49.65,0.3378,Black Panther,Captain America,Black Panther
+Captain America: Civil War,50.6,0.3442,The Winter Soldier,Black Panther,The Winter Soldier
+Captain America: Civil War,50.82,0.3457,Black Panther,Falcon,Black Panther
+Captain America: Civil War,50.93,0.3465,The Winter Soldier,Falcon,The Winter Soldier
+Captain America: Civil War,50.93,0.3465,The Winter Soldier,Black Panther,Black Panther
+Captain America: Civil War,51.13,0.3478,Captain America,Black Panther,Captain America
+Captain America: Civil War,66.1,0.4497,The Winter Soldier,Falcon,The Winter Soldier
+Captain America: Civil War,66.23,0.4505,Captain America,The Winter Soldier,The Winter Soldier
+Captain America: Civil War,66.33,0.4512,Captain America,The Winter Soldier,The Winter Soldier
+Captain America: Civil War,66.4,0.4517,Captain America,The Winter Soldier,The Winter Soldier
+Captain America: Civil War,67.32,0.458,Iron Man,The Winter Soldier,Iron Man
+Captain America: Civil War,67.43,0.4587,Iron Man,The Winter Soldier,inconclusive
+Captain America: Civil War,67.48,0.459,Iron Man,The Winter Soldier,The Winter Soldier
+Captain America: Civil War,67.57,0.4597,Agent 13,The Winter Soldier,inconclusive
+Captain America: Civil War,67.62,0.46,Black Widow,The Winter Soldier,inconclusive
+Captain America: Civil War,67.65,0.4602,Agent 13,The Winter Soldier,The Winter Soldier
+Captain America: Civil War,67.8,0.4612,Black Widow,The Winter Soldier,Black Widow
+Captain America: Civil War,67.85,0.4616,Black Panther,The Winter Soldier,Black Panther
+Captain America: Civil War,67.92,0.462,Black Panther,The Winter Soldier,The Winter Soldier
+Captain America: Civil War,68.27,0.4644,Black Panther,The Winter Soldier,Black Panther
+Captain America: Civil War,68.38,0.4652,Black Panther,The Winter Soldier,Black Panther
+Captain America: Civil War,69.12,0.4702,Captain America,The Winter Soldier,Captain America
+Captain America: Civil War,69.63,0.4737,Captain America,The Winter Soldier,The Winter Soldier
+Captain America: Civil War,69.8,0.4748,Captain America,The Winter Soldier,The Winter Soldier
+Captain America: Civil War,82.83,0.5635,Scarlet Witch,Hawkeye,Scarlet Witch
+Captain America: Civil War,83.78,0.5699,Vision,Hawkeye,Vision
+Captain America: Civil War,83.97,0.5712,Vision,Hawkeye,Vision
+Captain America: Civil War,84.42,0.5743,Scarlet Witch,Vision,Scarlet Witch
+Captain America: Civil War,84.72,0.5763,Scarlet Witch,Vision,Scarlet Witch
+Captain America: Civil War,89.57,0.6093,Spider-Man,Captain America,Spider-Man
+Captain America: Civil War,90.57,0.6161,Hawkeye,Spider-Man,Hawkeye
+Captain America: Civil War,90.65,0.6167,Ant-Man,Spider-Man,Ant-Man
+Captain America: Civil War,90.88,0.6182,Captain America,War Machine,Captain America
+Captain America: Civil War,90.98,0.6189,Captain America,Black Panther,Captain America
+Captain America: Civil War,91.03,0.6193,Captain America,Black Panther,Captain America
+Captain America: Civil War,91.15,0.6201,Captain America,Black Panther,inconclusive
+Captain America: Civil War,91.22,0.6205,Ant-Man,Black Widow,Black Widow
+Captain America: Civil War,91.27,0.6209,Ant-Man,Black Widow,Ant-Man
+Captain America: Civil War,91.37,0.6216,Ant-Man,Black Widow,Black Widow
+Captain America: Civil War,91.53,0.6227,Spider-Man,Falcon,Spider-Man
+Captain America: Civil War,91.6,0.6231,Spider-Man,The Winter Soldier,Spider-Man
+Captain America: Civil War,91.67,0.6236,Falcon,Spider-Man,Falcon
+Captain America: Civil War,91.83,0.6247,Iron Man,Hawkeye,Iron Man
+Captain America: Civil War,91.83,0.6247,Iron Man,Scarlet Witch,Iron Man
+Captain America: Civil War,91.88,0.625,Captain America,Black Panther,inconclusive
+Captain America: Civil War,92.0,0.6259,Captain America,Black Panther,Black Panther
+Captain America: Civil War,92.02,0.626,War Machine,Captain America,Captain America
+Captain America: Civil War,92.45,0.6289,Scarlet Witch,Iron Man,Scarlet Witch
+Captain America: Civil War,92.6,0.6299,Spider-Man,Falcon,inconclusive
+Captain America: Civil War,92.88,0.6318,Spider-Man,The Winter Soldier,Spider-Man
+Captain America: Civil War,92.9,0.632,Falcon,Spider-Man,Falcon
+Captain America: Civil War,92.97,0.6324,Spider-Man,Falcon,Spider-Man
+Captain America: Civil War,93.05,0.633,Spider-Man,Falcon,Spider-Man
+Captain America: Civil War,93.3,0.6347,Spider-Man,Falcon,Spider-Man
+Captain America: Civil War,93.3,0.6347,Spider-Man,The Winter Soldier,Spider-Man
+Captain America: Civil War,93.47,0.6359,Falcon,Spider-Man,Falcon
+Captain America: Civil War,93.65,0.6371,Captain America,Black Panther,Black Panther
+Captain America: Civil War,93.88,0.6386,Ant-Man,War Machine,Ant-Man
+Captain America: Civil War,93.88,0.6386,Ant-Man,Black Widow,Ant-Man
+Captain America: Civil War,94.38,0.642,Vision,Team Freedom,Vision
+Captain America: Civil War,95.28,0.6482,Iron Man,Captain America,inconclusive
+Captain America: Civil War,95.28,0.6482,Black Widow,Ant-Man,inconclusive
+Captain America: Civil War,95.28,0.6482,Black Panther,The Winter Soldier,Black Panther
+Captain America: Civil War,95.28,0.6482,Hawkeye,Vision,inconclusive
+Captain America: Civil War,95.28,0.6482,Scarlet Witch,Spider-Man,Scarlet Witch
+Captain America: Civil War,95.28,0.6482,War Machine,Falcon,inconclusive
+Captain America: Civil War,95.33,0.6485,Black Panther,The Winter Soldier,The Winter Soldier
+Captain America: Civil War,95.35,0.6486,Iron Man,Captain America,Captain America
+Captain America: Civil War,95.37,0.6488,Hawkeye,Iron Man,Hawkeye
+Captain America: Civil War,95.38,0.6488,Black Widow,Ant-Man,Black Widow
+Captain America: Civil War,95.43,0.6492,Scarlet Witch,Spider-Man,inconclusive
+Captain America: Civil War,95.52,0.6498,Black Panther,The Winter Soldier,The Winter Soldier
+Captain America: Civil War,95.58,0.6502,Black Widow,Hawkeye,Hawkeye
+Captain America: Civil War,95.73,0.6512,Black Widow,Hawkeye,Black Widow
+Captain America: Civil War,95.78,0.6516,Scarlet Witch,Black Widow,Scarlet Witch
+Captain America: Civil War,96.1,0.6537,Black Panther,The Winter Soldier,Black Panther
+Captain America: Civil War,96.17,0.6542,Scarlet Witch,Black Panther,Scarlet Witch
+Captain America: Civil War,96.25,0.6548,Captain America,Spider-Man,Captain America
+Captain America: Civil War,96.47,0.6563,Spider-Man,Captain America,Spider-Man
+Captain America: Civil War,96.67,0.6576,Spider-Man,Captain America,Captain America
+Captain America: Civil War,96.8,0.6585,Falcon,Iron Man,Iron Man
+Captain America: Civil War,97.08,0.6604,Ant-Man,Iron Man,Ant-Man
+Captain America: Civil War,97.18,0.6611,Spider-Man,Captain America,Captain America
+Captain America: Civil War,97.45,0.6629,Spider-Man,Captain America,Captain America
+Captain America: Civil War,97.53,0.6635,Spider-Man,Captain America,Captain America
+Captain America: Civil War,97.73,0.6648,Hawkeye,Iron Man,Hawkeye
+Captain America: Civil War,97.8,0.6653,Ant-Man,Iron Man,Ant-Man
+Captain America: Civil War,98.22,0.6682,Ant-Man,Iron Man,Iron Man
+Captain America: Civil War,98.65,0.6711,War Machine,Falcon,War Machine
+Captain America: Civil War,99.05,0.6738,Ant-Man,War Machine,Ant-Man
+Captain America: Civil War,99.52,0.677,Falcon,Iron Man,Falcon
+Captain America: Civil War,99.55,0.6772,Ant-Man,War Machine,Ant-Man
+Captain America: Civil War,99.77,0.6787,Ant-Man,Vision,Vision
+Captain America: Civil War,99.87,0.6794,Iron Man,Falcon,Iron Man
+Captain America: Civil War,99.9,0.6796,Ant-Man,Iron Man,Ant-Man
+Captain America: Civil War,100.13,0.6812,Falcon,Iron Man,Falcon
+Captain America: Civil War,100.28,0.6822,Ant-Man,Black Panther,Ant-Man
+Captain America: Civil War,100.35,0.6827,War Machine,Ant-Man,War Machine
+Captain America: Civil War,100.52,0.6838,Spider-Man,Ant-Man,Spider-Man
+Captain America: Civil War,100.55,0.684,Hawkeye,Black Panther,inconclusive
+Captain America: Civil War,100.6,0.6844,Spider-Man,Ant-Man,inconclusive
+Captain America: Civil War,100.6,0.6844,War Machine,Ant-Man,inconclusive
+Captain America: Civil War,100.65,0.6847,Hawkeye,Black Panther,inconclusive
+Captain America: Civil War,100.83,0.6859,Hawkeye,Black Panther,inconclusive
+Captain America: Civil War,100.87,0.6862,War Machine,Ant-Man,Ant-Man
+Captain America: Civil War,101.03,0.6873,War Machine,Ant-Man,Ant-Man
+Captain America: Civil War,101.13,0.688,Scarlet Witch,War Machine,Scarlet Witch
+Captain America: Civil War,101.23,0.6886,Spider-Man,Ant-Man,Ant-Man
+Captain America: Civil War,101.32,0.6893,Vision,Ant-Man,Vision
+Captain America: Civil War,101.43,0.69,Black Panther,Hawkeye,Black Panther
+Captain America: Civil War,101.53,0.6907,Vision,Ant-Man,Vision
+Captain America: Civil War,101.58,0.691,Vision,Scarlet Witch,Scarlet Witch
+Captain America: Civil War,101.8,0.6925,War Machine,Scarlet Witch,War Machine
+Captain America: Civil War,102.07,0.6944,Black Widow,Black Panther,Black Widow
+Captain America: Civil War,102.27,0.6957,Spider-Man,Ant-Man,inconclusive
+Captain America: Civil War,102.63,0.6982,Spider-Man,Ant-Man,Spider-Man
+Captain America: Civil War,103.63,0.705,Black Widow,Black Panther,Black Widow
+Captain America: Civil War,104.43,0.7104,Falcon,War Machine,Falcon
+Captain America: Civil War,104.58,0.7114,Vision,Falcon,Falcon
+Captain America: Civil War,104.58,0.7114,Vision,War Machine,Vision
+Captain America: Civil War,105.43,0.7172,Iron Man,Falcon,Iron Man
+Captain America: Civil War,121.45,0.8262,Zemo,Iron Man,Zemo
+Captain America: Civil War,123.27,0.8386,Iron Man,Captain America,Iron Man
+Captain America: Civil War,123.35,0.8391,The Winter Soldier,Iron Man,Iron Man
+Captain America: Civil War,123.47,0.8399,Captain America,Iron Man,Captain America
+Captain America: Civil War,123.52,0.8403,Captain America,Iron Man,Captain America
+Captain America: Civil War,123.55,0.8405,Iron Man,Captain America,Iron Man
+Captain America: Civil War,123.58,0.8407,Iron Man,Captain America,Iron Man
+Captain America: Civil War,123.62,0.841,The Winter Soldier,Iron Man,Iron Man
+Captain America: Civil War,123.67,0.8413,The Winter Soldier,Iron Man,The Winter Soldier
+Captain America: Civil War,124.33,0.8458,Captain America,Iron Man,Captain America
+Captain America: Civil War,124.68,0.8482,Iron Man,The Winter Soldier,Iron Man
+Captain America: Civil War,124.75,0.8486,Captain America,Iron Man,Captain America
+Captain America: Civil War,125.02,0.8505,Captain America,Iron Man,Captain America
+Captain America: Civil War,125.17,0.8515,Captain America,Iron Man,inconclusive
+Captain America: Civil War,125.43,0.8533,Iron Man,The Winter Soldier,Iron Man
+Captain America: Civil War,125.57,0.8542,The Winter Soldier,Iron Man,Iron Man
+Captain America: Civil War,125.72,0.8552,Captain America,Iron Man,inconclusive
+Captain America: Civil War,126.25,0.8588,Iron Man,Captain America,Iron Man
+Captain America: Civil War,126.37,0.8597,The Winter Soldier,Iron Man,The Winter Soldier
+Captain America: Civil War,126.43,0.8601,The Winter Soldier,Iron Man,The Winter Soldier
+Captain America: Civil War,126.43,0.8601,Captain America,Iron Man,Captain America
+Captain America: Civil War,126.52,0.8607,Iron Man,Captain America,Iron Man
+Captain America: Civil War,126.65,0.8616,The Winter Soldier,Iron Man,The Winter Soldier
+Captain America: Civil War,126.88,0.8631,The Winter Soldier,Iron Man,The Winter Soldier
+Captain America: Civil War,127.0,0.8639,Iron Man,The Winter Soldier,Iron Man
+Captain America: Civil War,127.13,0.8648,Captain America,Iron Man,inconclusive
+Captain America: Civil War,128.7,0.8755,Captain America,Iron Man,Captain America
+Captain America: Civil War,129.4,0.8803,Black Panther,Zemo,Black Panther
+Captain America: Civil War,129.58,0.8815,Captain America,Iron Man,Captain America
+Captain America: Civil War,129.7,0.8823,Captain America,Iron Man,Captain America
+Captain America: Civil War,129.78,0.8829,Captain America,Iron Man,Iron Man
+Captain America: Civil War,129.83,0.8832,Captain America,Iron Man,Iron Man
+Captain America: Civil War,129.92,0.8838,Captain America,Iron Man,Iron Man
+Captain America: Civil War,130.12,0.8852,Captain America,Iron Man,Iron Man
+Captain America: Civil War,130.55,0.8881,The Winter Soldier,Iron Man,The Winter Soldier
+Captain America: Civil War,130.62,0.8886,Captain America,Iron Man,Captain America
+Captain America: Civil War,130.75,0.8895,Captain America,Iron Man,Captain America

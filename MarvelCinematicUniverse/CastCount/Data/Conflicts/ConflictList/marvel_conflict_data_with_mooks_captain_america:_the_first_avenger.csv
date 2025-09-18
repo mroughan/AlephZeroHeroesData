@@ -1,0 +1,98 @@
+Title,Time,NormalisedTS,Party A,Party B,"Outcome (A, B,  inconclusive)"
+Captain America: The First Avenger,4.25,0.0343,Monk Mooks,Hydra Mooks,Hydra Mooks
+Captain America: The First Avenger,7.83,0.0631,Monk Mook,Red Skull,Red Skull
+Captain America: The First Avenger,9.57,0.0772,Captain America,Unnamed Mook,Unnamed Mook
+Captain America: The First Avenger,10.17,0.082,The Winter Soldier,Unnamed Mook,The Winter Soldier
+Captain America: The First Avenger,19.5,0.1573,Peggy Carter,Gilmore Hodge,Peggy Carter
+Captain America: The First Avenger,36.62,0.2953,Heinz Kruger,Dr. Abraham Erskine,Heinz Kruger
+Captain America: The First Avenger,36.67,0.2957,Heinz Kruger,Soldier Mook,Heinz Kruger
+Captain America: The First Avenger,36.68,0.2958,Heinz Kruger,Peggy Carter,inconclusive
+Captain America: The First Avenger,36.77,0.2965,Heinz Kruger,Soldier Mook,Heinz Kruger
+Captain America: The First Avenger,37.17,0.2998,Heinz Kruger,SHIELD Mook,Heinz Kruger
+Captain America: The First Avenger,37.3,0.3008,Heinz Kruger,SHIELD Mooks,Heinz Kruger
+Captain America: The First Avenger,37.57,0.303,Heinz Kruger,Peggy Carter,Peggy Carter
+Captain America: The First Avenger,38.77,0.3127,Captain America,Heinz Kruger,Captain America
+Captain America: The First Avenger,39.05,0.3149,Captain America,Heinz Kruger,Captain America
+Captain America: The First Avenger,39.45,0.3181,Captain America,Heinz Kruger,Captain America
+Captain America: The First Avenger,39.7,0.3202,Captain America,Heinz Kruger,Heinz Kruger
+Captain America: The First Avenger,40.02,0.3227,Captain America,Heinz Kruger,Captain America
+Captain America: The First Avenger,40.57,0.3272,Captain America,Heinz Kruger,Captain America
+Captain America: The First Avenger,40.8,0.329,Captain America,Heinz Kruger,Captain America
+Captain America: The First Avenger,43.5,0.3508,Red Skull,Nazi Mooks,Red Skull
+Captain America: The First Avenger,56.42,0.455,Captain America,Hydra Mooks,Captain America
+Captain America: The First Avenger,56.77,0.4578,Captain America,Hydra Mooks,Captain America
+Captain America: The First Avenger,57.4,0.4629,Captain America,Hydra Mook,Captain America
+Captain America: The First Avenger,58.15,0.469,Captain America,Hydra Mook,Captain America
+Captain America: The First Avenger,58.97,0.4756,Soldier Mooks,Hydra Mooks,Soldier Mooks
+Captain America: The First Avenger,59.03,0.476,Soldier Mooks,Hydra Mooks,Hydra Mooks
+Captain America: The First Avenger,59.08,0.4765,Soldier Mooks,Hydra Mooks,Soldier Mooks
+Captain America: The First Avenger,59.18,0.4773,Soldier Mooks,Hydra Mooks,Soldier Mooks
+Captain America: The First Avenger,59.78,0.4821,Soldier Tank,Hydra Mooks,Soldier Tank
+Captain America: The First Avenger,59.92,0.4832,Soldier Mooks,Hydra Mooks,Soldier Mooks
+Captain America: The First Avenger,60.12,0.4848,Captain America,Hydra Mooks,Captain America
+Captain America: The First Avenger,60.58,0.4885,Captain America,Hydra Mooks,Captain America
+Captain America: The First Avenger,60.73,0.4898,Soldier Mooks,Hydra Mooks,Soldier Mooks
+Captain America: The First Avenger,60.83,0.4906,Soldier Mooks,Hydra Mooks,Soldier Mooks
+Captain America: The First Avenger,63.18,0.5095,Captain America,Red Skull,Red Skull
+Captain America: The First Avenger,63.25,0.5101,Captain America,Red Skull,Captain America
+Captain America: The First Avenger,75.83,0.6115,Captain America,Peggy Carter,Peggy Carter
+Captain America: The First Avenger,76.17,0.6143,Team Cap,Hydra Mooks,Team Cap
+Captain America: The First Avenger,76.67,0.6183,Captain America,Hydra Mooks,Captain America
+Captain America: The First Avenger,76.78,0.6192,Team Cap,Hydra Mooks,Team Cap
+Captain America: The First Avenger,77.05,0.6214,Team Cap,Hydra Tank,Team Cap
+Captain America: The First Avenger,77.45,0.6246,The Winter Soldier,Hydra Mooks,The Winter Soldier
+Captain America: The First Avenger,77.62,0.626,Captain America,Hydra Mooks,Captain America
+Captain America: The First Avenger,77.83,0.6277,Captain America,Hydra Tank,Captain America
+Captain America: The First Avenger,80.32,0.6477,Captain America,Hydra Tank,inconclusive
+Captain America: The First Avenger,80.32,0.6477,The Winter Soldier,Hydra Mooks,inconclusive
+Captain America: The First Avenger,80.52,0.6494,Captain America,Hydra Tank,Hydra Tank
+Captain America: The First Avenger,80.52,0.6494,The Winter Soldier,Hydra Mooks,Hydra Mooks
+Captain America: The First Avenger,80.67,0.6506,Captain America,Hydra Tank,Captain America
+Captain America: The First Avenger,80.75,0.6512,The Winter Soldier,Hydra Mooks,inconclusive
+Captain America: The First Avenger,80.87,0.6522,The Winter Soldier,Hydra Mooks,inconclusive
+Captain America: The First Avenger,81.17,0.6546,Captain America,Hydra Mooks,Captain America
+Captain America: The First Avenger,81.17,0.6546,The Winter Soldier,Hydra Mooks,The Winter Soldier
+Captain America: The First Avenger,81.27,0.6554,Captain America,Hydra Tank,Hydra Tank
+Captain America: The First Avenger,81.4,0.6565,The Winter Soldier,Hydra Tank,Hydra Tank
+Captain America: The First Avenger,81.45,0.6569,Captain America,Hydra Tank,Captain America
+Captain America: The First Avenger,88.47,0.7135,Captain America,Hydra Mooks,inconclusive
+Captain America: The First Avenger,88.63,0.7148,Captain America,Hydra Mooks,Captain America
+Captain America: The First Avenger,88.95,0.7173,Captain America,Hydra Mooks,Captain America
+Captain America: The First Avenger,89.1,0.7185,Captain America,Hydra Tank,Captain America
+Captain America: The First Avenger,89.3,0.7202,Captain America,Hydra Mooks,Captain America
+Captain America: The First Avenger,89.45,0.7214,Captain America,Hydra Mooks,Captain America
+Captain America: The First Avenger,89.53,0.722,Captain America,Hydra Mooks,Captain America
+Captain America: The First Avenger,89.72,0.7235,Captain America,Hydra Mooks,Captain America
+Captain America: The First Avenger,90.97,0.7336,Captain America,Red Skull,Red Skull
+Captain America: The First Avenger,91.37,0.7369,Captain America,Red Skull,Captain America
+Captain America: The First Avenger,91.43,0.7373,Team Cap,Hydra Mooks,Team Cap
+Captain America: The First Avenger,91.92,0.7413,Team Cap,Hydra Mooks,Team Cap
+Captain America: The First Avenger,92.0,0.7419,Soldier Mooks,Hydra Mooks,Hydra Mooks
+Captain America: The First Avenger,92.03,0.7422,Team Cap,Hydra Mooks,Team Cap
+Captain America: The First Avenger,92.12,0.7429,Soldier Mooks,Hydra Mooks,Hydra Mooks
+Captain America: The First Avenger,92.15,0.7431,Soldier Mooks,Hydra Mooks,Soldier Mooks
+Captain America: The First Avenger,92.23,0.7438,Soldier Mooks,Hydra Mooks,Hydra Mooks
+Captain America: The First Avenger,92.37,0.7449,Soldier Mooks,Hydra Mooks,Soldier Mooks
+Captain America: The First Avenger,92.57,0.7465,Red Skull,Soldier Mooks,Red Skull
+Captain America: The First Avenger,92.7,0.7476,Colonel Chester Phillips,Hydra Mooks,Colonel Chester Phillips
+Captain America: The First Avenger,92.73,0.7478,Captain America,Red Skull,inconclusive
+Captain America: The First Avenger,92.85,0.7488,Captain America,Hydra Tank,Hydra Tank
+Captain America: The First Avenger,93.05,0.7504,Peggy Carter,Hydra Tank,Peggy Carter
+Captain America: The First Avenger,93.45,0.7536,Soldier Mooks,Hydra Mooks,Soldier Mooks
+Captain America: The First Avenger,94.03,0.7583,Captain America,Hydra Mooks,Captain America
+Captain America: The First Avenger,95.5,0.7702,Captain America,Red Skull,Captain America
+Captain America: The First Avenger,95.5,0.7702,Peggy Carter,Red Skull,Peggy Carter
+Captain America: The First Avenger,95.5,0.7702,Colonel Chester Phillips,Red Skull,Colonel Chester Phillips
+Captain America: The First Avenger,96.32,0.7768,Captain America,Hydra Mooks,Captain America
+Captain America: The First Avenger,96.93,0.7817,Captain America,Hydra Mooks,Hydra Mooks
+Captain America: The First Avenger,97.28,0.7845,Captain America,Hydra Mooks,Captain America
+Captain America: The First Avenger,97.78,0.7885,Captain America,Red Skull,inconclusive
+Captain America: The First Avenger,98.62,0.7953,Captain America,Red Skull,inconclusive
+Captain America: The First Avenger,98.78,0.7966,Captain America,Red Skull,Red Skull
+Captain America: The First Avenger,98.93,0.7978,Captain America,Red Skull,Captain America
+Captain America: The First Avenger,99.15,0.7996,Captain America,Red Skull,inconclusive
+Captain America: The First Avenger,99.27,0.8006,Captain America,Red Skull,Captain America
+Captain America: The First Avenger,99.37,0.8014,Captain America,Red Skull,Red Skull
+Captain America: The First Avenger,99.8,0.8048,Captain America,Red Skull,Captain America
+Captain America: The First Avenger,100.07,0.807,Captain America,Red Skull,Captain America
+Captain America: The First Avenger,107.83,0.8696,Captain America,SHIELD Mooks,Captain America

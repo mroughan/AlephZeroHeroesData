@@ -1,0 +1,124 @@
+Title,Time,NormalisedTS,Party A,Party B,"Outcome (A, B,  inconclusive)"
+Captain Marvel,2.53,0.0206,Captain Marvel,Yon-Rogg,Yon-Rogg
+Captain Marvel,2.77,0.0225,Captain Marvel,Yon-Rogg,inconclusive
+Captain Marvel,2.88,0.0234,Captain Marvel,Yon-Rogg,Yon-Rogg
+Captain Marvel,3.03,0.0246,Captain Marvel,Yon-Rogg,Yon-Rogg
+Captain Marvel,3.42,0.0278,Captain Marvel,Yon-Rogg,Yon-Rogg
+Captain Marvel,3.52,0.0286,Captain Marvel,Yon-Rogg,Captain Marvel
+Captain Marvel,12.4,0.1008,Minn-Erva,Skrull Mook,Minn-Erva
+Captain Marvel,12.78,0.1039,Captain Marvel,Talos,Talos
+Captain Marvel,12.88,0.1047,Yon-Rogg,Skrull Mook,Yon-Rogg
+Captain Marvel,12.92,0.105,Minn-Erva,Skrull Mooks,Minn-Erva
+Captain Marvel,13.27,0.1079,Yon-Rogg,Skrull Mooks,Yon-Rogg
+Captain Marvel,13.47,0.1095,Korath,Skrull Mooks,Korath
+Captain Marvel,13.5,0.1098,Yon-Rogg,Skrull Mooks,Yon-Rogg
+Captain Marvel,13.53,0.11,Att-Lass,Skrull Mooks,Att-Lass
+Captain Marvel,13.58,0.1104,Minn-Erva,Skrull Mooks,Minn-Erva
+Captain Marvel,13.6,0.1106,Att-Lass,Skrull Mooks,Att-Lass
+Captain Marvel,14.1,0.1146,Captain Marvel,Talos,Talos
+Captain Marvel,15.68,0.1275,Captain Marvel,ropes,ropes
+Captain Marvel,19.02,0.1546,Captain Marvel,skrull mind reading,Captain Marvel
+Captain Marvel,19.13,0.1555,Captain Marvel,Skrull Mooks,Captain Marvel
+Captain Marvel,19.22,0.1563,Captain Marvel,Skrull Mooks,Captain Marvel
+Captain Marvel,19.93,0.162,Captain Marvel,Talos,Captain Marvel
+Captain Marvel,19.97,0.1624,Captain Marvel,Skrull Mooks,Captain Marvel
+Captain Marvel,20.0,0.1626,Captain Marvel,Skrull Mooks,Captain Marvel
+Captain Marvel,20.2,0.1642,Captain Marvel,Skrull Mooks,Captain Marvel
+Captain Marvel,20.42,0.166,Captain Marvel,Skrull Mooks,Captain Marvel
+Captain Marvel,20.5,0.1667,Captain Marvel,Skrull Mook,Skrull Mook
+Captain Marvel,20.55,0.1671,Captain Marvel,Skrull Mooks,Captain Marvel
+Captain Marvel,20.58,0.1673,Captain Marvel,Skrull Mook,Skrull Mook
+Captain Marvel,20.65,0.1679,Captain Marvel,Skrull Mooks,Captain Marvel
+Captain Marvel,20.98,0.1706,Captain Marvel,Skrull Tank,inconclusive
+Captain Marvel,21.03,0.171,Captain Marvel,Skrull Tank,Skrull Tank
+Captain Marvel,21.2,0.1724,Captain Marvel,bindings,Captain Marvel
+Captain Marvel,21.22,0.1725,Captain Marvel,Skrull Tank,Captain Marvel
+Captain Marvel,21.22,0.1725,Captain Marvel,ship,Captain Marvel
+Captain Marvel,22.08,0.1795,Captain Marvel,console,Captain Marvel
+Captain Marvel,22.27,0.1811,Captain Marvel,Skrull Mook,Captain Marvel
+Captain Marvel,22.4,0.1821,Captain Marvel,Talos,Talos
+Captain Marvel,22.45,0.1825,Captain Marvel,Talos,Captain Marvel
+Captain Marvel,22.8,0.1854,Captain Marvel,poster,Captain Marvel
+Captain Marvel,29.25,0.2378,Captain Marvel,Norex,inconclusive
+Captain Marvel,29.3,0.2382,Captain Marvel,Norex,Captain Marvel
+Captain Marvel,30.0,0.2439,Captain Marvel,Norex,Norex
+Captain Marvel,31.23,0.2539,Captain Marvel,Norex,Captain Marvel
+Captain Marvel,31.33,0.2547,Captain Marvel,Norex,Norex
+Captain Marvel,31.4,0.2553,Captain Marvel,Norex,Captain Marvel
+Captain Marvel,31.47,0.2559,Captain Marvel,Random Mook,Captain Marvel
+Captain Marvel,31.52,0.2563,Captain Marvel,Norex,Norex
+Captain Marvel,31.63,0.2572,Captain Marvel,Norex,Captain Marvel
+Captain Marvel,31.67,0.2575,Captain Marvel,Random Mooks,Random Mooks
+Captain Marvel,31.78,0.2584,Captain Marvel,Random Mooks,Captain Marvel
+Captain Marvel,32.12,0.2611,Captain Marvel,Norex,Norex
+Captain Marvel,32.4,0.2634,Captain Marvel,Norex,Norex
+Captain Marvel,32.83,0.2669,Captain Marvel,Norex,inconclusive
+Captain Marvel,33.13,0.2693,Nick Fury,Skrull Mook,inconclusive
+Captain Marvel,33.22,0.2701,Nick Fury,Skrull Mook,Skrull Mook
+Captain Marvel,33.33,0.271,Nick Fury,Skrull Mook,Nick Fury
+Captain Marvel,40.88,0.3324,Captain Marvel,juke box,Captain Marvel
+Captain Marvel,46.02,0.3741,Captain Marvel,door,Captain Marvel
+Captain Marvel,51.95,0.4224,Nick Fury,Talos,Nick Fury
+Captain Marvel,52.08,0.4234,Nick Fury,Talos,inconclusive
+Captain Marvel,52.22,0.4246,Nick Fury,Talos,Talos
+Captain Marvel,52.32,0.4254,Nick Fury,Talos,Talos
+Captain Marvel,52.43,0.4263,Nick Fury,Talos,Talos
+Captain Marvel,52.73,0.4287,Captain Marvel,Talos,Captain Marvel
+Captain Marvel,54.42,0.4424,Captain Marvel,Talos,Captain Marvel
+Captain Marvel,69.0,0.561,Mar-Vell,Yon-Rogg,Yon-Rogg
+Captain Marvel,69.87,0.568,Captain Marvel,energy core,Captain Marvel
+Captain Marvel,78.67,0.6396,Norex,Yon-Rogg,Yon-Rogg
+Captain Marvel,86.6,0.7041,Captain Marvel,Yon-Rogg,Yon-Rogg
+Captain Marvel,87.02,0.7075,Captain Marvel,Yon-Rogg,Yon-Rogg
+Captain Marvel,91.25,0.7419,Nick Fury,Kree Mooks,Nick Fury
+Captain Marvel,91.25,0.7419,Maria Rambeau,Kree Mooks,Maria Rambeau
+Captain Marvel,92.33,0.7507,Captain Marvel,Yon-Rogg,Yon-Rogg
+Captain Marvel,92.33,0.7507,Captain Marvel,Bron-Char,Bron-Char
+Captain Marvel,92.33,0.7507,Captain Marvel,Att-Lass,Att-Lass
+Captain Marvel,92.33,0.7507,Captain Marvel,Minn-Erva,Minn-Erva
+Captain Marvel,92.33,0.7507,Captain Marvel,Korath,Korath
+Captain Marvel,92.45,0.7516,Skrull Mooks,Nick Fury,inconclusive
+Captain Marvel,92.45,0.7516,Skrull Mooks,Maria Rambeau,inconclusive
+Captain Marvel,92.47,0.7518,Captain Marvel,Kree Mooks,Captain Marvel
+Captain Marvel,93.78,0.7624,Captain Marvel,Yon-Rogg,Captain Marvel
+Captain Marvel,93.78,0.7624,Captain Marvel,Bron-Char,Captain Marvel
+Captain Marvel,93.78,0.7624,Captain Marvel,Korath,Captain Marvel
+Captain Marvel,93.95,0.7638,Maria Rambeau,Kree Mooks,Maria Rambeau
+Captain Marvel,94.08,0.7649,Goose,Kree Mooks,Goose
+Captain Marvel,94.48,0.7681,Captain Marvel,Bron-Char,Captain Marvel
+Captain Marvel,94.62,0.7693,Captain Marvel,Kree Mooks,Captain Marvel
+Captain Marvel,94.82,0.7709,Captain Marvel,Minn-Erva,Captain Marvel
+Captain Marvel,94.97,0.7721,Captain Marvel,Korath,Captain Marvel
+Captain Marvel,95.02,0.7725,Captain Marvel,Minn-Erva,Captain Marvel
+Captain Marvel,95.2,0.774,Captain Marvel,Minn-Erva,Minn-Erva
+Captain Marvel,95.25,0.7744,Captain Marvel,Minn-Erva,Captain Marvel
+Captain Marvel,95.27,0.7746,Captain Marvel,Bron-Char,Bron-Char
+Captain Marvel,95.37,0.7754,Captain Marvel,Bron-Char,Captain Marvel
+Captain Marvel,95.38,0.7754,Captain Marvel,Att-Lass,Att-Lass
+Captain Marvel,95.57,0.777,Captain Marvel,Att-Lass,Captain Marvel
+Captain Marvel,95.63,0.7775,Captain Marvel,Kree Mooks,Captain Marvel
+Captain Marvel,96.0,0.7805,Kree Mooks,Nick Fury,Kree Mooks
+Captain Marvel,96.0,0.7805,Kree Mooks,Maria Rambeau,Kree Mooks
+Captain Marvel,96.48,0.7844,Captain Marvel,Yon-Rogg,Yon-Rogg
+Captain Marvel,96.9,0.7878,Talos,Kree Mooks,Talos
+Captain Marvel,97.0,0.7886,Captain Marvel,Yon-Rogg,Yon-Rogg
+Captain Marvel,97.22,0.7904,Captain Marvel,Yon-Rogg,Captain Marvel
+Captain Marvel,97.5,0.7927,Captain Marvel,Yon-Rogg,inconclusive
+Captain Marvel,97.53,0.7929,Captain Marvel,Bron-Char,Bron-Char
+Captain Marvel,97.57,0.7933,Captain Marvel,Korath,inconclusive
+Captain Marvel,97.58,0.7933,Captain Marvel,Bron-Char,Captain Marvel
+Captain Marvel,97.78,0.795,Yon-Rogg,Talos,Yon-Rogg
+Captain Marvel,97.87,0.7957,Captain Marvel,Korath,Captain Marvel
+Captain Marvel,97.9,0.7959,Captain Marvel,Bron-Char,Captain Marvel
+Captain Marvel,97.92,0.7961,Captain Marvel,Korath,Captain Marvel
+Captain Marvel,98.87,0.8038,Captain Marvel,Yon-Rogg,Yon-Rogg
+Captain Marvel,100.52,0.8172,Captain Marvel,Yon-Rogg,Captain Marvel
+Captain Marvel,101.9,0.8285,Captain Marvel,ballistic warheads,Captain Marvel
+Captain Marvel,102.4,0.8325,Captain Marvel,Kree Aircraft,Captain Marvel
+Captain Marvel,102.48,0.8332,Captain Marvel,Kree Aircraft,Captain Marvel
+Captain Marvel,102.55,0.8337,Captain Marvel,Kree Aircraft,Captain Marvel
+Captain Marvel,102.6,0.8341,Captain Marvel,Kree Aircraft,Captain Marvel
+Captain Marvel,102.72,0.8351,Captain Marvel,Kree Aircraft,Captain Marvel
+Captain Marvel,102.8,0.8358,Captain Marvel,Kree Aircraft,Captain Marvel
+Captain Marvel,102.92,0.8367,Captain Marvel,Kree Dragon,Captain Marvel
+Captain Marvel,106.23,0.8637,Nick Fury,Goose,Goose

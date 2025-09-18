@@ -1,0 +1,100 @@
+Title,Time,NormalisedTS,Party A,Party B,"Outcome (A, B,  inconclusive)"
+Avengers: Endgame,17.27,0.0954,Captain Marvel,Thanos,Captain Marvel
+Avengers: Endgame,17.32,0.0957,Captain Marvel,Thanos,Captain Marvel
+Avengers: Endgame,17.38,0.096,Captain Marvel,Thanos,Captain Marvel
+Avengers: Endgame,17.5,0.0967,Hulk,Thanos,Hulk
+Avengers: Endgame,17.5,0.0967,War Machine,Thanos,War Machine
+Avengers: Endgame,17.55,0.097,Thor,Thanos,Thor
+Avengers: Endgame,18.27,0.1009,Hulk,Thanos,Hulk
+Avengers: Endgame,19.1,0.1055,Thor,Thanos,Thor
+Avengers: Endgame,55.35,0.3058,Hawkeye,Akihiko,Hawkeye
+Avengers: Endgame,55.58,0.3071,Hawkeye,Akihiko,Hawkeye
+Avengers: Endgame,55.78,0.3082,Hawkeye,Akihiko,Hawkeye
+Avengers: Endgame,55.92,0.309,Hawkeye,Akihiko,Hawkeye
+Avengers: Endgame,56.25,0.3108,Hawkeye,Akihiko,Hawkeye
+Avengers: Endgame,77.03,0.4256,Sitwell,Black Widow,Sitwell
+Avengers: Endgame,77.45,0.4279,Thor,Loki,Thor
+Avengers: Endgame,80.83,0.4466,Iron Man,Iron Man,Iron Man
+Avengers: Endgame,80.83,0.4466,Ant Man,Iron Man,Ant Man
+Avengers: Endgame,81.3,0.4492,Hulk,Iron Man,Hulk
+Avengers: Endgame,82.37,0.4551,Captain America,Captain America,Captain America
+Avengers: Endgame,82.7,0.4569,Captain America,Captain America,inconclusive
+Avengers: Endgame,82.88,0.4579,Captain America,Captain America,inconclusive
+Avengers: Endgame,83.2,0.4597,Captain America,Captain America,Captain America
+Avengers: Endgame,83.37,0.4606,Captain America,Captain America,Captain America
+Avengers: Endgame,93.08,0.5143,War Machine,Star-Lord,War Machine
+Avengers: Endgame,106.78,0.5899,old Nebula,Nebula,old Nebula
+Avengers: Endgame,106.85,0.5903,old Nebula,Nebula,old Nebula
+Avengers: Endgame,107.47,0.5938,old Nebula,Nebula,old Nebula
+Avengers: Endgame,112.43,0.6212,Hawkeye,Black Widow,Black Widow
+Avengers: Endgame,112.93,0.6239,Hawkeye,Black Widow,Hawkeye
+Avengers: Endgame,112.95,0.624,Hawkeye,Black Widow,Black Widow
+Avengers: Endgame,122.7,0.6779,Santuary II,Ant Man,Santuary II
+Avengers: Endgame,123.05,0.6798,Santuary II,Avengers,Santuary II
+Avengers: Endgame,129.68,0.7165,Iron Man,Thanos,Thanos
+Avengers: Endgame,129.69,0.7165,Captain America,Thanos,Thanos
+Avengers: Endgame,129.7,0.7166,Thor,Thanos,Thanos
+Avengers: Endgame,129.72,0.7167,Iron Man,Thanos,inconclusive
+Avengers: Endgame,131.67,0.7275,Nebula,old Nebula,Nebula
+Avengers: Endgame,132.1,0.7298,Iron Man,Thanos,inconclusive
+Avengers: Endgame,132.17,0.7302,Thor,Thanos,Thanos
+Avengers: Endgame,132.18,0.7303,Iron Man,Thanos,Thanos
+Avengers: Endgame,132.33,0.7311,Captain America,Thanos,inconclusive
+Avengers: Endgame,132.37,0.7313,Captain America,Thanos,Thanos
+Avengers: Endgame,132.43,0.7317,Thor,Thanos,inconclusive
+Avengers: Endgame,132.57,0.7324,Thor,Thanos,Thanos
+Avengers: Endgame,132.62,0.7327,Thor,Thanos,Thanos
+Avengers: Endgame,132.68,0.733,Thor,Thanos,Thanos
+Avengers: Endgame,132.73,0.7333,Thor,Thanos,Thanos
+Avengers: Endgame,133.02,0.7349,Captain America,Thanos,Captain America
+Avengers: Endgame,133.2,0.7359,Thor,Thanos,Thanos
+Avengers: Endgame,133.3,0.7365,Captain America,Thanos,Captain America
+Avengers: Endgame,133.38,0.7369,Captain America,Thanos,Captain America
+Avengers: Endgame,133.47,0.7374,Captain America,Thanos,Captain America
+Avengers: Endgame,133.52,0.7377,Captain America,Thanos,Captain America
+Avengers: Endgame,133.57,0.738,Captain America,Thanos,Captain America
+Avengers: Endgame,133.65,0.7384,Captain America,Thanos,Captain America
+Avengers: Endgame,133.73,0.7388,Captain America,Thanos,Thanos
+Avengers: Endgame,133.87,0.7396,Captain America,Thanos,inconclusive
+Avengers: Endgame,133.9,0.7398,Captain America,Thanos,Thanos
+Avengers: Endgame,133.97,0.7402,Captain America,Thanos,Thanos
+Avengers: Endgame,134.05,0.7406,Captain America,Thanos,Thanos
+Avengers: Endgame,134.15,0.7412,Captain America,Thanos,Thanos
+Avengers: Endgame,134.18,0.7413,Captain America,Thanos,Thanos
+Avengers: Endgame,138.98,0.7678,Captain America,Cull Obsidian,Captain America
+Avengers: Endgame,139.62,0.7714,Iron Man,Cull Obsidian,Cull Obsidian
+Avengers: Endgame,139.67,0.7717,Spider-Man,Cull Obsidian,Spider-Man
+Avengers: Endgame,139.72,0.7719,Ant Man,Cull Obsidian,Ant Man
+Avengers: Endgame,140.43,0.7759,old Gamora,Star-Lord,old Gamora
+Avengers: Endgame,143.13,0.7908,Black Panther,Thanos,Thanos
+Avengers: Endgame,144.52,0.7985,Sanctuary II,Scarlet Witch,Sanctuary II
+Avengers: Endgame,145.2,0.8022,Spider-Man,Sanctuary II,Sanctuary II
+Avengers: Endgame,145.47,0.8037,Spider-Man,Sanctuary II,Sanctuary II
+Avengers: Endgame,145.5,0.8039,Spider-Man,Sanctuary II,Sanctuary II
+Avengers: Endgame,145.67,0.8048,The Winter Soldier,Sanctuary II,Sanctuary II
+Avengers: Endgame,145.68,0.8049,Korg,Sanctuary II,Sanctuary II
+Avengers: Endgame,145.7,0.805,Bruce/Hulk,Sanctuary II,Sanctuary II
+Avengers: Endgame,145.7,0.805,War Machine,Sanctuary II,Sanctuary II
+Avengers: Endgame,145.73,0.8051,Groot,Sanctuary II,Sanctuary II
+Avengers: Endgame,146.1,0.8072,Captain Marvel,Sanctuary II,Captain Marvel
+Avengers: Endgame,146.37,0.8087,Captain Marvel,Sanctuary II,Captain Marvel
+Avengers: Endgame,147.53,0.8151,Okoye,Corvus Glaive,Okoye
+Avengers: Endgame,147.95,0.8174,Pepper Potts,Thanos,Pepper Potts
+Avengers: Endgame,147.95,0.8174,Wasp,Thanos,Wasp
+Avengers: Endgame,147.95,0.8174,Shuri,Thanos,Shuri
+Avengers: Endgame,148.07,0.8181,Captain Marvel,Thanos,Thanos
+Avengers: Endgame,148.27,0.8192,Iron Man,Thanos,Iron Man
+Avengers: Endgame,148.32,0.8194,Iron Man,Thanos,Thanos
+Avengers: Endgame,148.35,0.8196,Thor,Thanos,Thor
+Avengers: Endgame,148.43,0.8201,Thor,Thanos,inconclusive
+Avengers: Endgame,148.58,0.8209,Captain America,Thanos,inconclusive
+Avengers: Endgame,148.63,0.8212,Thor,Thanos,Thanos
+Avengers: Endgame,148.68,0.8214,Captain America,Thanos,Thanos
+Avengers: Endgame,148.77,0.8219,Captain Marvel,Thanos,Captain Marvel
+Avengers: Endgame,148.82,0.8222,Captain Marvel,Thanos,Captain Marvel
+Avengers: Endgame,148.87,0.8225,Captain Marvel,Thanos,Thanos
+Avengers: Endgame,149.02,0.8233,Captain Marvel,Thanos,Captain Marvel
+Avengers: Endgame,149.18,0.8242,Captain Marvel,Thanos,Captain Marvel
+Avengers: Endgame,149.35,0.8251,Captain Marvel,Thanos,Thanos
+Avengers: Endgame,149.78,0.8275,Iron Man,Thanos,Iron Man
+Avengers: Endgame,149.85,0.8279,Iron Man,Thanos,Thanos

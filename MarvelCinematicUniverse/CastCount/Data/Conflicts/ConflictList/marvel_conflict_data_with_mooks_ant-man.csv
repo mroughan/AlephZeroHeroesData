@@ -1,0 +1,75 @@
+Title,Time,NormalisedTS,Party A,Party B,"Outcome (A, B,  inconclusive)"
+Ant-Man,1.12,0.0096,Pym,Mitchell Carson,Pym
+Ant-Man,2.72,0.0232,Ant-Man,Prisoner Mook,Prisoner Mook
+Ant-Man,2.93,0.025,Ant-Man,Prisoner Mook,Prisoner Mook
+Ant-Man,3.12,0.0267,Ant-Man,Prisoner Mook,Ant-Man
+Ant-Man,18.72,0.16,Yellowjacket,Corporate Mook,Yellowjacket
+Ant-Man,32.8,0.2803,Ant-Man,rat,Ant-Man
+Ant-Man,33.67,0.2878,Ant-Man,Police Mooks,Police Mooks
+Ant-Man,50.37,0.4305,Ant-Man,Wasp,Wasp
+Ant-Man,52.0,0.4444,Ant-Man,Crazy Ant Mooks,Crazy Ant Mooks
+Ant-Man,52.2,0.4462,Ant-Man,Wasp,Wasp
+Ant-Man,52.62,0.4497,Ant-Man,Bullet Ant Mooks,Bullet Ant Mooks
+Ant-Man,53.38,0.4562,Ant-Man,Wasp,Ant-Man
+Ant-Man,53.42,0.4566,Ant-Man,Wasp,Wasp
+Ant-Man,63.72,0.5446,Falcon,Ant-Man,Ant-Man
+Ant-Man,64.07,0.5476,Falcon,Ant-Man,Ant-Man
+Ant-Man,64.2,0.5487,Falcon,Ant-Man,Ant-Man
+Ant-Man,64.25,0.5491,Falcon,Ant-Man,Falcon
+Ant-Man,64.35,0.55,Falcon,Ant-Man,Falcon
+Ant-Man,64.43,0.5507,Falcon,Ant-Man,Ant-Man
+Ant-Man,64.58,0.552,Falcon,Ant-Man,Falcon
+Ant-Man,64.98,0.5554,Falcon,Ant-Man,Ant-Man
+Ant-Man,65.3,0.5581,Falcon,Ant-Man,Ant-Man
+Ant-Man,74.78,0.6391,Luis,Guard Mook,Luis
+Ant-Man,76.82,0.6566,Bullet Ant Mooks,Guard Mook,Bullet Ant Mooks
+Ant-Man,76.88,0.6571,Luis,Guard Mook,Luis
+Ant-Man,77.65,0.6637,Dave,Police Mooks,Dave
+Ant-Man,81.32,0.695,Pym,Yellowjacket,Pym
+Ant-Man,83.23,0.7114,Kurt,Police Mooks,Kurt
+Ant-Man,85.8,0.7333,Wasp,Hydra Mooks,Wasp
+Ant-Man,86.23,0.737,Ant-Man,Yellowjacket,Ant-Man
+Ant-Man,86.28,0.7374,Ant-Man,Hydra Mooks,Ant-Man
+Ant-Man,86.3,0.7376,Pym,Yellowjacket,Pym
+Ant-Man,86.32,0.7378,Wasp,Hydra Mooks,Wasp
+Ant-Man,86.38,0.7383,Ant-Man,Hydra Mooks,Ant-Man
+Ant-Man,86.4,0.7385,Pym,Yellowjacket,Yellowjacket
+Ant-Man,86.52,0.7395,Ant-Man,Hydra Mooks,Ant-Man
+Ant-Man,86.93,0.743,Wasp,Yellowjacket,Wasp
+Ant-Man,86.93,0.743,Bullet Ant Mooks,Yellowjacket,Bullet Ant Mooks
+Ant-Man,87.97,0.7519,Ant-Man,Guard Mooks,Ant-Man
+Ant-Man,88.25,0.7543,Ant-Man,Guard Mooks,Guard Mooks
+Ant-Man,88.53,0.7567,Luis,Guard Mooks,Luis
+Ant-Man,90.43,0.7729,Ant-Man,Yellowjacket,Yellowjacket
+Ant-Man,91.13,0.7789,Ant-Man,Guard Mooks,Ant-Man
+Ant-Man,91.18,0.7793,Ant-Man,Yellowjacket,Ant-Man
+Ant-Man,91.72,0.7839,Ant-Man,Guard Mooks,Ant-Man
+Ant-Man,91.8,0.7846,Ant-Man,Yellowjacket,Yellowjacket
+Ant-Man,92.15,0.7876,Ant-Man,Yellowjacket,Yellowjacket
+Ant-Man,92.4,0.7897,Ant-Man,Yellowjacket,Ant-Man
+Ant-Man,92.42,0.7899,Ant-Man,Yellowjacket,Ant-Man
+Ant-Man,92.78,0.793,Ant-Man,Yellowjacket,Ant-Man
+Ant-Man,92.93,0.7943,Ant-Man,Yellowjacket,inconclusive
+Ant-Man,93.52,0.7993,Ant-Man,Yellowjacket,Ant-Man
+Ant-Man,93.57,0.7997,Ant-Man,Yellowjacket,Yellowjacket
+Ant-Man,93.7,0.8009,Ant-Man,Yellowjacket,Ant-Man
+Ant-Man,93.97,0.8032,Ant-Man,Police Mooks,Police Mooks
+Ant-Man,95.8,0.8188,Ant-Man,Yellowjacket,Ant-Man
+Ant-Man,96.2,0.8222,Ant-Man,Yellowjacket,Yellowjacket
+Ant-Man,96.42,0.8241,Bullet Ant Mooks,Yellowjacket,Yellowjacket
+Ant-Man,96.53,0.825,Bullet Ant Mooks,Yellowjacket,Yellowjacket
+Ant-Man,96.72,0.8267,Ant-Man,Yellowjacket,inconclusive
+Ant-Man,96.77,0.8271,Bullet Ant Mooks,Yellowjacket,Yellowjacket
+Ant-Man,96.88,0.828,Ant-Man,Yellowjacket,inconclusive
+Ant-Man,97.0,0.8291,Ant-Man,Yellowjacket,Ant-Man
+Ant-Man,97.13,0.8302,Thomas the Tank Engine,Yellowjacket,inconclusive
+Ant-Man,97.32,0.8318,Ant-Man,Yellowjacket,inconclusive
+Ant-Man,97.82,0.8361,Bullet Ant Mooks,Yellowjacket,Yellowjacket
+Ant-Man,97.93,0.837,Ant-Man,Yellowjacket,Yellowjacket
+Ant-Man,98.37,0.8408,Ant-Man,Yellowjacket,inconclusive
+Ant-Man,98.62,0.8429,Ant-Man,Yellowjacket,Yellowjacket
+Ant-Man,98.8,0.8444,Bullet Ant Mooks,Police Mooks,Bullet Ant Mooks
+Ant-Man,99.15,0.8474,Yellowjacket,Police Mooks,Yellowjacket
+Ant-Man,99.32,0.8489,Ant-Man,Yellowjacket,Yellowjacket
+Ant-Man,99.48,0.8503,Ant-Man,Yellowjacket,Yellowjacket
+Ant-Man,99.85,0.8534,Ant-Man,Yellowjacket,Ant-Man

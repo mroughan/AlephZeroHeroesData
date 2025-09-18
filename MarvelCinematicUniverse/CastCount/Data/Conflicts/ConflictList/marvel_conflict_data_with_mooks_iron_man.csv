@@ -1,0 +1,61 @@
+Title,Time,NormalisedTS,Party A,Party B,"Outcome (A, B,  inconclusive)"
+Iron Man,2.63,0.0209,Ten Rings Mooks,Soldier Mooks,Ten Rings Mooks
+Iron Man,2.75,0.0218,Ten Rings Mooks,Soldier Mooks,Ten Rings Mooks
+Iron Man,2.88,0.0229,Ten Rings Mooks,Soldier Mooks,Ten Rings Mooks
+Iron Man,3.02,0.024,Ten Rings Mooks,Soldier Mooks,Ten Rings Mooks
+Iron Man,34.82,0.2763,Yinsen,Ten Rings Mooks,Yinsen
+Iron Man,35.03,0.278,Yinsen,Ten Rings Mooks,Ten Rings Mooks
+Iron Man,35.68,0.2832,Iron Man,Ten Rings Mooks,Iron Man
+Iron Man,35.9,0.2849,Iron Man,Ten Rings Mooks,Iron Man
+Iron Man,36.23,0.2875,Iron Man,Ten Rings Mooks,Iron Man
+Iron Man,36.28,0.2879,Iron Man,Ten Rings Mooks,Iron Man
+Iron Man,36.37,0.2887,Iron Man,Ten Rings Mooks,Iron Man
+Iron Man,36.78,0.2919,Iron Man,Ten Rings Mooks,Iron Man
+Iron Man,36.95,0.2933,Iron Man,Ten Rings Mooks,Iron Man
+Iron Man,37.15,0.2948,Iron Man,Ten Rings Mooks,Iron Man
+Iron Man,37.55,0.298,Iron Man,Raza,Iron Man
+Iron Man,39.07,0.3101,Iron Man,Ten Rings Mooks,Ten Rings Mooks
+Iron Man,39.18,0.311,Iron Man,Ten Rings Mooks,Iron Man
+Iron Man,39.4,0.3127,Iron Man,Ten Rings Mooks,Iron Man
+Iron Man,39.7,0.3151,Iron Man,Ten Rings Mooks,Ten Rings Mooks
+Iron Man,39.82,0.316,Iron Man,Ten Rings Mooks,Ten Rings Mooks
+Iron Man,39.93,0.3169,Iron Man,Ten Rings Mooks,Iron Man
+Iron Man,74.95,0.5948,Iron Man,his reflection,Iron Man
+Iron Man,76.33,0.6058,Ten Rings Mooks,Random Mooks,Ten Rings Mooks
+Iron Man,76.62,0.6081,Ten Rings Mooks,Random Mooks,Ten Rings Mooks
+Iron Man,77.05,0.6115,Ten Rings Mooks,Random Mooks,Ten Rings Mooks
+Iron Man,77.53,0.6153,Iron Man,Ten Rings Mooks,Iron Man
+Iron Man,77.62,0.616,Iron Man,Ten Rings Mooks,Iron Man
+Iron Man,77.9,0.6183,Iron Man,Ten Rings Mooks,Iron Man
+Iron Man,78.33,0.6217,Iron Man,Ten Rings Mooks,Iron Man
+Iron Man,78.63,0.624,Iron Man,Ten Rings Tank,Ten Rings Tank
+Iron Man,79.0,0.627,Iron Man,Ten Rings Tank,Iron Man
+Iron Man,79.25,0.629,Iron Man,Ten Rings Tank,Iron Man
+Iron Man,81.68,0.6483,Iron Man,US Aircraft,US Aircraft
+Iron Man,82.0,0.6508,Iron Man,US Aircraft,US Aircraft
+Iron Man,82.05,0.6512,Iron Man,US Aircraft,Iron Man
+Iron Man,83.03,0.659,Iron Man,US Aircraft,inconclusive
+Iron Man,88.32,0.701,Obadiah's Mooks,Ten Rings Mooks,Obadiah's Mooks
+Iron Man,102.13,0.8106,Coulson,door,Coulson
+Iron Man,104.38,0.8284,Iron Monger,Coulson,Iron Monger
+Iron Man,104.38,0.8284,Iron Monger,SHIELD Mooks,Iron Monger
+Iron Man,104.48,0.8292,Iron Monger,Pepper Potts,Pepper Potts
+Iron Man,105.28,0.8356,Iron Monger,Pepper Potts,Iron Monger
+Iron Man,105.33,0.836,Iron Man,Iron Monger,Iron Man
+Iron Man,105.72,0.839,Iron Monger,car,Iron Monger
+Iron Man,105.88,0.8403,Iron Man,Iron Monger,Iron Man
+Iron Man,105.92,0.8406,Iron Man,car,Iron Man
+Iron Man,106.2,0.8429,Iron Man,car,car
+Iron Man,106.45,0.8448,Iron Monger,Iron Man,Iron Monger
+Iron Man,106.57,0.8458,Iron Monger,Iron Man,Iron Monger
+Iron Man,106.68,0.8467,Iron Monger,Iron Man,Iron Monger
+Iron Man,106.77,0.8474,Iron Monger,Iron Man,Iron Monger
+Iron Man,106.87,0.8482,Iron Monger,Iron Man,Iron Monger
+Iron Man,107.1,0.85,Iron Monger,Iron Man,Iron Monger
+Iron Man,108.47,0.8609,Iron Monger,Iron Man,Iron Monger
+Iron Man,109.45,0.8687,Iron Monger,Iron Man,Iron Monger
+Iron Man,109.55,0.8694,Iron Monger,Iron Man,Iron Monger
+Iron Man,110.83,0.8796,Iron Monger,Iron Man,Iron Monger
+Iron Man,111.53,0.8852,Iron Monger,Iron Man,Iron Monger
+Iron Man,112.12,0.8898,Iron Monger,Iron Man,inconclusive
+Iron Man,112.28,0.8911,Iron Monger,Iron Man,inconclusive

@@ -1,0 +1,84 @@
+Title,Time,NormalisedTS,Party A,Party B,"Outcome (A, B,  inconclusive)"
+Thor,2.82,0.0245,Thor,car,car
+Thor,4.63,0.0403,Asgardian Mooks,Frost Giant Mooks,Asgardian Mooks
+Thor,10.33,0.0898,Asgardian Mooks,Frost Giant Mooks,Frost Giant Mooks
+Thor,10.67,0.0928,Destroyer,Frost Giant Mooks,Destroyer
+Thor,12.32,0.1071,Thor,table,Thor
+Thor,20.5,0.1783,Thor,Laufey,Thor
+Thor,20.6,0.1791,Thor,Frost Giant Mooks,Thor
+Thor,20.67,0.1797,Hogun,Frost Giant Mooks,Hogun
+Thor,20.72,0.1802,Sif,Frost Giant Mooks,Sif
+Thor,20.73,0.1803,Fandral,Frost Giant Mooks,Fandral
+Thor,20.77,0.1806,Loki,Frost Giant Mooks,Loki
+Thor,20.83,0.1811,Volstagg,Frost Giant Mooks,inconclusive
+Thor,20.85,0.1813,Thor,Frost Giant Mooks,Thor
+Thor,21.07,0.1832,Loki,Frost Giant Mooks,Frost Giant Mooks
+Thor,21.13,0.1837,Thor,Frost Giant Tank,Frost Giant Tank
+Thor,21.32,0.1854,Thor,Frost Giant Tank,Thor
+Thor,21.37,0.1858,Sif,Frost Giant Mooks,Frost Giant Mooks
+Thor,21.42,0.1863,Hogun,Frost Giant Mooks,Hogun
+Thor,21.7,0.1887,Sif,Frost Giant Mooks,Sif
+Thor,21.75,0.1891,Sif,Frost Giant Mooks,inconclusive
+Thor,21.83,0.1898,Volstagg,Frost Giant Mooks,inconclusive
+Thor,21.9,0.1904,Thor,Frost Giant Mooks,Thor
+Thor,21.95,0.1909,Loki,Frost Giant Mooks,Loki
+Thor,22.3,0.1939,Fandral,Frost Giant Mooks,Frost Giant Mooks
+Thor,22.42,0.195,Fandral,Frost Giant Mooks,Fandral
+Thor,22.47,0.1954,Fandral,Frost Giant Mooks,Frost Giant Mooks
+Thor,22.53,0.1959,Hogun,Frost Giant Mooks,Hogun
+Thor,22.63,0.1968,Thor,Frost Giant Mooks,Thor
+Thor,22.7,0.1974,Thor,Frost Giant Mooks,Thor
+Thor,22.93,0.1994,Thor,Frost Giant Mooks,Thor
+Thor,23.05,0.2004,Thor,Frost Giant Mooks,Thor
+Thor,23.33,0.2029,Thor,Frost Giant Mooks,Thor
+Thor,23.52,0.2045,Sif,Frost Giant Dragon,inconclusive
+Thor,23.65,0.2057,Thor,Frost Giant Mooks,Thor
+Thor,24.55,0.2135,Thor,Frost Giant Dragon,Thor
+Thor,25.48,0.2216,Odin,Laufey,Odin
+Thor,28.17,0.245,Odin,Thor,Odin
+Thor,29.92,0.2602,Thor,Darcy Lewis,Darcy Lewis
+Thor,30.83,0.2681,Thor,Orderly Mooks,Thor
+Thor,31.07,0.2702,Thor,Security Guard Mooks,Security Guard Mooks
+Thor,34.0,0.2957,Thor,car,car
+Thor,40.78,0.3546,Thor,coffee cup,Thor
+Thor,52.43,0.4559,Thor,SHIELD Mooks,Thor
+Thor,53.72,0.4671,Thor,SHIELD Mooks,Thor
+Thor,54.03,0.4698,Thor,SHIELD Mooks,Thor
+Thor,54.15,0.4709,Thor,SHIELD Mooks,Thor
+Thor,54.88,0.4772,Thor,SHIELD Tank,SHIELD Tank
+Thor,55.12,0.4793,Thor,SHIELD Tank,inconclusive
+Thor,55.18,0.4798,Thor,SHIELD Tank,Thor
+Thor,55.42,0.4819,Thor,SHIELD Tank,Thor
+Thor,72.95,0.6343,Fandral,Volstagg,inconclusive
+Thor,77.32,0.6723,Heimdall,Loki,Loki
+Thor,78.47,0.6823,Destroyer,SHIELD Mooks,Destroyer
+Thor,79.48,0.6911,Destroyer,Fandral,Destroyer
+Thor,79.48,0.6911,Destroyer,Hogun,Destroyer
+Thor,79.48,0.6911,Destroyer,Volstagg,Destroyer
+Thor,79.7,0.693,Destroyer,Sif,Sif
+Thor,80.02,0.6958,Destroyer,Sif,Destroyer
+Thor,80.15,0.697,Destroyer,Sif,Destroyer
+Thor,80.15,0.697,Destroyer,Fandral,Destroyer
+Thor,80.15,0.697,Destroyer,Hogun,Destroyer
+Thor,80.15,0.697,Destroyer,Volstagg,Destroyer
+Thor,80.5,0.7,Destroyer,Volstagg,Destroyer
+Thor,81.08,0.705,Destroyer,Thor,Destroyer
+Thor,82.78,0.7198,Destroyer,Thor,Destroyer
+Thor,85.1,0.74,Destroyer,Thor,Thor
+Thor,85.28,0.7416,Destroyer,Thor,inconclusive
+Thor,85.73,0.7455,Destroyer,Thor,inconclusive
+Thor,85.87,0.7467,Destroyer,Thor,Thor
+Thor,87.9,0.7643,Heimdall,Frost Giant Mooks,Heimdall
+Thor,89.22,0.7758,Frigga,Frost Giant Mooks,Frigga
+Thor,89.25,0.7761,Frigga,Laufey,Laufey
+Thor,89.82,0.781,Loki,Laufey,Loki
+Thor,90.75,0.7891,Loki,Thor,Loki
+Thor,91.53,0.7959,Loki,Thor,Loki
+Thor,92.37,0.8032,Loki,Thor,Loki
+Thor,93.1,0.8096,Loki,Thor,inconclusive
+Thor,93.3,0.8113,Loki,Thor,Loki
+Thor,93.52,0.8132,Loki,Thor,Thor
+Thor,93.7,0.8148,Loki,Thor,Thor
+Thor,94.05,0.8178,Loki,Thor,Thor
+Thor,94.38,0.8207,Loki,Thor,Thor
+Thor,95.73,0.8324,Loki,Thor,Thor

@@ -1,0 +1,169 @@
+Title,Time,NormalisedTS,Party A,Party B,"Outcome (A, B,  inconclusive)"
+Thor: Ragnarok,4.72,0.0363,Thor,Muspel Mooks,Thor
+Thor: Ragnarok,5.07,0.039,Thor,Muspel Mooks,Muspel Mooks
+Thor: Ragnarok,5.1,0.0392,Thor,Muspel Mooks,Thor
+Thor: Ragnarok,5.18,0.0398,Thor,Muspel Mooks,Thor
+Thor: Ragnarok,5.25,0.0404,Thor,Muspel Mooks,Thor
+Thor: Ragnarok,5.35,0.0412,Thor,Muspel Mooks,Thor
+Thor: Ragnarok,5.53,0.0425,Thor,Muspel Mooks,Thor
+Thor: Ragnarok,5.63,0.0433,Thor,Surtur,Surtur
+Thor: Ragnarok,5.77,0.0444,Thor,Surtur,Thor
+Thor: Ragnarok,5.87,0.0452,Thor,Surtur,Thor
+Thor: Ragnarok,5.92,0.0455,Thor,Surtur,Thor
+Thor: Ragnarok,6.03,0.0464,Thor,Surtur,Thor
+Thor: Ragnarok,7.0,0.0538,Thor,Muspel Mooks,Thor
+Thor: Ragnarok,7.13,0.0548,Thor,Muspel Mooks,Thor
+Thor: Ragnarok,7.52,0.0578,Thor,Muspel Dragon,Muspel Dragon
+Thor: Ragnarok,7.72,0.0594,Thor,Muspel Dragon,Thor
+Thor: Ragnarok,8.2,0.0631,Thor,Muspel Dragon,Muspel Dragon
+Thor: Ragnarok,24.03,0.1848,Thor,Hela,Hela
+Thor: Ragnarok,24.93,0.1918,Loki,Hela,Loki
+Thor: Ragnarok,25.07,0.1928,Thor,Hela,Hela
+Thor: Ragnarok,25.63,0.1972,Hela,Volstagg,Hela
+Thor: Ragnarok,25.68,0.1975,Hela,Fandral,Hela
+Thor: Ragnarok,25.77,0.1982,Hela,Volstagg,Hela
+Thor: Ragnarok,25.77,0.1982,Hela,Fandral,Hela
+Thor: Ragnarok,28.42,0.2186,Scrapper Mook,Thor,Thor
+Thor: Ragnarok,28.53,0.2195,Scrapper Mooks,Thor,Scrapper Mooks
+Thor: Ragnarok,29.87,0.2298,Valkyrie,Scrapper Mooks,Valkyrie
+Thor: Ragnarok,30.15,0.2319,Scrapper Mook,Valkyrie,Valkyrie
+Thor: Ragnarok,30.28,0.2329,Valkyrie,Thor,Valkyrie
+Thor: Ragnarok,33.1,0.2546,Hela,Hogun,Hela
+Thor: Ragnarok,33.25,0.2558,Hela,Asgardian Mooks,Hela
+Thor: Ragnarok,33.28,0.256,Hela,Asgardian Mooks,Hela
+Thor: Ragnarok,33.38,0.2568,Hela,Asgardian Mooks,Hela
+Thor: Ragnarok,33.42,0.2571,Hela,Asgardian Mooks,Hela
+Thor: Ragnarok,33.47,0.2575,Hela,Asgardian Aircraft,Hela
+Thor: Ragnarok,33.55,0.2581,Hela,Asgardian Mooks,Hela
+Thor: Ragnarok,33.6,0.2585,Hela,Asgardian Mooks,Hela
+Thor: Ragnarok,33.63,0.2587,Hela,Asgardian Mooks,Hela
+Thor: Ragnarok,33.7,0.2592,Hela,Asgardian Mooks,Hela
+Thor: Ragnarok,33.75,0.2596,Hela,Asgardian Mooks,Hela
+Thor: Ragnarok,33.83,0.2602,Hela,Asgardian Mooks,Hela
+Thor: Ragnarok,33.87,0.2605,Hela,Asgardian Mooks,Asgardian Mooks
+Thor: Ragnarok,33.9,0.2608,Hela,Asgardian Mooks,Hela
+Thor: Ragnarok,33.93,0.261,Hela,Asgardian Mooks,Hela
+Thor: Ragnarok,34.67,0.2667,Hela,Hogun,Hela
+Thor: Ragnarok,35.05,0.2696,Heimdall,Hela,Heimdall
+Thor: Ragnarok,37.73,0.2902,Valkyrie,Thor,Valkyrie
+Thor: Ragnarok,38.85,0.2988,Grandmaster,Cousin Carlo,Grandmaster
+Thor: Ragnarok,50.73,0.3902,Guard Mooks,Thor,Guard Mooks
+Thor: Ragnarok,55.0,0.4231,Hulk,Thor,inconclusive
+Thor: Ragnarok,55.03,0.4233,Hulk,Thor,Hulk
+Thor: Ragnarok,55.4,0.4262,Hulk,Thor,Hulk
+Thor: Ragnarok,55.67,0.4282,Hulk,Thor,Thor
+Thor: Ragnarok,56.48,0.4345,Hulk,Thor,Hulk
+Thor: Ragnarok,56.98,0.4383,Hulk,Thor,Thor
+Thor: Ragnarok,57.12,0.4394,Hulk,Thor,Thor
+Thor: Ragnarok,57.23,0.4402,Hulk,Thor,Hulk
+Thor: Ragnarok,57.25,0.4404,Hulk,Thor,Thor
+Thor: Ragnarok,57.37,0.4413,Hulk,Thor,Thor
+Thor: Ragnarok,57.5,0.4423,Hulk,Thor,Thor
+Thor: Ragnarok,57.62,0.4432,Hulk,Thor,Hulk
+Thor: Ragnarok,57.92,0.4455,Hulk,Thor,Hulk
+Thor: Ragnarok,58.05,0.4465,Hulk,Thor,Hulk
+Thor: Ragnarok,58.22,0.4478,Hulk,Thor,Thor
+Thor: Ragnarok,58.78,0.4522,Hulk,Thor,Thor
+Thor: Ragnarok,59.2,0.4554,Grandmaster,Thor,Grandmaster
+Thor: Ragnarok,59.67,0.459,Hulk,Thor,Hulk
+Thor: Ragnarok,61.75,0.475,Heimdall,Undead Mooks,Heimdall
+Thor: Ragnarok,61.83,0.4756,Heimdall,Undead Mooks,Heimdall
+Thor: Ragnarok,67.83,0.5218,Heimdall,Undead Mooks,Heimdall
+Thor: Ragnarok,70.3,0.5408,Valkyrie,Hulk,Valkyrie
+Thor: Ragnarok,72.98,0.5614,Thor,ball,ball
+Thor: Ragnarok,78.8,0.6062,Loki,Valkyrie,Valkyrie
+Thor: Ragnarok,79.0,0.6077,Loki,Valkyrie,Loki
+Thor: Ragnarok,79.08,0.6083,Loki,Valkyrie,Valkyrie
+Thor: Ragnarok,79.48,0.6114,Hela,Valkyrie Mook,Hela
+Thor: Ragnarok,79.83,0.6141,Hela,Valkyrie,Hela
+Thor: Ragnarok,80.02,0.6155,Valkyrie,Loki,Valkyrie
+Thor: Ragnarok,83.37,0.6413,Valkyrie,Tank,Valkyrie
+Thor: Ragnarok,88.38,0.6798,Loki,Grandmaster Mooks,Loki
+Thor: Ragnarok,88.38,0.6798,Thor,Grandmaster Mooks,Thor
+Thor: Ragnarok,88.83,0.6833,Loki,Grandmaster Mooks,Grandmaster Mooks
+Thor: Ragnarok,88.83,0.6833,Thor,Grandmaster Mooks,Grandmaster Mooks
+Thor: Ragnarok,88.93,0.6841,Loki,Grandmaster Mooks,Loki
+Thor: Ragnarok,88.93,0.6841,Thor,Grandmaster Mooks,Thor
+Thor: Ragnarok,89.13,0.6856,Thor,Grandmaster Mooks,Thor
+Thor: Ragnarok,93.8,0.7215,Valkyrie,Grandmaster Aircraft,Valkyrie
+Thor: Ragnarok,94.03,0.7233,Thor,Grandmaster Aircraft,Thor
+Thor: Ragnarok,94.3,0.7254,Valkyrie,Grandmaster Aircraft,Valkyrie
+Thor: Ragnarok,94.38,0.726,Thor,Grandmaster Aircraft,Thor
+Thor: Ragnarok,94.92,0.7302,Thor,Grandmaster Aircraft,Thor
+Thor: Ragnarok,102.55,0.7888,Thor,Hela,inconclusive
+Thor: Ragnarok,103.28,0.7945,Valkyrie,Fenris,Valkyrie
+Thor: Ragnarok,103.6,0.7969,Thor,Hela,Thor
+Thor: Ragnarok,103.67,0.7975,Thor,Hela,Hela
+Thor: Ragnarok,103.82,0.7986,Thor,Hela,Hela
+Thor: Ragnarok,104.0,0.8,Thor,Hela,Hela
+Thor: Ragnarok,104.25,0.8019,Thor,Hela,Hela
+Thor: Ragnarok,104.37,0.8028,Thor,Hela,Hela
+Thor: Ragnarok,104.47,0.8036,Asgardian Mooks,Undead Mooks,Asgardian Mooks
+Thor: Ragnarok,104.52,0.804,Valkyrie,Fenris,Valkyrie
+Thor: Ragnarok,105.55,0.8119,Hulk,Fenris,Hulk
+Thor: Ragnarok,105.82,0.814,Hulk,Fenris,Fenris
+Thor: Ragnarok,105.82,0.814,Undead Mooks,Valkyrie,inconclusive
+Thor: Ragnarok,105.95,0.815,Hela,Thor,Hela
+Thor: Ragnarok,106.1,0.8162,Asgardian Mooks,Undead Mooks,Undead Mooks
+Thor: Ragnarok,106.13,0.8164,Asgardian Mooks,Undead Mooks,Asgardian Mooks
+Thor: Ragnarok,106.17,0.8167,Asgardian Mooks,Undead Mooks,Undead Mooks
+Thor: Ragnarok,106.33,0.8179,Undead Mooks,Valkyrie,Undead Mooks
+Thor: Ragnarok,106.43,0.8187,Heimdall,Undead Mooks,Heimdall
+Thor: Ragnarok,106.45,0.8188,Heimdall,Undead Mooks,Undead Mooks
+Thor: Ragnarok,106.53,0.8195,Korg,Undead Mooks,Korg
+Thor: Ragnarok,106.97,0.8228,Hela,Thor,Hela
+Thor: Ragnarok,107.13,0.8241,Korg,Undead Mooks,Korg
+Thor: Ragnarok,107.13,0.8241,Miek,Undead Mooks,Miek
+Thor: Ragnarok,107.25,0.825,Korg,Undead Mooks,Korg
+Thor: Ragnarok,107.3,0.8254,Miek,Undead Mooks,Miek
+Thor: Ragnarok,107.38,0.826,Undead Mooks,Gladiator Mook,Undead Mooks
+Thor: Ragnarok,107.45,0.8265,Hela,Thor,Hela
+Thor: Ragnarok,109.22,0.8402,Thor,Hela,Thor
+Thor: Ragnarok,109.23,0.8402,Heimdall,Undead Mooks,Heimdall
+Thor: Ragnarok,109.53,0.8425,Thor,Undead Mooks,Thor
+Thor: Ragnarok,109.72,0.844,Thor,Undead Mooks,Thor
+Thor: Ragnarok,109.77,0.8444,Thor,Undead Mooks,Thor
+Thor: Ragnarok,109.8,0.8446,Thor,Undead Mooks,Thor
+Thor: Ragnarok,109.83,0.8448,Thor,Undead Mooks,Thor
+Thor: Ragnarok,109.88,0.8452,Thor,Undead Mooks,Thor
+Thor: Ragnarok,110.05,0.8465,Valkyrie,Undead Mooks,Valkyrie
+Thor: Ragnarok,110.13,0.8472,Fenris,Hulk,Hulk
+Thor: Ragnarok,110.23,0.8479,Loki,Undead Mooks,Loki
+Thor: Ragnarok,110.33,0.8487,Thor,Undead Mooks,Thor
+Thor: Ragnarok,110.42,0.8494,Thor,Undead Mooks,Thor
+Thor: Ragnarok,110.45,0.8496,Thor,Undead Mooks,Thor
+Thor: Ragnarok,110.5,0.85,Thor,Undead Mooks,Thor
+Thor: Ragnarok,110.55,0.8504,Thor,Undead Mooks,Thor
+Thor: Ragnarok,110.73,0.8518,Korg,Undead Mooks,Korg
+Thor: Ragnarok,110.77,0.8521,Heimdall,Undead Mooks,Heimdall
+Thor: Ragnarok,110.83,0.8525,Valkyrie,Undead Mooks,Valkyrie
+Thor: Ragnarok,110.9,0.8531,Fenris,Hulk,Fenris
+Thor: Ragnarok,111.05,0.8542,Fenris,Hulk,Hulk
+Thor: Ragnarok,112.77,0.8675,Thor,Hela,Thor
+Thor: Ragnarok,112.83,0.8679,Valkyrie,Hela,Hela
+Thor: Ragnarok,112.93,0.8687,Thor,Hela,Thor
+Thor: Ragnarok,113.0,0.8692,Thor,Hela,Hela
+Thor: Ragnarok,113.25,0.8712,Thor,Hela,Hela
+Thor: Ragnarok,113.3,0.8715,Valkyrie,Hela,Hela
+Thor: Ragnarok,113.38,0.8722,Hela,Thor,Hela
+Thor: Ragnarok,113.47,0.8728,Hela,aircraft,Hela
+Thor: Ragnarok,113.95,0.8765,Asgardian Mooks,Undead Mooks,Undead Mooks
+Thor: Ragnarok,114.02,0.8771,Skurge,Undead Mooks,Skurge
+Thor: Ragnarok,114.08,0.8775,Skurge,Undead Mooks,Skurge
+Thor: Ragnarok,114.25,0.8788,Skurge,Undead Mooks,Skurge
+Thor: Ragnarok,114.42,0.8802,Skurge,Undead Mooks,Skurge
+Thor: Ragnarok,114.45,0.8804,Skurge,Undead Mooks,Skurge
+Thor: Ragnarok,114.67,0.8821,Skurge,Undead Mooks,Skurge
+Thor: Ragnarok,114.72,0.8825,Skurge,Undead Mooks,Skurge
+Thor: Ragnarok,114.78,0.8829,Skurge,Undead Mooks,Skurge
+Thor: Ragnarok,114.83,0.8833,Skurge,Undead Mooks,Skurge
+Thor: Ragnarok,114.85,0.8835,Hela,Skurge,Hela
+Thor: Ragnarok,115.7,0.89,Valkyrie,Hela,Valkyrie
+Thor: Ragnarok,115.78,0.8906,Thor,Hela,Thor
+Thor: Ragnarok,116.45,0.8958,Hulk,Surtur,Hulk
+Thor: Ragnarok,116.6,0.8969,Hulk,Surtur,Surtur
+Thor: Ragnarok,117.03,0.9002,Hela,Surtur,Hela
+Thor: Ragnarok,117.18,0.9014,Hela,Surtur,Hela
+Thor: Ragnarok,117.5,0.9038,Surtur,Hela,Surtur
+Thor: Ragnarok,118.0,0.9077,Surtur,Asgard,Surtur
+Thor: Ragnarok,130.25,1.0019,Scrapper Mooks,Grandmaster,inconclusive

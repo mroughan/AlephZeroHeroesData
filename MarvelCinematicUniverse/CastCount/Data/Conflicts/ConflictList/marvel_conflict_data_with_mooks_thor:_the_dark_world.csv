@@ -1,0 +1,91 @@
+Title,Time,NormalisedTS,Party A,Party B,"Outcome (A, B,  inconclusive)"
+Thor: The Dark World,1.38,0.0123,"Bor, Asgardian Mooks",Malekith,"Bor, Asgardian Mooks"
+Thor: The Dark World,1.38,0.0123,Bor,Kurse,Bor
+Thor: The Dark World,1.38,0.0123,Asgardian Mooks,Kurse,Asgardian Mooks
+Thor: The Dark World,1.38,0.0123,Bor,Dark Elf Mooks,Bor
+Thor: The Dark World,1.38,0.0123,Asgardian Mooks,Dark Elf Mooks,Asgardian Mooks
+Thor: The Dark World,1.38,0.0123,Asgardian Mooks,Malekith,Asgardian Mooks
+Thor: The Dark World,1.38,0.0123,Asgardian Mooks,Kurse,Asgardian Mooks
+Thor: The Dark World,1.38,0.0123,Asgardian Mooks,Dark Elf Mooks,Asgardian Mooks
+Thor: The Dark World,6.15,0.0549,Sif,Marauder Mooks,Sif
+Thor: The Dark World,6.2,0.0554,Volstagg,Marauder Mooks,Volstagg
+Thor: The Dark World,6.33,0.0565,Sif,Marauder Mooks,Sif
+Thor: The Dark World,6.35,0.0567,Sif,Marauder Mooks,Marauder Mooks
+Thor: The Dark World,6.35,0.0567,Thor,Marauder Mooks,Thor
+Thor: The Dark World,6.65,0.0594,Thor,Marauder Mooks,Thor
+Thor: The Dark World,6.77,0.0604,Thor,Marauder Mooks,Marauder Mooks
+Thor: The Dark World,6.83,0.061,Fandral,Marauder Mooks,Fandral
+Thor: The Dark World,6.87,0.0613,Hogun,Marauder Mooks,Hogun
+Thor: The Dark World,6.95,0.0621,Fandral,Marauder Mooks,Fandral
+Thor: The Dark World,7.03,0.0628,Sif,Marauder Mooks,Sif
+Thor: The Dark World,7.05,0.0629,Thor,Marauder Mooks,Marauder Mooks
+Thor: The Dark World,7.13,0.0637,Thor,Marauder Mooks,Marauder Mooks
+Thor: The Dark World,7.13,0.0637,Sif,Marauder Mooks,Sif
+Thor: The Dark World,7.25,0.0647,Thor,Marauder Mooks,Thor
+Thor: The Dark World,8.12,0.0725,Thor,Marauder Tank,Thor
+Thor: The Dark World,26.83,0.2396,Jane Foster,Police Mooks,Jane Foster
+Thor: The Dark World,30.08,0.2686,Jane Foster,Asgardian Mooks,Jane Foster
+Thor: The Dark World,36.93,0.3297,Kurse,Marauder Mooks,Kurse
+Thor: The Dark World,37.4,0.3339,Kurse,Asgardian Mooks,Kurse
+Thor: The Dark World,38.38,0.3427,Marauder Mooks,Asgardian Mooks,inconclusive
+Thor: The Dark World,38.67,0.3453,Volstagg,Marauder Mooks,Volstagg
+Thor: The Dark World,38.73,0.3458,Fandral,Marauder Mooks,Fandral
+Thor: The Dark World,38.83,0.3467,Volstagg,Marauder Mooks,Volstagg
+Thor: The Dark World,39.17,0.3497,Thor,Marauder Mooks,Thor
+Thor: The Dark World,40.47,0.3613,Heimdall,Dark Elf Aircraft,Heimdall
+Thor: The Dark World,42.42,0.3788,Kurse,Asgardian Mooks,Kurse
+Thor: The Dark World,43.93,0.3922,Dark Elf Mooks,Asgardian Mooks,Dark Elf Mooks
+Thor: The Dark World,44.08,0.3936,Dark Elf Mooks,Asgardian Mooks,Dark Elf Mooks
+Thor: The Dark World,44.32,0.3957,Dark Elf Mooks,Asgardian Mooks,Asgardian Mooks
+Thor: The Dark World,44.37,0.3962,Dark Elf Mooks,Asgardian Mooks,Dark Elf Mooks
+Thor: The Dark World,44.95,0.4013,Odin,Dark Elf Mooks,Odin
+Thor: The Dark World,45.58,0.407,Frigga,Malekith,Frigga
+Thor: The Dark World,45.68,0.4079,Frigga,Malekith,inconclusive
+Thor: The Dark World,45.82,0.4091,Frigga,Malekith,Frigga
+Thor: The Dark World,45.88,0.4096,Frigga,Kurse,Kurse
+Thor: The Dark World,46.48,0.415,Frigga,Kurse,Kurse
+Thor: The Dark World,46.58,0.4159,Thor,Malekith,Thor
+Thor: The Dark World,46.58,0.4159,Thor,Malekith,Malekith
+Thor: The Dark World,46.58,0.4159,Thor,Kurse,Kurse
+Thor: The Dark World,59.42,0.5305,Sif,Asgardian Mooks,Sif
+Thor: The Dark World,59.67,0.5328,Jane Foster,Loki,inconclusive
+Thor: The Dark World,61.47,0.5488,Volstagg,Asgardian Mooks,Volstagg
+Thor: The Dark World,61.57,0.5497,Volstagg,Asgardian Mooks,inconclusive
+Thor: The Dark World,61.88,0.5525,Volstagg,Asgardian Mooks,Asgardian Mooks
+Thor: The Dark World,64.73,0.5779,Fandral,Asgardian Mooks,Fandral
+Thor: The Dark World,73.45,0.6558,Thor,the Aether,Thor
+Thor: The Dark World,74.38,0.6641,Thor,Dark Elf Mooks,Thor
+Thor: The Dark World,74.62,0.6662,Loki,Kurse,Loki
+Thor: The Dark World,74.65,0.6665,Thor,Kurse,Thor
+Thor: The Dark World,74.9,0.6688,Thor,Kurse,Kurse
+Thor: The Dark World,75.2,0.6714,Loki,Dark Elf Mooks,Loki
+Thor: The Dark World,75.37,0.6729,Thor,Kurse,Kurse
+Thor: The Dark World,75.7,0.6759,Thor,Kurse,Kurse
+Thor: The Dark World,75.82,0.677,Thor,Kurse,inconclusive
+Thor: The Dark World,75.92,0.6779,Loki,Dark Elf Mooks,Loki
+Thor: The Dark World,76.15,0.6799,Thor,Kurse,Kurse
+Thor: The Dark World,76.3,0.6812,Loki,Kurse,Loki
+Thor: The Dark World,76.38,0.682,Loki,Kurse,Kurse
+Thor: The Dark World,84.98,0.7588,Thor,Malekith,Malekith
+Thor: The Dark World,85.2,0.7607,Thor,Malekith,Malekith
+Thor: The Dark World,85.38,0.7623,Thor,Malekith,Malekith
+Thor: The Dark World,85.57,0.764,Thor,Malekith,Thor
+Thor: The Dark World,85.82,0.7662,Thor,Malekith,inconclusive
+Thor: The Dark World,86.77,0.7747,Thor,Malekith,Thor
+Thor: The Dark World,86.82,0.7752,Thor,Malekith,Malekith
+Thor: The Dark World,87.12,0.7779,Thor,Malekith,inconclusive
+Thor: The Dark World,87.18,0.7784,Thor,Malekith,Malekith
+Thor: The Dark World,87.25,0.779,Thor,Malekith,Thor
+Thor: The Dark World,87.58,0.782,Thor,Malekith,inconclusive
+Thor: The Dark World,87.75,0.7835,Thor,Malekith,inconclusive
+Thor: The Dark World,87.83,0.7842,Thor,Malekith,Malekith
+Thor: The Dark World,88.7,0.792,Jane Foster,Dark Elf Mooks,Dark Elf Mooks
+Thor: The Dark World,88.7,0.792,Selvig,Dark Elf Mooks,Dark Elf Mooks
+Thor: The Dark World,88.98,0.7945,Thor,Frost Giant Dragon,Frost Giant Dragon
+Thor: The Dark World,88.98,0.7945,Malekith,Frost Giant Dragon,Frost Giant Dragon
+Thor: The Dark World,89.03,0.7949,"Darcy Lewis, Ian Boothby",Dark Elf Mooks,Dark Elf Mooks
+Thor: The Dark World,89.08,0.7954,Frost Giant Dragon,Dark Elf Mooks,Frost Giant Dragon
+Thor: The Dark World,89.38,0.798,Ian Boothby,Dark Elf Mooks,Ian Boothby
+Thor: The Dark World,91.7,0.8188,Thor,the Aether,Thor
+Thor: The Dark World,92.83,0.8288,Thor,Malekith,Thor
+Thor: The Dark World,107.27,0.9578,Frost Giant Dragon,swallows,inconclusive

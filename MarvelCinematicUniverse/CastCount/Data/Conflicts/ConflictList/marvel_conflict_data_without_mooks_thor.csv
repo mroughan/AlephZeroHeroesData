@@ -1,0 +1,35 @@
+Title,Time,NormalisedTS,Party A,Party B,"Outcome (A, B,  inconclusive)"
+Thor,20.5,0.1783,Thor,Laufey,Thor
+Thor,25.48,0.2216,Odin,Laufey,Odin
+Thor,28.17,0.245,Odin,Thor,Odin
+Thor,29.92,0.2602,Thor,Darcy Lewis,Darcy Lewis
+Thor,72.95,0.6343,Fandral,Volstagg,inconclusive
+Thor,77.32,0.6723,Heimdall,Loki,Loki
+Thor,79.48,0.6911,Destroyer,Fandral,Destroyer
+Thor,79.48,0.6911,Destroyer,Hogun,Destroyer
+Thor,79.48,0.6911,Destroyer,Volstagg,Destroyer
+Thor,79.7,0.693,Destroyer,Sif,Sif
+Thor,80.02,0.6958,Destroyer,Sif,Destroyer
+Thor,80.15,0.697,Destroyer,Sif,Destroyer
+Thor,80.15,0.697,Destroyer,Fandral,Destroyer
+Thor,80.15,0.697,Destroyer,Hogun,Destroyer
+Thor,80.15,0.697,Destroyer,Volstagg,Destroyer
+Thor,80.5,0.7,Destroyer,Volstagg,Destroyer
+Thor,81.08,0.705,Destroyer,Thor,Destroyer
+Thor,82.78,0.7198,Destroyer,Thor,Destroyer
+Thor,85.1,0.74,Destroyer,Thor,Thor
+Thor,85.28,0.7416,Destroyer,Thor,inconclusive
+Thor,85.73,0.7455,Destroyer,Thor,inconclusive
+Thor,85.87,0.7467,Destroyer,Thor,Thor
+Thor,89.25,0.7761,Frigga,Laufey,Laufey
+Thor,89.82,0.781,Loki,Laufey,Loki
+Thor,90.75,0.7891,Loki,Thor,Loki
+Thor,91.53,0.7959,Loki,Thor,Loki
+Thor,92.37,0.8032,Loki,Thor,Loki
+Thor,93.1,0.8096,Loki,Thor,inconclusive
+Thor,93.3,0.8113,Loki,Thor,Loki
+Thor,93.52,0.8132,Loki,Thor,Thor
+Thor,93.7,0.8148,Loki,Thor,Thor
+Thor,94.05,0.8178,Loki,Thor,Thor
+Thor,94.38,0.8207,Loki,Thor,Thor
+Thor,95.73,0.8324,Loki,Thor,Thor
